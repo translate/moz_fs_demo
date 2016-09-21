@@ -1,0 +1,266 @@
+# Used as meta HTML tag (page title);Firefox OS — Just what you need — Great smartphone features, apps and more
+Firefox OS — Ri kan nik'atzin chawe —Jun oyonib'äl rik'in utziläj taq b'anikil, taq chokoy chuqa' ch'aqa' chik
+
+
+# Used as meta HTML tag (page description);Firefox OS is designed to give you just what you need, just when you need it. It comes with apps for all you do and you can download more of your favorites from the Firefox Marketplace. Smart has never been so simple.
+Wachib'en ri Firefox OS richin niya' chawe ri nawajo' toq nik'atzin chawe. Petenäq kik'in ch'aqa' chik taq chokoy pa ruwi' ronojel ri nab'än chuqa' yatikïr naqasaj ri ütz ye'atz'ët pa Firefox Marketplace. Ri Smart majub'ey man ta k'ayew rub'anikil.
+
+
+# Used as og:description for sharing purposes (Open Graph);Designed to give you just what you need in a smartphone, with apps for all you do and more. Smart has never been so simple.
+Wachib'en richin niya' chawe ri nawajo' pa jun na'owinäq oyonib'äl, kik'in taq chokoy pa ruwi' ronojel ri nab'än chuqa' ch'aqa' chik. Smart majub'ey man ta k'ayew rub'anikil.
+
+
+# Obsolete, do not remove.;Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
+Firefox OS — Ri k'amonel oyonib'äl — Nimaläj taq b'anikil kichin na'owinäq taq oyonib'äl, utziläj taq chokoy chuqa' ch'aqa' chik
+
+
+# Obsolete, do not remove.;Firefox OS smartphones give you great adaptive features and apps that let you live every moment to its fullest and build a brighter future for the Web.
+Firefox OS na'owinäq taq oyonib'äl nikiya' chawe utziläj taq k'amonel b'anikil chuqa' taq chokoy ri nikiya' q'ij chawe chi ütz at k'äs pa ronojel ri ramaj chuqa' chi tinuk' jun ütz ruk'aslem ri Ajk'amaya'l.
+
+
+# Alternative text for top image;Firefox OS device illustration
+Ruwachib'exik ri okisaxel Firefox OS
+
+
+;Designed to give you just what you need, just when you need it.
+Wachib'en richin niya' chawe ri kan nik'atzin chawe toq nik'atzin chawe.
+
+
+# Title used above the animation (click on the phone image);Give these a try
+Ke'atojtob'ej
+
+
+# Used as a button label in the animation at the top of the page;Scroll the homepage
+Tiq'asäx ri ruxaq tikirib'äl
+
+
+# Used as a button label in the animation at the top of the page;Swipe between apps
+Tijilïx chi kikojol taq chokoy
+
+
+# Title;Smart has never been so simple
+Atna'owinäq majub'ey man k'ayew ta achi'el wakami
+
+
+# Alternative text for icon;interaction icon
+ruwachib'al jutzijonem
+
+
+# Sub-section title;Scroll for what you need
+Tiq'asäx richin nikanöx ri nawajo'
+
+
+;Say goodbye to multiple home screens. Everything you need is right there in one clean, continuous scroll. What could be easier?
+Yojch'o chik tab'ij chi ke jalajöj taq kiwäch tikirib'äl. Ronojel ri nawajo' k'o pa jun relik chuqa' tikirisanel ruq'axik. ¿La kan man k'ayew ta?
+
+
+# Sub-section title;Search in a snap
+Tikanöx pa jun ti mej
+
+
+;Search the Web and the Firefox Marketplace, or visit a website directly — all from the search bar at the top of your home screen.
+Tikanöx pan Ajk'amaya'l chuqa' pa Firefox Marketplace, o jumul tib'etz'et jun ruxaq ajk'amaya'l — ronojel pa rukajtz'ik kanob'äl ajsik chi re ri nimaläj ruwäch.
+
+
+# Sub-section title
+# The &nbsp; (non-breaking space) is used only to differentiate this title from the button label "Swipe" between apps
+# Feel free to use the same translation and drop the non-breaking space in your translation.;Swipe&nbsp;between apps
+Tijilïx&nbsp; chi kikojol taq chokoy
+
+
+;Access your recently used apps in a flash. Just swipe from the edge of the screen to cycle through all of your open apps.
+Katok chi kipam ri taq achokoy k'a ja' ke'awokisaj pa jun ti mej. Xa xe tajilij chuxikin ri ruwäch richin yaq'ax kik'in konojel ri taq chokoy e'ajaqon.
+
+
+# Currently not used in the page, will be used for 1.1 fallback content;Firefox OS is designed to fit your life and with Adaptive App Search it does just that. Just start typing to get fast and easy access to related apps and local content. It’s smart and simple — the way every search should be.
+Firefox OS wachib'en richin nuk'äm ri' pan ak'aslem chuqa' kik'in taq Ruchokoy ajk'amonel kikanoxik, ri kan nub'än ri ri'. Xa xe tachapa' rutz'ib'axik richin nak'ül aninäq chuqa' man k'ayew ta okem pa ri taq chokoy kiximon ki' chuqa' aj wawe' taq rupam. Na'owinäq chuqa' relik — ri rub'anikil chi kijujunal taq kanoxïk, ri nrajo'.
+
+
+;Apps for all you do
+Taq chokoy richin ronojel ri nab'än
+
+
+;Stay connected
+Tokisan
+
+
+;Stay entertained
+Tik'astan
+
+
+;Stay organized
+Tichojmirisan
+
+
+# Placeholder text for the search bar, imported from Gaia 2.0;Search or enter address
+Tikanöx chuqa' titz'ib'äx ri ochochib'äl
+
+
+# Time used in the phone image. It should replicate Gaia's actual time format for your locale.;12:34 PM
+12:34 PM {ok}
+
+
+# App name imported from Gaia 2.0;Phone
+Oyonib'äl
+
+
+# App name imported from Gaia 2.0;Camera
+Elesäy wachib'äl
+
+
+# App name imported from Gaia 2.0;Video
+Silowachib'äl
+
+
+# App name imported from Gaia 2.0;E-Mail
+Taqoya'l
+
+
+# App name imported from Gaia 2.0;Messages
+Kitzijol taqoj
+
+
+# App name imported from Gaia 2.0;Calendar
+Cholb'äl q'ij
+
+
+# App name imported from Gaia 2.0;Browser
+Okik'amaya'l
+
+
+# App name imported from Gaia 2.0;Clock
+Q'ijub'äl
+
+
+# App name imported from Gaia 2.0;Contacts
+Kib'i' achib'il
+
+
+# App name imported from Gaia 2.0;Music
+Q'ojom
+
+
+# App name imported from Gaia 2.0;FM Radio
+FM Talutzij
+
+
+# App name imported from Gaia 2.0;Settings
+Nuk’uj
+
+
+# App name imported from Gaia 2.0;Gallery
+Wachib'äl
+
+
+# App name imported from Gaia 2.0;Usage
+Tijnem
+
+
+;Add more from the Firefox Marketplace
+Tatz'aqatisaj ch'aqa' chik rik'in Firefox Marketplace
+
+
+;Get all the most popular games and social networking apps right here.
+Kek'ul ri ajtz'etel taq etz'anem chuqa' taq chokoy kichin taq k'amawinaqil wawe'.
+
+
+;Go to the Marketplace
+Tib'an b'enam pa Marketplace
+
+
+;* Pre-installed apps may vary by manufacturers and operators.
+* Taq chokoy eyakon wi tikirel yejalwachïx kuma ri ajb'anöy chuqa' ri ajk'wayonela'.
+
+
+;In the news
+Taq rutzijol
+
+
+;See more
+Titz'et ch'aqa' chik
+
+
+# Alternative text for community image;Mozilla community photo
+Ruwachib'al ri Mozilla molaj winäq
+
+
+;Powered by the Mozilla community
+B'anon ruma ri Mozilla molaj winäq
+
+
+;Mozilla is a non-profit organization fueled by a passionate global community. Together, we’re able to create and innovate with local interests in mind, while making the Web better and more accessible for everyone everywhere.
+Mozilla jun molaj man rojqan ta ch'akoj, q'alajisan kuma jun aj ruwach'ulew ajowel molaj winäq. Chi qonojel yojtikïr niqanük' chuqa' niqajalnük' chi jalajöj rub'anikil, toq niqab'än jun utziläj chuqa' okel Ajk'amaya'l chi kiwa konojel, xab'akuchi'.
+
+
+;Learn more about Mozilla
+Tetamäx ch'aqa' chik chi rij ri Mozilla
+
+
+;Need Help?
+¿La nawajo' ato'ik?
+
+
+;Firefox OS Support
+Ruto'ik Firefox OS
+
+
+# App name imported from Gaia 2.0;Find My Device
+Tikanöx ri wokisaxel
+
+
+;For Developers
+Kichin b'anonela'
+
+
+;Mozilla Developer Network
+Kik'amab'ey rub'anonela' Mozilla
+
+
+;Mozilla Appmaker
+Mozilla Appmaker {ok}
+
+
+;Firefox OS devices
+Taq okisaxel rik'in Firefox OS
+
+
+;Where is Firefox OS available?
+¿Akuchi' k'o Firefox OS?
+
+
+;Other Firefox OS versions
+Ch'aqa' chik ruwäch Firefox OS
+
+
+;For Partners
+Kichin achib'ilal
+
+
+;Partnership opportunities
+Samaj richin tunujri'ïl
+
+
+# Module "Get a phone", displayed in countries where phones are commercialized by operators;We work with a number of providers to offer Firefox OS on a variety of devices.
+Yojsamäj kik'in jun kicholajem ajya'öl richin nusüj chawe ri Firefox OS pa jalajöj kiwäch taq okisaxel.
+
+
+# Case 1: There are several phone providers;Choose one from the list below to get a Firefox OS smartphone in your country.
+Tacha' jun pa ri rucholajem richin nak'ül jun oyonib'äl Firefox OS pa ri amaq'el atinaminatil.
+
+
+# Case 2: There is only one provider in the country;Click on the provider below to get a Firefox OS smartphone in your country.
+Tapitz'a' pa ri ajya'öl richin nak'ül jun oyonib'äl Firefox OS pa ri amaq'el atinaminatil
+
+
+;Sign up for our monthly newsletter
+Tatz'ib'aj awi' pa ri ajik' ko'öl qawuj
+
+
+;Thank you for signing up!
+¡Matyox ruma xatz'ib'aj ab'i'!
+
+
+;Sign up for our monthly newsletter and get the latest on Firefox OS
+Tatz'ib'aj ab'i' pa ri ajik' ko'öl qawuj richin ye'ak'ül ri ruk'isib'äl taq rutzijol Firefox OS
+
+

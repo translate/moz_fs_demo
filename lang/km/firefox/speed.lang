@@ -1,0 +1,48 @@
+;How fast is your Firefox?
+តើ Firefox របស់​អ្នក​លឿន​​របៀប​ណា?
+
+
+# Bug 957283: wording modification just for pt-BR;New Firefox is up to 7 times faster. (That’s a lot!) Check the speedometer to see if yours can keep up.
+Firefox ថ្មី​បង្កើន​ល្បឿន​លឿន​ជាង​មុន  7 ដង (ជា​ច្រើន!) ធីក​ការ​ស្ទង់​ល្បឿន​​ដើម្បី​ពិនិត្យមើល។
+
+
+;Learn more
+ស្វែងយល់​​បន្ថែម
+
+
+;Old Firefox = <em>Sadface</em>
+Firefox ចាស់ = <em>Sadface</em>
+
+
+;New Firefox = <em>Yay!</em>
+Firefox ថ្មី = <em>Yay!</em>
+
+
+;That just isn’t going to cut it. Stop browsing in the past and <a href="%(url)s">upgrade now!</a>
+នឹង​មិន​កាត់​វា។ បញ្ឈប់​ការ​រកមើល​​ពីមុន <a href="%(url)s">ធ្វើ​ឲ្យ​ទាន់​សម័យ​ឥឡូវ​នេះ!</a>
+
+
+;Now we’re talking!
+ឥឡូវ​នេះ​យើង​កំពុង​និយាយ!
+
+
+;Feels better, doesn’t it? Welcome to the future of the Web. It’s nice here.
+ល្អ​ប្រសើរ, មិន​មែន​វា? ស្វាគមន៍​មកកាន់​លក្ខណៈ​នៃ​បណ្ដាញ។ វា​ល្អ​នៅ​ទីនេះ។
+
+
+;Hey, looks like you’re using %BROWSER%. Why not grab Firefox and get up to speed.
+សួស្ដី, អ្នក​កំពុង​ប្រើ %BROWSER% ។ ហេតុ​​អ្វី​មិន​ប្រើ​ Firefox ។
+
+
+;Hey, looks like you’re not using Firefox as your browser. Why not grab Firefox and get up to speed.
+សួស្ដី, អ្នក​មិន​កំពុង​ប្រើ​កម្មវិធី​អ៊ីនធឺណិត Firefox ទេ។ ហេតុ​អ្វី​បាន​ជា​អ្នក​មិន​ប្រើ Firefox ។
+
+
+;New Firefox is faster, free (as always), crashes less and protects your privacy more.
+Firefox ថ្មី​មាន​ល្បឿន​លឿន, ឥត​គិត​ថ្លៃ (ជា​និច្ច), គ្មាន​ការ​គាំង និង​​ការ​ពារ​ភាព​ឯកជន​របស់​អ្នក​។
+
+
+;<a href="%(url)s">Upgrading</a> takes less than a minute and you won’t lose your history or bookmarks. Hooray!
+<a href="%(url)s">ដំឡើង​កំណែ</a> ចំណាយ​ពេល​តិច​ជាង​មួយ​នាទី ហើយ​អ្នក​នឹង​មិន​បាត់​ប្រវត្តិ ឬ​ចំណាំ។ រ្ហេ៎!
+
+

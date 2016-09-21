@@ -1,0 +1,64 @@
+# This is the string for the <title> tag on the page.;Download Firefox Developer Edition or Beta &amp; Help Determine the Next Firefox
+Firefox ডেভেলপার সংস্করণ বা Beta ডাউনলোড করুন &amp; পরবর্তী Firefox নির্ধারণ করতে সাহায্য করুন
+
+
+# This is the string for the <title> tag on the page.;Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
+Firefox Aurora অথবা Beta &amp; ডাউনলোড করুন এবং পরবর্তী Firefox নির্ধারণে সহায়তা করুন
+
+
+;Download and test Firefox future releases. Experience the newest innovations with the Developer Edition or Beta builds.
+Firefox-র পরবর্তী সংস্করণগুলি ডাউনলোড করে পরীক্ষা করুন। ডেভেলপার সংস্করণ অথবা বিটা সংস্করণগুলির মাধ্যমে নতুন বৈশিষ্ট্যগুলি সম্পর্কে অবগত হন।
+
+
+# This description applies to Firefox Beta;The latest features in a more stable environment
+আরো স্থিতিশীল পরিবেশে সর্বশেষ বৈশিষ্ট্য
+
+
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta স্বয়ংক্রিয় ভাবে Mozilla-তে প্রতিক্রিয়া পাঠায়। <a href="%(link)s">আরও জানুন </a>
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s"> আমাদেরকে মতামত জানান </a> স্থিতিশীল পরিবেশে কার্যকারীতা এবং তা সম্পাদনের জন্য চুড়ান্ত ট্যুইক যুক্ত করা।
+
+
+;Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox আরোরা এবং Firefox ডেভেলপার সংস্করণ স্বয়ংক্রিয়ভাবে Mozilla-কে ফিডব্যাক পাঠায়। <a href="%(link)s">আরও জানুন</a>।
+
+
+;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Aurora স্বয়ংক্রিয় ভাবে Mozilla-কে মতামত প্রেরণ করে। <a href="%(link)s"> আরও জানুন </a>।
+
+
+# Link to SUMO: https://support.mozilla.org/kb/will-firefox-work-my-mobile-device;Will Firefox work on my mobile device?
+Will Firefox work on my mobile device?
+
+
+;Built for those who build the Web
+তাদের জন্য তৈরি যারা ওয়েব বানায়
+
+
+# This description applies to Firefox Aurora;The newest innovations in an experimental environment
+সর্বাপেক্ষা নতুন বিষয়টি এখন পরীক্ষামূলক পরিবেশে।
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+কর্মক্ষমতা পরীক্ষা একটি পরীক্ষামূলক পরিবেশ, বাগ ফাইল করুন এবং <a href="%(feedback)s"> আমাদেরকে সাহায্য করে এটাকে কিভাবে বিটা তৈরী করা যায়</a>।
+
+
+# This description applies to Firefox on the Release channel;Tried, tested and used by millions around the world
+বিশ্বের লক্ষাধিক মানুষ এটি ব্যবহার এবং পরীক্ষা করেছেন
+
+
+;Learn more about Firefox Beta
+Firefox বেটা সম্বন্ধে আরও জানুন
+
+
+;Learn more about Firefox Aurora
+Firefox আরোরা সম্বন্ধে আরও জানুন
+
+
+;Learn more about Firefox
+Firefox সম্বন্ধে আরও জানুন
+
+

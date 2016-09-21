@@ -1,0 +1,48 @@
+;How fast is your Firefox?
+¿Janipe' chi aninäq ri Firefox k'o awik'in?
+
+
+# Bug 957283: wording modification just for pt-BR;New Firefox is up to 7 times faster. (That’s a lot!) Check the speedometer to see if yours can keep up.
+Ri k'ak'a' Firefox jotöl chi re ri 7 mul aninäq. (¡Ri ri' yalan ütz!) Tanik'oj ri awaninel richin natz'ët chi man tik'oje' kan chi rij ri awichin.
+
+
+;Learn more
+Tawetamaj ch'aqa' chik
+
+
+;Old Firefox = <em>Sadface</em>
+Ojer Firefox = <em>B'ispaläj</em>
+
+
+;New Firefox = <em>Yay!</em>
+K'ak'a' Firefox = <em>¡Ja'!</em>
+
+
+;That just isn’t going to cut it. Stop browsing in the past and <a href="%(url)s">upgrade now!</a>
+Ri ri' man ütz ta chi na'oj. Man katok chik pa k'amaya'l pa ojer chuqa' <a href="%(url)s">¡tak'exa' wakami!</a>
+
+
+;Now we’re talking!
+¡Niqanimaj chik qi'!
+
+
+;Feels better, doesn’t it? Welcome to the future of the Web. It’s nice here.
+Ütz nana', ¿qupe'? Ütz apetik pa ri chwa'q kab'ij richin ri Ajkamaya'l. Jeb'ël ok yak'oje' wawe'.
+
+
+;Hey, looks like you’re using %BROWSER%. Why not grab Firefox and get up to speed.
+Tawak'axaj, achi'el tajin nawokisaj ri %BROWSER%. Achike ruma man naqasaj ri Firefox richin nawïl achike ri aninem
+
+
+;Hey, looks like you’re not using Firefox as your browser. Why not grab Firefox and get up to speed.
+Tawak'axaj, achi'el ta chi man tajin ta nawokisaj ri Firefox achi'el okik'amaya'l. Achike ruma man naqasaj ri Firefox richin nawïl achike ri aninem
+
+
+;New Firefox is faster, free (as always), crashes less and protects your privacy more.
+Ri k'ak'a' Firefox yalan aninel, sipan (achi'el junelïk), jub'a' nisach chuqa' yalan nuchajij ri awichinaxik.
+
+
+;<a href="%(url)s">Upgrading</a> takes less than a minute and you won’t lose your history or bookmarks. Hooray!
+<a href="%(url)s">K'exoj ruwäch</a> man xtik'o ta ni xa ta jun ch'utiramaj chuqa' man xtasäch ta ri anatab'al o ri taq ayaketal. ¡Jeb'ël!
+
+

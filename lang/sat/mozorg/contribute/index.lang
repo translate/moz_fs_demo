@@ -1,0 +1,689 @@
+# Used for HTML title attribute;Volunteer Opportunities at Mozilla
+मोजिला रे का़मियाक् ओबसोर को  .
+
+
+# this string is used for accessibility reasons, it's not visible in the page;Menu
+मिनु
+
+
+# this br is for formatting, omit or reposition as needed;Why<br> volunteer
+चेदाक् <br> का़मिया को.
+
+
+# this br is for formatting, omit or reposition as needed;Find<br> an event
+ञाम मे<br> मित् घोटना 
+
+
+# this br is for formatting, omit or reposition as needed;Meet<br> Mozillians
+ञापामेम<br>  मोजिलायान 
+
+
+;Get involved
+सा़मिलोक
+
+
+;Your country
+आमाक् दिसोम
+
+
+# This is a hint used as a placeholder in a country selection dropdown menu. It should be short.;I live in&hellip;
+इस &hellip रेय ताहेंना;
+
+
+;Volunteer with Mozilla!
+मोजिला सांव का़मिया़ को !
+
+
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.;active Mozillians worldwide
+चोगोड़ मोजिलियान दुनिया़ जाक् .
+
+
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.;upcoming events around the globe
+गोलोब बेड़हाय ते घोटना को  हेच् राकाब. 
+
+
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :);languages and counting, on every continent
+पा़रसी को आर लेखा जोतो माहादेस रे .
+
+
+;Join a global community of game-changers.
+खेलोंड बोदोल कोवाक् गोलोबाल बिरा़द रे खोंजाय मे. 
+
+
+# this br is for formatting, omit or reposition as needed;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
+आमेम ञाम कान लेका निजे का़मिया .आक बाङ का़च लेका .<br>नोवा दो जोतो आम चेतान रे .
+
+
+# this br is for formatting, omit or reposition as needed;Share your skills and pick up<br> a few new ones along the way.
+आमाक् लेक को हा़टिञ आर हाताङ राकाब <br> काच् नावा को होर सांव. 
+
+
+;Volunteering with Mozilla&hellip;
+मोजिला &hellip सांव निजे ते का़मी रे लागाव;
+
+
+# This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+मित् ती उधार खोन ढेर बाबोत ते दो नोवा दो चेदोक्, गोड़ो आर मोजिलियान कोवाक् गोलोवाल बिरा़द सांव आमाक् लेक हा़टिञ  — कोड एमोगिच्, जारवायिच् चोगो़ॉ को आर ढेर  — ओकोय दिना़म वेब बेनाव गोड़ोवाक् आ. 
+
+
+;See our community in action
+का़मी रे आलेरिन बिरा़द को ञेल .
+
+
+;How Mozillians help every day
+चेत् लेका मोजिलायान दिना़म ए गोड़ोवाक् आ .
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale;Spain &middot; Activism
+स्पेन  &middot; चोगोड़ भा़गिया़री .
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale;Philippines &middot; Activism
+फिलिपिन  &मि़डोट;  कोडिंग .
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale;Switzerland &middot; Coding
+स्विटजार लैंड  & मि़डोट; कोडिंग 
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale;India &middot; Teaching
+भारोत  &मिडडोट ; पाड़हाव .
+
+
+;Read his story
+का़हनी पाढ़ाव मे उनी कोड़ावाक् .
+
+
+;Read her story
+उनी कुडीयाक् का़हनी पाढ़ाक् मे .
+
+
+;Want to get involved? Here’s how.
+चेत् सा़मिलोक् साना काना ? नोडे दो चेद लेका  .
+
+
+;Choose what interests you and tell us how you’d like to help
+आमाक् गोरजी चेत् बाछाव मे आर  ला़य आले मे चेद लेका आम गोड़ो सानामा.
+
+
+;Stand by for an email that will connect you to the Mozilla community
+मित् इमेल ला़गित् स्टेंडबाइ ओका ओका आम मोजिला बिरा़द रे जोड़ाव मेया. 
+
+
+;Create your Mozillians account and share your contributions with the world
+आमाक् मोजिलायान खाता तेयार मे आर दुनिया़ सांव आमाक् एनेम को हा़टिञ मे .
+
+
+;Get started
+एहोब मे
+
+
+;Not ready to dive in just yet?
+चेत् एकेन नित् हा़बिच ते झापटाव बाय सापड़ावा ?
+
+
+;Here are a few other ways you can support Mozilla right now.
+नोडे का़च गान एटागाक् होर को मेनाक् आ आम नितोक् मोजिला गोड़ो सानाम काना. 
+
+
+;Donate to Mozilla
+मोजिला रे दान
+
+
+;Read our Manifesto
+लेयाक् ला़य सोदोर पाढञाक् मे .
+
+
+;Like us on Facebook
+फेसबुक रे आले कुसी. 
+
+
+;Follow us on Twitter
+टवीटार रे आले पांजा 
+
+
+;Upcoming event
+हिजुगाक् घोटना
+
+
+;See all events
+जोतो घोटना  को ञेल 
+
+
+;Communicate
+संचार 
+
+
+;Mozilla communities
+मोजिला बिरा़द को 
+
+
+;Mailing lists
+मोजिला बिरा़द को 
+
+
+;IRC channels
+IRC चैनाल 
+
+
+;More links
+बाड़ती खोंजा को
+
+
+;Submit Firefox feedback
+बाड़ती खोंजा को 
+
+
+;Explore Mozilla careers
+मोजिला जिबका़ पानते तुद. 
+
+
+;Get help with Firefox
+फायारफॉक्स सांव गोड़ो ञाम  .
+
+
+;Subscribe to community events
+बिरा़द घोटना को रे चांदा रा़सिया तेयारोक् .
+
+
+;Get community updates
+बिरा़द हा़ली राकाब ञाम मे 
+
+
+# Used as title of the /stories sub-page;Mozillian Stories
+मोजिलियान काहनी को.
+
+
+# Used as a toggle to display more content.;More
+बाड़ती
+
+
+# Used as a toggle to display less content.;Less
+कोम
+
+
+;Read more Mozillian stories
+बाड़ती मोजिलियान का़हनी को पाढाक् मे.
+
+
+;Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
+ट्वीटार रे बाड़ती का़हनी को हो पानते ञाम मे  <a href="%(link_hashtag)s">#IAmAMozillian</a>
+
+
+;More coming soon
+बाड़ती लोगोन हिजुक् आ  
+
+
+# Used as title of the /signup sub-page;Get Involved: Volunteer Opportunities at Mozilla
+सा़मिलोक ञाम : मोजिला रे निजेका़मी ओबसोर को .
+
+
+;To get started, tell us what interests you.
+एहोब ञाम ला़गित्, ला़य आले मे आमाक् चेद गोरजी. 
+
+
+;Choose one for now. You can always contribute to other areas later.
+नित ला़गित् मित् बाछाव मे. आम तायोम ते एटाक् जायगा रे हा़टिञ दाड़ेयाक् आ.
+
+
+# This text is used for accessibility reasons, it's not visible;Where would you like to get started?
+आम ओकारे एहोब ञाम सानामा  ?
+
+
+;Coding
+Coding
+
+
+;More about coding
+कोडिंग बाबोत ते बाड़ती .
+
+
+;Contribute code to a whole range of Mozilla products, including Firefox and Firefox OS.
+मोजिला तेयार ओडोक् रेयाक् जोतो पासनाव ला़गित् कोड हा़टिञ, फायारफॉक्स आर फायारफॉक्स  OS.
+
+
+;Testing
+बिड़ाव
+
+
+;More about testing
+बिडा़व बाबोत ते बाड़ती
+
+
+;Help make the Mozilla products you use — and love — even better.
+आमेम बेभार मोजिला तेयार ओडोक् तेयार रे गोड़ो  —आर  दुलाड़  —बेस रेहों .
+
+
+;Writing
+ओलेत् आ.
+
+
+;More about writing
+ओल बाबोत ते बाड़ती.
+
+
+;Lend your voice to Mozilla — from blogging and social media to providing technical documents for users and developers.
+मोजिला रे आमाक् साडे एम मे  —बेभार को आर लाहा होचो को ला़गित् टेकनिकेल दोलिल को एम ला़गित् ब्लॉगिंग आर सांवता मिडिया खोन. 
+
+
+;Teaching
+पाड़हाव
+
+
+;More about teaching
+पाड़हाव बाबोत तेबाड़ती.
+
+
+;Share your skills with a community that’s eager to learn. Take advantage of our free tools, teaching resources and events.
+मित् बिरा़द सांव आमाक् लेक को हा़टिञ ओका चेदोक् ला़गित् साना. आलेयाक् पोला तेयाक् टुल्स, सोत आर घोटना को पाड़हाव रेयाक् लाब हाताव मे. 
+
+
+;Helping
+गोड़ो एम
+
+
+;More about helping
+गोड़ो एम बाबोत ते बाड़ती .
+
+
+;Provide support to users who need it and help everyone get the most out of their Mozilla products.
+बेभार को ला़गित् गोड़ो एम ओकोय नोवाय ञामा आर आकोवाक् मोजिला तेयार ओडोक रेयाक् जोतो होड़ ढेर ञाम गोड़ो .
+
+
+;Translating
+तोरजोमा
+
+
+;More about translating
+तोरजोमा बाबोत ते बाड़ती
+
+
+;Help make Mozilla stuff available in other languages. Translate everything from newsletters and websites to copy for Firefox and Firefox OS.
+एटाक् पा़रसी को रे मोजिला स्टॉफ ञामोक तेयार गोड़ो. फायारफॉक्स आर फायारफॉक्स   OS ला़गित् नोकोल तेयार रे खोबोर साकाम आर वेबसाइट खोन जोतोवाक् तोरजोमाय मे..
+
+
+;Activism
+चोगोड़ भा़गी
+
+
+;More about activism
+चोगोड़ भा़गी बाबोत ते बाड़ती.
+
+
+;Get involved with our opportunities to support freedom, security and privacy on the open Web.
+झिज वेब रे साधिन जा़पती आर निजेराक् गोड़ो ला़गित् आलेयाक् ओबसोर को सांव सा़मिल ञाम. 
+
+
+;I don’t know
+इञ बाय बाडाया 
+
+
+;More about how you can contribute
+चेत् लेका रे आम हा़टिञ दाड़ेयाक् आ बाबोत ते बाड़ती.
+
+
+;Not sure how you want to help? No problem. We can find the appropriate contribution activity for you.
+बाय निसटा़  आकाना चेत् लेका आम गोड़ो सानाम काना ?  जाहान दिगधा़ बाङ. आले आम ला़गित् बेसाक् हा़टिञ चोगोड़ ञाम दाड़ेयाक् आ. 
+
+
+;Now tell us a little about yourself:
+नित् आम निजे बाबोत ते का़चगान आले ला़य आले मे :
+
+
+;Name
+ञुतुम
+
+
+;Email address
+इमेल ठिका़ना
+
+
+;Country
+दिसोम
+
+
+;select
+बाछाव
+
+
+;Why do you want to be a Mozilla volunteer?
+चेदाक् आम मोजिला निजे का़मी हुयुक् सानाम  काना ?
+
+
+;(Optional)
+(आपनार मोने तेयाक् )
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+इञ बोरनोन आकान लेका इञाक् ला़य सोदोर मोजिला साब सोझे सांव बेस गियाञ <a href="%(privacy)s">नोवा निजेराक् निती</a>
+
+
+;Start contributing
+हा़टिञ एहोब
+
+
+;Sign me up for community updates
+बिरा़द हा़ली को ला़गित् इञ साइन ऑप इञ मे .
+
+
+;(English)
+(आंग्रेजी )
+
+
+;What particular area?
+चेत् बिसेस जायगा ?
+
+
+;What would you like to code?
+चेत् म कोड साना कुसिक् आम ?
+
+
+;What would you like to test?
+चेत् म कोड साना कुसिक् आम ?
+
+
+;What would you like to translate?
+चेत्  आम तोरजोमा साना कुसियाक् आम ?
+
+
+;What would you like to write?
+चेत् आम तोरजोमा साना कुसियाक् आम  ?
+
+
+;What would you like to teach?
+चेत् आम पाड़हाव साना ला़गित् एम कुसियाक् आ?
+
+
+;Firefox
+फायारफॉक्स
+
+
+;Websites
+वेबसाइट को 
+
+
+;Firefox add-ons
+फायारफॉक्स एड-ऑन्स  .
+
+
+;HTML5 apps
+HTML5एपस
+
+
+;Diagnosing Web compatibility issues
+वेब सोंगोत तेत् काथा को साला बाछावेत् आ .
+
+
+;Online services
+ऑनलाइन का़मी को
+
+
+;Web compatibility
+वेब सोंगोत को 
+
+
+;Product localization
+तेयार ओडोक नोडेनाक् तेयार.
+
+
+;Website localization
+वेबसाइट नोडेनाक् तेयार .
+
+
+;I’d like to work on localization tools
+इञ नोडेनाक् तेयार टुल्स रे का़मी सा़ना़म काना .
+
+
+;Social media
+सांवता मिडिया
+
+
+;Journalism
+पत्रका़रिता
+
+
+;Technical docs for users
+बेभार को ला़गित् टेकनिकाल डॉक
+
+
+;Technical docs for developers
+लाहा होचो को ला़गित् टेकनिकाल डॉक .
+
+
+;Technical docs for Firefox add-ons
+फायारफॉक्स एड-ऑनस ला़गित् टेकनिकाल डॉक.
+
+
+;Technical docs for HTML5 apps
+ HTML5 एपस ला़गित् टेकनिकाल डॉक .
+
+
+;Teach the Web (Webmaker)
+वेब टेक  (वेब तेयारिच् )
+
+
+;Open News fellowships
+खोबोर गातेक् झिज मे. 
+
+
+;Hive - Community networks of educators/mentors
+Hive - Community networks of educators/mentors
+
+
+;Open Web science research
+वेब सांड़ेस रिसार्च झिज मे .
+
+
+;Community Events
+बिरा़द घोटना को 
+
+
+;Find events
+घोटना को ञाम.
+
+
+;By city, country, or event:
+सोहोर, दिसोम, आर बाङ घोटना दाराय ते :
+
+
+;By date:
+मा़हित् दाराय ते :
+
+
+;month
+चाँदो
+
+
+;year
+सेरमा
+
+
+;Date
+मा़हित्
+
+
+;Event
+घोटना
+
+
+;Location
+ठांव
+
+
+;City
+सोहोर
+
+
+;Events
+घोटना
+
+
+# Used as title of the thank you page displayed after users send the form;Thank you!
+आम सारहाव !
+
+
+;Thanks!
+सारहाव को !
+
+
+;We’re thrilled to see that you’re interested in coding and can’t wait to get you started.
+आले ञेल तेले रुमुलेना जे आम कोडिंग रे गोरजी या आर आम एहोब ञाम ला़गित् बाम तांगी दाड़ेयाक् आ.
+
+
+;We’re thrilled to see that you’re interested in testing and can’t wait to get you started.
+आले ञेंल तेले रुमु लेना जे आम बिड़ाव रे गोरजी या आर एहोब ञाम ला़गित् बाम तांगी दाड़ेयाक् आ. 
+
+
+;We’re thrilled to see that you’re interested in writing and can’t wait to get you started.
+आले ञेंल तेले रुमु लेना जे आम ओलोक्  रे गोरजी या आर एहोब ञाम ला़गित् बाम तांगी दाड़ेयाक् आ. 
+
+
+;We’re thrilled to see that you’re interested in teaching and can’t wait to get you started.
+आले ञेल तेले रुमुलेना जे आम पाड़हाव रे गोरजी या आर एहोब ला़गित् बाम तांगी दाड़ेयाक् आ. 
+
+
+;We’re thrilled to see that you’re interested in helping and can’t wait to get you started.
+आले ञेंल तेले रुमु लेना जे आम गाड़ो एम  रे गोरजी या आर एहोब ञाम ला़गित् बाम तांगी दाड़ेयाक् आ. 
+
+
+;We’re thrilled to see that you’re interested in translating and can’t wait to get you started.
+आले ञेंल तेले रुमु लेना जे आम तोरजोमा   रे गोरजी या आर एहोब ञाम ला़गित् बाम तांगी दाड़ेयाक् आ. 
+
+
+;We’re thrilled to see that you’re interested in activism and can’t wait to get you started.
+आले ञेंल तेले रुमु लेना जे आम  चोगोड़  भा़गी रे  गोरजी या आर एहोब  ला़गित् बाम तांगी दाड़ेयाक् आ. 
+
+
+;We’re thrilled to see that you’re interested in volunteering and can’t wait to get you started.
+आले ञेंल तेले रुमु लेना जे आम  निजे का़मिया   रे गोरजी या आर एहोब ञाम ला़गित् बाम तांगी दाड़ेयाक् आ. 
+
+
+;Keep an eye on your inbox for an important message from us.
+आले ठेनखोन मित् मोहोत खोबोर ला़गित् आमाक् इन र्वाक्स  रे मेत् दोहोय मे.
+
+
+;Hello!
+जोहार!
+
+
+;Your Name
+आमाक् ञुतुम
+
+
+;In the meantime&hellip;
+इना़ ओकतो रे &hellip;
+
+
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.;You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
+You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
+
+
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.;Choose a Task Now
+Choose a Task Now
+
+
+# Displayed in the "Thank You!" page after the email is sent for other categories.;Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
+Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
+
+
+# Displayed in the "Thank You!" page after the email is sent for other categories.;Join Now
+Join Now
+
+
+;You can create your Mozillians account now to connect with fellow Mozillians.
+आम नितोक् आमाक् मोजिलायान खाता तेयार दाड़ेयाक् आ गाते मोजिलियान  सांव जोड़ाव ला़गित् .
+
+
+;Yes, create my Mozillians account
+हें, इञाक् मोजिलान खाता तेयार मे  .
+
+
+;You will be asked to sign in before proceeding
+आम माड़ाङ चालाक् माराङ ते साइन ला़गित् कुली मेया. 
+
+
+;No thanks, I’ll just wait for the email
+बाङा सारहाव, इञ नित् इमेल ला़गित् इञ तांगीयेत् आ.
+
+
+# The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+# Strings have been copied from the old template (mozorg/contribute.lang);Area of interest?
+चेत् गोरजी रेयाक् जायगा ?
+
+
+;Helping Users
+बेभार को गोड़ो एम 
+
+
+;Testing and QA
+बिडा़व आर  QA
+
+
+;Marketing
+किरिंञ आखरिञ
+
+
+;Localization and Translation
+नोडेनाक् तेयार आर तोरजोमा .
+
+
+;Web Development
+वेब ला़हानती
+
+
+;Firefox Marketplace
+Firefox Marketplace
+
+
+;Add-ons
+एड-ऑन
+
+
+;Visual Design
+ञेल तेयार जोह 
+
+
+;Documentation and Writing
+दोलिल तेयार आर ओल .
+
+
+;Education
+सिखनात
+
+
+;Other
+एटागाक्
+
+
+;Hi, I’m interested in…
+हेइञ , रे गोरजी आ …
+
+
+;Send us a note and we can get you started right away.
+आले मित् खाटो ओल कुलआल मे आले आम एहोब खोन सांगिञ ले ञाम दाड़ेयामा. 
+
+
+;I have a suggestion for Firefox
+इञ ठेन फायारफॉक्स ला़गित् सोलाह मेनाक् आ. 
+
+
+;I need help with a Firefox issue
+इंञ फायारफॉक्स काथा सांव गोड़ो ला़गती .
+
+
+;Please enter a valid email address.
+मित् बातावाक् इमेल ठिका़ना आदेर मे .
+
+
+;You must agree to the privacy policy.
+आम निजेराक् निती रे सिका़र एम ला़कती .
+
+
+;Please select an area of interest.
+गोरजी रेयाक् मित् जायगा बाछाव मे .
+
+
+;Please tell us more about your interests.
+आमाक् गोरजी को बाबोत ते आले लाय आले मे. 
+
+

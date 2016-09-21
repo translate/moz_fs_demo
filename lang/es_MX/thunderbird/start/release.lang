@@ -1,0 +1,69 @@
+;Welcome to <span>Thunderbird</span>
+Bienvenido a <span>Thunderbird </span>
+
+
+;Contribute to Thunderbird
+Colabora con Thunderbird
+
+
+;To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href="%s">recently organized</a> to focus on the future.
+Para asegurar que Thunderbird continué mejorando, como lo ha hecho los últimos diez años, los colaboradores activos <a href="%s">recientemente se han organizado</a> para enfocarse en el futuro
+
+
+;Now is a great time for you to <a href="%s" class="iconic">get involved</a>.
+Ahora es un excelente momento para que <a href="%s" class="iconic">te involucres</a>.
+
+
+;Please help us assist users of Thunderbird, and improve the Thunderbird product and eco-system.
+Por favor ayúdanos a asistir a los usuarios de Thunderbird y a mejorar Thunderbird y su ecosistema.
+
+
+;We look forward to <a href="%s">hearing from you</a>.
+Esperamos más tarde <a href="%s">tener noticias tuyas </a>.
+
+
+;Learn more
+Aprender más
+
+
+;Need Support?
+¿Necesitas ayuda?
+
+
+;Most Thunderbird support questions are answered on the <a href="%s">Knowledge Base</a>.
+La mayoría de las preguntas de soporte de Thunderbird son respondidas en la <a href="%s"> Base de Conocimiento</a>.
+
+
+;If you can’t find an answer, <a href="%s">ask your question on our support forum</a>.
+Si no puedes encontrar una respuesta, <a href="%s">formula tu pregunta en el foro de soporte</a>.
+
+
+# If your locale has a dedicated Thunderbird support forum, you can localize the URL
+# used in the previous string to point there. Otherwise simply mark the string as {ok};https://support.mozilla.org/questions/new/thunderbird
+https://support.mozilla.org/questions/new/thunderbird {ok}
+
+
+;Features
+Características
+
+
+;Visit our blog
+Visita nuestro blog
+
+
+;Contribute
+Colabora
+
+
+;Tips
+Consejos
+
+
+;Add-ons
+Complementos
+
+
+;Get help
+Obtén ayuda
+
+

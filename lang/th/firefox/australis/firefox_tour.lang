@@ -1,0 +1,256 @@
+# Headline in /firstrun page;Take a quick tour
+ชมการเที่ยวทันที
+
+
+# Headline in /whatsnew page;Welcome to Firefox
+ยินดีต้อนรับสู่ Firefox
+
+
+# Sub-headline in /firstrun page;Committed to you, your privacy and an open Web.
+มอบให้กับคุณ เว็บเสรีและความเป็นส่วนตัวของคุณ
+
+
+;Learn how to customize your Firefox
+เรียนรู้การปรับแต่ง Firefox ของคุณ
+
+
+;Add and view bookmarks from the same spot
+เพิ่มและดูที่คั่นเว็บจากจุดเดียวกัน
+
+
+;Learn more about the new Firefox
+เรียนรู้เพิ่มเติมเกี่ยวกับ Firefox ใหม่
+
+
+;Grouped together for quick, easy access
+จับรวมกลุ่มเพื่อเข้าถึงได้เร็วและง่าย
+
+
+# <br> tag below used for formatting only.;Your favorite sites are<br> closer than ever
+ไซต์ที่โปรดของคุณอยู่<br>ใกล้มากกว่าเดิม
+
+
+;Add features and styles with add-ons
+เพิ่มคุณสมบัติและสไตล์ด้วยส่วนเสริม
+
+
+;Have Firefox on another device?
+มี Firefox บนอุปกรณ์อื่น?
+
+
+# <br> tag below used for formatting only.;Designed so you can<br> make it your own
+ถูกออกแบบมาโดยคุณสามารถ<br>ทำให้เป็นตัวของตัวเองได้
+
+
+;You don’t have to start over. Access your history, bookmarks and more.
+คุณไม่ต้องเริ่มใหม่แต่ต้น เข้าดูประวัติใช้งาน ที่คั่นหน้า และอื่นๆ ได้เลย
+
+
+;There’s Never Been a Better Time for Firefox
+ไม่มีช่วงเวลาที่ดีไปกว่านี้แล้วสำหรับ Firefox
+
+
+;There’s never been a better time for a browser that answers only to you.
+ไม่มีเวลาไหนจะดีไปกว่านี้อีกแล้วสำหรับเบราว์เซอร์ที่ตอบโจทย์เฉพาะคุณ
+
+
+;Opens new window
+เปิดหน้าต่างใหม่
+
+
+# This is the text for a door-hanger menu that shows in the browser chrome;It’s the fastest, most flexible Firefox ever.
+เร็ว ยืดหยุ่นมากกว่าก่อน
+
+
+# This is the label for a button that opens the tour modal dialog;Open tour
+เปิดการเที่ยวชม
+
+
+;Using an older version of Sync?
+กำลังใช้งาน Sync รุ่นเก่า?
+
+
+;Save sites with a single click
+บันทึกไซต์ภายในคลิกเดียว
+
+
+;There’s never been a better time for Firefox
+ไม่มีช่วงเวลาที่ดีไปกว่านี้แล้วสำหรับ Firefox
+
+
+# This is the label for a button that closes the tour modal dialog;Close tour
+ปิดการเที่ยวชม
+
+
+# <br> tag below used for formatting only.;Thousands of ways to<br> make Firefox do more
+มีอีกเป็นพันเส้นทาง<br> ที่ทำให้ Firefox ทำอะไรได้มากขึ้น
+
+
+;Now easier to find, use and manage
+ขณะนี้ค้นหา ใช้ และจัดการได้ง่ายขึ้น
+
+
+# This is the title for a door-hanger menu that shows in the browser chrome;See what’s new
+ดูว่ามีอะไรใหม่
+
+
+;Frequently asked questions
+คำถามที่พบบ่อย
+
+
+;Enjoy seamless browsing between devices with Sync
+เพลิดเพลินกับการท่องเว็บอย่างไร้รอยต่อระหว่างอุปกรณ์ด้วย Sync
+
+
+;Move or remove any button to match
+ย้ายหรือลบปุ่มใดก็ได้เพื่อให้ตรงความต้องการ
+
+
+;How you use Firefox is unique
+How you use Firefox is unique
+
+
+;Add and view bookmarks from a new location
+Add and view bookmarks from a new location
+
+
+# This is the text for a call to action that appears in the web page;Take the tour to see what’s new
+Take the tour to see what’s new
+
+
+;It looks like you’re already using Sync
+It looks like you’re already using Sync
+
+
+;Create an account from the menu panel
+สร้างบัญชีจากแผงเมนู
+
+
+;Use the star to create bookmarks
+ใช้ดาวเพื่อสร้างที่คั่นหน้า
+
+
+;Share your vision
+แบ่งปันวิสัยทัศน์ของคุณ
+
+
+# This is the label for a button that delays starting the tour;Not now
+ไม่ใช่ตอนนี้
+
+
+# This is the label for a button that starts the tour;Let’s go
+ไปกันเลย
+
+
+# This is the label that represents tour step one of four;1/4
+1/4 {ok}
+
+
+# This is the label that represents tour step three of four;3/4
+3/4 {ok}
+
+
+# This is the label that represents tour step two of four;2/4
+2/4 {ok}
+
+
+# This is the label that represents tour step four of four;4/4
+4/4 {ok}
+
+
+;<span>Previous:</span> Customize
+<span>ก่อนหน้า:</span> ปรับแต่ง
+
+
+;<span>Next:</span> Add-ons
+<span>ถัดไป:</span> ส่วนเสริม
+
+
+;<span>Previous:</span> Menu
+<span>ก่อนหน้า:</span> เมนู
+
+
+;<span>Next:</span> Bookmarks
+<span>ถัดไป:</span> ที่คั่นหน้า
+
+
+;<span>Next:</span> Customize
+<span>ถัดไป:</span> ปรับแต่ง
+
+
+;<span>Previous:</span> Add-ons
+<span>ก่อนหน้า:</span> ส่วนเสริม
+
+
+;Learn about the new design
+เรียนรู้เกี่ยวกับการออกแบบใหม่
+
+
+# <br> tag below used for formatting only.;It starts with the new,<br> intuitive menu
+It starts with the new,<br> intuitive menu
+
+
+;The features you use most, all in one place
+คุณลักษณะที่คุณใช้งานมากที่สุด ทุกอย่างในที่เดียว
+
+
+;How you use the Web is unique
+How you use the Web is unique
+
+
+;Get started with Sync
+เริ่มต้นกับ Sync
+
+
+;Putting your privacy first
+ให้ความสำคัญกับความเป็นส่วนตัวของคุณอันดับแรก
+
+
+;Where did my add-on bar go?
+แถมส่วนเสริมของฉันไปอยู่ที่ไหน?
+
+
+;Your favorite features, all in one place
+คุณลักษณะที่คุณชื่นชอบทั้งหมดในที่เดียว
+
+
+;When you use Firefox, you help shape the future of the Web.
+When you use Firefox, you help shape the future of the Web.
+
+
+;Start browsing
+เริ่มการท่องเว็บ
+
+
+# <br> tag below used for formatting only.;Your favorite sites<br> are closer than ever
+Your favorite sites<br> are closer than ever
+
+
+;Helps you do just about anything online
+Helps you do just about anything online
+
+
+;Want to connect another device?
+Want to connect another device?
+
+
+;What kind of Web do you want?
+คุณต้องการเว็บประเภทไหน?
+
+
+# <br> tag below used for formatting only.;It starts with the redesigned,<br> intuitive menu
+It starts with the redesigned,<br> intuitive menu
+
+
+;Easy to find, use and manage
+ง่ายต่อการค้นหา, ใช้ และจัดการ
+
+
+;Keep your Firefox in Sync
+ทำให้ Firefox ของคุณอยู่ในการผสาน
+
+
+;Access your bookmarks, passwords and more from any device.
+เข้าถึงที่คั่นหน้า, รหัสผ่าน และอื่น ๆ จากอุปกรณ์ใดก็ได้
+
+

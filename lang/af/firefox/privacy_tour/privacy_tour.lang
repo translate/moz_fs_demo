@@ -1,0 +1,176 @@
+# This is the title for a door-hanger menu that shows in the browser chrome;See what’s new
+Sien wat is nuut
+
+
+# This is the text for a door-hanger menu that shows in the browser chrome;You’re up to date with the latest features to help keep you in control.
+U installasie is op datum met die jongste funksionaliteit en hou u só in beheer.
+
+
+# This is the label for a button that starts the tour;Let’s go
+Laat waai
+
+
+# This is the label for a button that delays starting the tour;Not now
+Nie nou nie
+
+
+# This is the label for a button that opens the tour modal dialog;Open tour
+Beskou 'n toer
+
+
+# This is the label for a button that closes the tour modal dialog;Close tour
+Sluit toer
+
+
+# This is the text for a call to action that appears in the web page;See the newest ways you can take control of your digital life
+Sien die jongste maniere om beheer van u digitale lewe te neem
+
+
+# This is the label that represents tour step one of three;1/3
+1/3 {ok}
+
+
+# This is the label that represents tour step two of three;2/3
+2/3 {ok}
+
+
+# This is the label that represents tour step three of three;3/3
+3/3 {ok}
+
+
+;Declare your independence
+Verklaar u onafhanklikheid
+
+
+;Thank you for choosing Firefox
+Dankie dat u Firefox kies
+
+
+;Watch the video to see our story
+Sien ons storie deur die video te kyk
+
+
+;Now share it with your world
+Deel dit nou met u wêreld
+
+
+;Play
+Speel
+
+
+;Play the video
+Speel die video
+
+
+;Share
+Deel
+
+
+;Start browsing
+Begin te blaai
+
+
+;Previous
+Vorige
+
+
+;Next
+Volgende
+
+
+;Close
+Sluit
+
+
+# STEP 1 of the tour (Forget button)
+# %s is a searchplugin name;<span>Next:</span> %s
+<span>Volgende:</span> %s
+
+
+# <br> tag below used for formatting only.
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta;Use Forget to cover your tracks or escape from sites you don’t trust
+Gebruik Vergeet om jou spore uit te wis of werwe te ontsnap wat u nie vertrou nie
+
+
+;Remove browsing history from your computer
+Verwyder blaaigeskiedenis op die rekenaar
+
+
+;Erase website information after the fact
+Verwyder agterna webwerfinligting
+
+
+;Add it above for quick, easy access
+Voeg dit bo by vir vinnige, maklike toegang
+
+
+;The new Forget button
+Die nuwe Vergeet-knop
+
+
+;Want to cover your tracks? Activate the Forget button and leave no trace.
+Lus om u spore uit te vee? Die Vergeet-knop keer dat mens 'n spoor los.
+
+
+;Add it now
+Voeg dit nou by
+
+
+;Later
+Later {ok}
+
+
+;Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
+Nou is dit hier vir wanneer dit ook al nodig is. Om dit te skuif of te verwyder, open die kieslys en kies Doelmaak.
+
+
+;Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
+Dalk later lus om dit by te voeg? Open die kieslys en kies Doelmaak. Skuif dit (of enige ander knop) net waar u wil.
+
+
+# STEP 2 of the tour (search engines);<span>Previous:</span> Forget
+<span>Vorige:</span> Vergeet
+
+
+;<span>Next:</span> Private Browsing
+<span>Volgende:</span> Private blaaiery
+
+
+# %s is a searchplugin name. <br> tag below used for formatting only.;%s lets you <br>search anonymously
+%s laat mens <br> anoniem soek
+
+
+;Get great results with less tracking
+Kry goeie resultate met minder agtervolging
+
+
+;Make it (or any other) your default
+Maak dit (of enige ander een) die verstek
+
+
+;Find what you’re looking for, your way
+Kry waarvoor u soek, op u eie manier
+
+
+# %s is a searchplugin name;<span>Previous:</span> %s
+<span>Vorige:</span> %s
+
+
+# STEP 3 of the tour (Private Browsing)
+# <br> tag below used for formatting only.;Private Browsing: <br>Our original privacy tool
+Private blaaiery: <br>Ons oorspronklike hulpmiddel vir privaatheid
+
+
+;Keep history and other info off your computer
+Hou geskiedenis en ander inligting van die rekenaar af
+
+
+;Browse without recording where you’ve been
+Blaai sonder om rekord te hou van waar u was
+
+
+;So others using your computer can’t see it
+Só kan ander rekenaargebruikers dit nie sien nie
+
+

@@ -1,0 +1,64 @@
+;Mozilla Privacy
+Mozilla personvern
+
+
+;Contact Mozilla
+Kontakt Mozilla
+
+
+;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+Om du vil retta noko i informasjonen din eller om du har spørsmål om personvernpraksisane våre, kontakt oss:
+
+
+;Data Privacy Principles
+Prinsipp for datapersonvern
+
+
+;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+Mozilla er eit ope kjeldekodeprosjekt med oppdrag om å forbetra Internett-opplevinga.di. Det er ei drivande kraft bak datapersonvernpraksisen vår. <a href="%(link)s">Les meir</a>
+
+
+;Our Privacy Notices
+Personvernmerknadane våre
+
+
+;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Vi har laga ei kort og klar personvernmelding for å skildra korleis kvart av produkta og tenestene våre tek imot, deler og brukar data, og kva for alternativ du kan velja mellom. Les meir:
+
+
+;Mozilla Websites, Communications &amp; Cookies
+Mozilla-nettstadar, kommunikasjon &amp; infokapslar
+
+
+;Firefox Browser
+Firefox nettlesar
+
+
+;Firefox Cloud Services
+Firefox skytenester
+
+
+;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+For å evaluera og kommentera føreslåtte endringar av personvernpraksisane våre, må du verta med i <a href="%(group)s">Mozilla si diskusjonsgruppe ‹‹mozilla.governance››</a>.
+
+
+;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Det pågåande arbeidet med personvern vert dekt av bloggen <a href="%(blog)s">Privacy &amp; Data Safety</a> og informasjon om arbeidet finst på <a href="%(wiki)s">  personvernteamet si side på MozillaWiki</a>.
+
+
+;Outdated Policies
+Utdaterte praksisar
+
+
+# Used at the top of the page for navigation (breadcrumbs);Home
+Heim
+
+
+# Used in legal docs to collapse (hide) a paragraph;Show Less
+Vis mindre
+
+
+# Used in sub-pages to return to the main index https://www.mozilla.org/privacy;Back to Mozilla Privacy Policy
+Tilbake til Mozilla personvernpraksis
+
+

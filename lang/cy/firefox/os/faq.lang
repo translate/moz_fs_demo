@@ -1,0 +1,276 @@
+;Firefox OS Frequently Asked Questions
+Cwestiynau Cyffredin am Firefox OS
+
+
+;Firefox OS FAQ
+Cwestiynau am Firefox OS
+
+
+;About Firefox OS
+Ynghylch Firefox OS
+
+
+;What is Firefox OS?
+Beth yw Firefox OS?
+
+
+;Firefox OS is the only truly open mobile OS that unlocks the power of the Web as the platform and enables operators, hardware manufacturers and developers to create innovative and customized applications and products for consumers to use across these connected devices.
+Firefox OS yw'r unig wir system weithredu agored sy'n rhyddhau grym y we fel platfform gan alluogi darparwyr, gwneuthurwyr caledwedd a datblygwyr i greu rhaglenni a chynnyrch arloesol ac addas ar gyfer cwsmeriaid i'w defnyddio ar draws dyfeisiau cysylltiedig.
+
+
+;How is Firefox OS different from other operating systems?
+Sut mae Firefox OS y wahanol i systemau gweithredu eraill?
+
+
+;For users
+Ar gyfer defnyddwyr
+
+
+;Firefox OS offers a customized and easy to use experience appropriate to consumers from the value range in India to early tech adopters in Japan.
+Mae Firefox OS yn cynnig profiadau priodol cyfaddas a hawdd ei ddefnyddio ar gyfer defnyddwyr o ystod eang o ddefnyddwyr gwerth am arian yn India hyd at fabwysiadwyr cynnar technoleg yn Japan.
+
+
+;For operators and OEMs
+Ar gyfer darparwyr ac OEM
+
+
+;Firefox OS offers the opportunity to capture new user segments due to its open development process and tight collaboration with partners searching for new revenue streams and business models.
+Mae Firefox OS yn cynnig y cyfle i gipio segmentau o ddefnyddwyr newydd oherwydd ei brosesau datblygu agored a'r cydweithrediad tynn gyda phartneriaid sy'n chwilio am ffynonnellau arian a modelau busnes newydd.
+
+
+;For developers
+Ar gyfer datblygwyr
+
+
+;Firefox OS offers the freedom to build the most advanced web experiences on mobile. Developers can create apps that customers can access across multiple platforms, devices and operating systems. Firefox OS provides them with the possibility of connecting with hundreds of millions of Firefox supporters around the world as well as access to relatively untapped markets.
+Mae Firefox OS yn cynnig y rhyddid i adeiladu'r profiadau gwe fwyaf blaengar ar ddyfeisiau symudol. Gall ddatblygwyr greu apiau y bydd cwsmeriaid yn gallu cael mynediad atynt ar draws platfformau lluosog, dyfeisiau a systemau gweithredu. Mae Firefox OS yn darparu'r posibiliadau o gysylltu â channoedd o filiynau o gefnogwyr Firefox ar draws y byd yn ogystal â marchnadoedd cymharol digyffwrdd.
+
+
+;Buying Firefox OS
+Prynu Firefox OS
+
+
+;What phones will Firefox OS be available on?
+Ar ba ffonau fydd Firefox OS ar gael arnynt?
+
+
+;Since launching, Firefox OS smartphones are available in over 40 markets from multiple global operators on a number of different devices, across different price device categories. These include handsets from Alcatel ONETOUCH, ZTE, Huawei and LG.
+Ers ei lansio, mae ffonau clyfar Firefox OS ar gael mewn 40 marchnad, gan amryw o ddarparwyr byd eang ar nifer o wahanol ddyfeisiau, ar draws ystod o brisiau categorïau dyfeisiau. Mae'r rhain yn cynnwys dyfeisiau gan Alcatel ONETOUCH, ZTE, Huawei a LG.
+
+
+;Where can I buy Firefox OS?
+Lle gallai brynu Firefox OS?
+
+
+;The full list of where to buy Firefox OS devices can be found at the <a href="%(link)s">devices page</a>.
+Am restr lawn o le i brynu dyfeisiau Firefox OS, ewch i'r <a href="%(link)s">dudalen dyfeisiau</a>.
+
+
+;What will be the price of the phone?
+Beth fydd pris y ffonau?
+
+
+;Pricing is not set by Mozilla and will be established by our operator and manufacturer partners based on local market dynamics.
+Nid Mozilla sy'n gosod y prisiau ond bydd yn cael ei osod gan ein partneriaid o blith darparwyr a chynhyrchwyr ar sail amodau'r farchnad leol.
+
+
+;What apps will be available on Firefox OS?
+Pa apiau fydd ar gael ar Firefox OS?
+
+
+;The Firefox Marketplace offers an open app environment that leverages the scale of the Web as a development platform; allowing operators, phone manufacturers and developers greater flexibility.
+Mae Firefox Marketplace yn cynnig amgylchedd ap agored sy'n ehangu maint y we fel platfform datblygiadol; gan ganiatáu i ddarparwyr, gwneuthurwyr ffonau a datblygwyr fwy o hyblygrwydd.
+
+
+;The growing list of apps for Firefox OS includes Pinterest, Facebook, LINE, Twitter, airbnb, EA Games, SoundCloud, outlook.com, Cut the Rope, Dailymotion, goal.com and TomTom Maps. Many more are being made available every day. For more information, visit <a href="%(url)s">https://marketplace.firefox.com/</a>
+Mae'r rhestr gynyddol o apiau ar gyfer Firefox OS yn cynnwys Pinterest, Facebook, LINE, Twitter, airbnb, EA Games, SoundCloud, outlook.com, Cut the Rope, Dailymotion, goal.com a TomTom Maps. Mae llawer mwy yn dod ar gael bob dydd. Am ragor o wybodaeth, ewch i <a href="%(url)s">https://marketplace.firefox.com/</a>
+
+
+;Is Firefox OS available in my language?
+A yw Firefox OS ar gael yn fy iaith i?
+
+
+;Firefox OS is currently available in a number of different languages. Check out the device market availability at the <a href="%(link)s">devices page</a>.
+Mae Firefox OS ar gael ar hyn o bryd mewn nifer o wahannol ieithoedd. Mae'r hyn sydd ar gael i'w weld ar y <a href="%(link)s">dudalen dyfeisiau</a>.
+
+
+;We’re working on adding more languages as we launch into new markets.
+Rydym yn ychwanegu ieithoedd newydd wrth lansio mewn marchnadoedd newydd.
+
+
+;Using Firefox OS
+Defnyddio Firefox OS
+
+
+;How do I…
+Sut fydda i'n…
+
+
+;…make a call?
+…gwneud galwad?
+
+
+;…import my contacts?
+…mewnforio cysylltiadau?
+
+
+;…create and view messages?
+…creu a darllen negeseuon?
+
+
+;…use the internet?
+…defnyddio'r we?
+
+
+;…download and install an app?
+…llwytho i lawr a gosod ap?
+
+
+;…take pictures?
+…tynnu llun?
+
+
+;…compose and send an email?
+…ysgrifennu ac anfon e-bost?
+
+
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+
+;Your go-to source for the best apps for Firefox OS.
+Eich prif ffynhonnell apiau gorau Firefox OS.
+
+
+;Firefox browser
+Y porwr Firefox
+
+
+;The fast, smart, safe way to get the best of the Web.
+Y ffordd gyflym, diogel a defnyddiol o gael y gorau o'r We.
+
+
+;Deep integration with social media
+Cysylltiad dwfn i'r cyfryngau cymdeithasol
+
+
+;Full access to every Twitter and Facebook update from wherever you are.
+Mynediad llawn i bob diweddariad Twitter a Facebook yn lle bynnag ydych chi.
+
+
+;Camera
+Camerâu
+
+
+;With built-in style filters for fun, creative shots.
+Gyda idlau ar gyfer lluniau creadigol a difyr.
+
+
+;FM Radio
+Radio FM
+
+
+;All the audio you want on the go, all on one device.
+Eich hoff gerddoriaeth, i gyd ar un ddyfais.
+
+
+;Maps
+Mapiau
+
+
+;Includes directions, traffic and local transit information.
+Gan gynnwys cyfeirio, traffig, a gwybodaeth teithio lleol.
+
+
+;Privacy and Security
+Preifatrwydd a Diogelwch
+
+
+;How will Firefox OS keep me safe while I browse?
+Sut fydd Firefox OS yn fy nghadw'n ddiogel wrth bori?
+
+
+;Mozilla was the first to implement the Do Not Track privacy feature.
+Mozilla oedd y cyntaf i ddefnyddio nodwedd preifatrwydd Dim Tracio.
+
+
+;Firefox also features customizable security settings to manage passwords, history, private data, cookies, site options and add-ons. <a href="%(url)s">Learn more.</a>
+Mae Firefox hefyd yn cynnwys gosodiadau diogelwch cyfaddas i reoli cyfrineiriau, hanes, data preifat, cwcis, dewisiadau gwefan ac ychwanegion. <a href="%(url)s">Dysgu rhagor.</a>
+
+
+;Developer Questions
+Cwestiynau Datblygwyr
+
+
+;Are you a developer? Have questions? <a href="%(url)s">Learn more at the Mozilla Developer Network.</a>
+Ydych chi'n ddatblygwr? Oes gennych chi gwestiynau? <a href="%(url)s">Dysgwch rhagor yn Mozilla Developer Network.</a>
+
+
+# Obsolete string, do not remove;Backed by some of the biggest names in the industry, Firefox OS is a new open operating system for smartphones developed by Mozilla.
+Mae Firefox OS, sy'n cael ei gefnogi gan rhai o enwau mwyaf y diwydiant, yn system weithredu agored ar gyfer ffonau clyfar sy'n cael ei ddatblygu gan Mozilla.
+
+
+# Obsolete string, do not remove;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
+Wedi ei adeiladu'n gyfan gwbl gan ddefnyddio HTML5 a safonau Gwe agored eraill, mae Firefox OS yn rhydd o reolau a chyfyngiadau lwyfannau perchnogol cyfredol.
+
+
+# Obsolete string, do not remove;Firefox OS is the only operating system with Adaptive App Search.
+Firefox OS yw'r unig system weithredu sy'n defnyddio Chwilio Apiau Hyblyg.
+
+
+# Obsolete string, do not remove;While every other phone today is static, giving you the exact same apps each time you turn it on, Firefox OS is always changing to offer exactly the apps you need at any moment in your life.
+Tra bod pob ffôn arall yn statig, yn rhoi'r union un ap bob tro rydych yn ei gychwyn, mae Firefox OS yn newid yn barhaus i gynnig yr union apiau sydd eu hangen arnoch ar unrhyw adeg.
+
+
+# Obsolete string, do not remove;It adapts so you can live every moment to its fullest.
+Mae'n addasu fel bod modd i chi fyw pob munud i'r eithaf.
+
+
+# Obsolete string, do not remove;Firefox OS is brought to you by Mozilla, a global nonprofit organization that emphasizes principle over profit.
+Mae Firefox OS yn cael ei ddarparu gan Mozilla, corff byd eang, dim er elw sy'n pwysleisio egwyddor nid elw.
+
+
+# Obsolete string, do not remove;We believe that the Web is a shared public resource to be cared for, not a commodity to be sold.
+Rydym yn credu fod y We yn adnodd cyhoeddus i bawb y mae angen gofalu amdano, nid yn gynnyrch i'w werthu.
+
+
+# Obsolete string, do not remove;We work with a worldwide community to create open source products like Mozilla Firefox and to innovate for the benefit of the individual and the betterment of the Web.
+Rydym yn gweithio gyda chymuned fyd eang i greu cynnyrch cod agored fel Mozilla Firefox ac i arloesi er lles unigolion a'r We.
+
+
+# Obsolete string, do not remove;The result is great products built by passionate people and better choices for everyone.
+Y canlyniad yw cynnyrch gwych wedi ei adeiladu gan bobl frwdfrydig a gwell dewis i bawb.
+
+
+# Obsolete string, do not remove;To see a full list of available Firefox OS phones, please visit the <a href="%(link)s">devices page</a>.
+I weld y rhestr llawn o'r ffonau Firefox OS sydd ar gael, ewch i <a href="%(link)s">dudalen dyfeisiau</a>.
+
+
+# Obsolete string, do not remove;To purchase a Firefox OS phone, please visit the <a href="%(link)s">devices page</a> and select your available country.
+I brynu ffôn Firefox OS, ewch i dudalen <a href="%(link)s">dyfais</a> a dewis eich gwlad.
+
+
+# Obsolete string, do not remove;The growing list includes leading apps like Facebook, Twitter, Nokia HERE maps, Cut the Rope, and Time Out.
+Mae'r rhestr cynyddol yn cynnwys apiau poblogaidd fel Facebook, Twitter, mapiau Nokia HERE, Cut the Rope a Time Out.
+
+
+# Obsolete string, do not remove;Many more are being made available every day.
+Mae rhagor yn cael eu hychwanegu bob dydd.
+
+
+# Obsolete string, do not remove;Firefox OS is currently available in Spanish, Polish, English, Italian, Portuguese, German, Serbian, Hungarian and Greek.
+Mae Firefox OS ar gael yn Sbaeneg, Pwyleg, Saesneg, Eidaleg, Portiwgaleg, Almaeneg, Serbeg, Hwngareg a Groeg.
+
+
+# Obsolete string, do not remove;We’re working on adding more languages all the time.
+Rydym yn ychwanegu ieithoedd newydd yn gyson.
+
+
+# Obsolete string, do not remove;Adaptive App Search
+Chwilio Apiau Addasol
+
+
+# Obsolete string, do not remove;Get information on any subject right when you need it, brought to you and your phone by Firefox OS.
+Derbyn gwybodaeth ar unrhyw bwnc pryd fydd ei angen arnoch, drwy gyfrwng Firefox OS.
+
+

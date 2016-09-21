@@ -1,0 +1,77 @@
+;Firefox Nightly First Run Page
+Firefox Nightly First Run Page
+
+
+;Thank you for using Firefox Nightly
+ขอบคุณที่ใช้ Firefox Nightly
+
+
+;Choose an area to get involved below and help make Firefox better for users everywhere
+Choose an area to get involved below and help make Firefox better for users everywhere
+
+
+;Test
+ทดสอบ
+
+
+;Find and file bugs and generally make sure things work as they should.
+Find and file bugs and generally make sure things work as they should.
+
+
+;Start testing
+เริ่มต้นทดสอบ
+
+
+# Link used for the "Start testing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to test Mozilla products.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://oneanddone.mozilla.org
+https://oneanddone.mozilla.org {ok}
+
+
+;Code
+โค้ด
+
+
+;File bugs and work on the building blocks of the Firefox browser.
+File bugs and work on the building blocks of the Firefox browser.
+
+
+;Start coding
+เริ่มต้นการโค้ด
+
+
+# Link used for the "Start coding" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to Firefox code.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://developer.mozilla.org/docs/Introduction
+https://developer.mozilla.org/docs/Introduction {ok}
+
+
+;Localize
+Localize
+
+
+;Make Firefox available (and better) in more languages around the world.
+ทำให้ Firefox ใช้งานได้ (และได้ดีขึ้น) ในภาษาที่มากขึ้นทั่วโลก
+
+
+;Start localizing
+เริ่มต้นการทำให้เป็นท้องถิ่น
+
+
+# Link used for the "Start localizing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://wiki.mozilla.org/L10n:Contribute
+https://wiki.mozilla.org/L10n:Contribute {ok}
+
+
+;Show everyone that you’re helping to build the Web the world needs.
+แสดงให้ทุกคนเห็นว่าคุณกำลังช่วยเหลือในการสร้างเว็บที่โลกต้องการ
+
+
+;Get your Nightly User badge
+รับเครื่องหมายสำหรับผู้ใช้ Nightly ของคุณ
+
+

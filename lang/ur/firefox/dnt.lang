@@ -1,0 +1,168 @@
+;Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites.
+Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites.
+
+
+;Do Not Track FAQ
+Do Not Track FAQ
+
+
+;Your Status:
+آپ کی حیثیت:
+
+
+;Do Not Track is ON
+Do Not Track is ON
+
+
+;Do Not Track is OFF
+سراغ راہ مت کریں بند ہے
+
+
+;Mozilla is a global, nonprofit organization dedicated to making the Web better. We emphasize principle over profit, and believe that the Web is a shared public resource to be cared for, not a commodity to be sold. We answer to no one but you and believe it is crucial to put you in control of your online experience. We are aiming to give you better insight and control into the ways your personal information is collected, used, stored and shared online.
+موزیلا ایک عالمی غیر منافع بخش ادارہ ہے ویب بہتر بنانے کے لیَے وقف ہے۔ ہم اصول پر منافع  کو ترجیح دیتے ہیں اور یقین رکھتے کہ ویب مشترکہ ذریعہ ہے جس کی پراہ کرنی چاہئے،فروخت کے لئے ایک جیز نہیں۔ ہم کسی کو جوابدہ نہیں سوائے آپکے اور یقین رکھتے ہیں کہ یہ آپ کو اپنے آن لائن تجربے کے کنٹرول میں ڈالنے کے لئے بہت اہم ہے۔ . ہم آپ بہتر بصیرت اور آپ کی ذاتی معلومات کو جمع کرنے ،استعمال ، محفوظ اور آنلائناشتراک کے طریقوں میں کنٹرول دینے کے لئے کوشاں ہیں
+
+
+;Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites. When the feature is enabled, Firefox will tell advertising networks and other websites and applications that you want to opt-out of tracking for purposes like behavioral advertising.
+موزیلا فائرفاکس پیش کرتا ہے سراغ راہ مت کریں کا فیچر جو آپکی ترجیح کا اظہار کرتا ہے کہ آُپکی ویب سائٹ پر سراغ راہ مت کریں ۔ جب فیچر اہل بنایا جائے گا فائرفاکس اشتہاری نیٹ ورک اور دوسری ویب سائٹ ایپلیکیشن کو بتا دے گا کہ آُپ سراغ راہ نہہں لگوانا چاہتے تاکہ رویاتی اشتہار کے مقسد سے سراغ راہ نہ لگائی
+
+
+;Frequently Asked <span>Questions</span>
+عمومی ظور پر پوحھے جانے والا<span>سوال</span>
+
+
+;What is Do Not Track?
+تعاقب نہ کریں کیا ہے؟
+
+
+;Do Not Track is a step toward putting you in control of the way your information is collected and used online. Do Not Track is a feature in Firefox that allows you to let a website know you would like to opt-out of third-party tracking for purposes including behavioral advertising. It does this by transmitting a Do Not Track HTTP header every time your data is requested from the Web.
+مت کرو ٹریک طریقہ آپ کی معلومات کو جمع اور استعمال کیا جاتا ہے سب کو اپنے کنٹرول میں آپ کو ڈال کی طرف ایک قدم ہے. تعاقب نہ کریں کہ آپ ایک ویب سائٹ آپ رویے کی اشتہار بازی سمیت مقاصد کے لئے ٹریکنگ تیسرے فریق سے آپٹ آؤٹ کرنا چاہیں گے مطلع کرنے کے لئے اجازت دیتا ہے کہ فائر فاکس میں ایک فیچر ہے. یہ ایک نہیں کرتے ٹریک HTTP سر تحریر ہر بار آپ کے کوائف کو ویب سے درخواست ہے کہ ترسیل کی طرف سے کرتا ہے.
+
+
+;Is Do Not Track available on Firefox for Android?
+نہ کرو ٹریک اینڈرائیڈ کے لیے فائر فاکس پر دستیاب ٹریک ہے؟
+
+
+;Yes. Firefox for Android is the first mobile Web browser to offer the Do Not Track privacy feature, and behaves the same way it does on the desktop. To turn Do Not Track on in Firefox for Android, simply swipe left and tap on Browser Tools. From the Preferences pane, tap on the box next to &quot;Tell sites not to track me&quot; to turn this option on or off.
+Yes. Firefox for Android is the first mobile Web browser to offer the Do Not Track privacy feature, and behaves the same way it does on the desktop. To turn Do Not Track on in Firefox for Android, simply swipe left and tap on Browser Tools. From the Preferences pane, tap on the box next to &quot;Tell sites not to track me&quot; to turn this option on or off.
+
+
+;Does Do Not Track block ads?
+اشتہارات مسدود تعاقب نہ کیا کرتا ہے؟
+
+
+;No, you will still see ads with Do Not Track enabled. However, Do Not Track may change the type of ads you see. For example, behavioral ads are targeted to your interests based on the websites you visit and the search terms you use. If you request that websites Do Not Track you, and the sites respect your privacy preferences, you will see more generic ads in place of behavioral ads.
+نہیں، اگر آپ اب بھی چالو حالت میں نہ کرو ٹریک کے ساتھ اشتہارات نظر آئیں گے. تاہم، نہیں ٹریک اشتہارات دیکھتے ہیں کی قسم کو تبدیل کر سکتا ہے. مثال کے طور پر، رویے اشتھارات آپ ملاحظہ ویب سائٹوں اور سرچ اصطلاحات جو آپ استعمال پر مبنی اپنے مفادات کو نشانہ بنایا جاتا. آپ سے درخواست ہے کہ ویب سائٹس آپ کو ٹریک نہیں ہے، اور سائٹس آپ کی رازداری کی ترجیحات کا احترام تو، آپ کو رویوں کے اشتھارات کی جگہ میں زیادہ عام اشتہارات نظر آئیں گے.
+
+
+;How does Do Not Track work with other privacy tools?
+کس طرح دیگر رازداری کے اپنے ٹولز کے ساتھ کام تعاقب نہ کیا کرتا ہے؟
+
+
+;Do Not Track is one of many privacy solutions. Do Not Track does not replace your anti-virus software, will not encrypt data, and is not a security mechanism. There are several other <a href="%(url)s">privacy and security</a> features within Firefox.
+نہ کرو ٹریک بہت نجی معلومات کی حفاظتی مسائل کے حل میں سے ایک ہے. نہیں ٹریک آپ کا اینٹی وائرس سافٹ ویئر کو تبدیل نہیں کرتا کریں، کوائف خفیہ کاری، اور ایک سلامتی کے طریقہ کار نہیں ہے نہیں کرے گا. کئی دوسرے <a href="%(url)s"> رازداری اور سلامتی ہیں </a> فائر فاکس کی اندر کی خصوصیات.
+
+
+;Will Do Not Track affect the rest of my Web experience?
+کیا سرغ راہ مت کریں میری ویب کے تجربے کے باقی حصوں کو متاثر کرے گا؟
+
+
+;Do Not Track may interfere with some personalized services you enjoy. For example, a Do Not Track request might mean you would have to type in your zip code each time you want to view a weather report, rather than seeing the weather automatically displayed. Personalization on websites can save you time and repetitive typing, but it requires data.
+کچھ مشخص خدمات آپ سے لطف اندوز کے ساتھ مداخلت کر سکتے تعاقب نہ کریں. مثال کے طور پر، ایک کریں نہیں ٹریک کی درخواست کا مطلب ہو سکتا آپ کو آپ کی زپ کوڈ میں آپ کی بجائے موسم کے خود کار طریقے سے دکھایا دیکھنے سے، ایک موسم کی رپورٹ دیکھنا چاہتے ہیں ہر بار ٹائپ کرنا پڑے گا. ویب سائٹس پر ذاتی نوعیت آپ کے پاس وقت اور بار بار ٹائپنگ محفوظ کر سکتے ہیں، لیکن یہ کوائف کی ضرورت ہوتی ہے.
+
+
+;How do I enable Do Not Track in Firefox?
+How do I enable Do Not Track in Firefox?
+
+
+;This feature is not enabled by default. You can find the Do Not Track request on the Privacy pane. <span id="%(id)s">On Windows, go to Tools &gt; Options&hellip; &gt; Privacy.</span>
+یہ فیچر طےشدہ کی طرف سے فعال نہیں ہے. آپ کی رازداری کے پین پر نہیں ٹریک کی درخواست حاصل کر سکتے ہیں. <span id="%(id)s">ونڈوز پر، فورم کے اوزار اور جی ٹی کو جانا؛ اختیارات hellip اور عمومی؛ & gt؛ پر نجی معلومات کی حفاظتی .</span>
+
+
+;On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
+On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
+
+
+;Click to check the box next to &quot;Tell websites I do not want to be tracked&quot;. For more information, see the help file on <a href="%(url)s">how to stop websites from tracking you</a>.
+Click to check the box next to &quot;Tell websites I do not want to be tracked&quot;. For more information, see the help file on <a href="%(url)s">how to stop websites from tracking you</a>.
+
+
+;Will companies honor my Do Not Track preference?
+کمپنیوں میرا نہ کرو ٹریک ترجیح کا احترام کرے گا؟
+
+
+;Companies are starting to support Do Not Track, but you may not notice any changes initially. We are actively working with companies that have started to implement Do Not Track, with others who have committed to doing so soon.
+کمپنیاں تعاقب نہ کریں کی حمایت کرنا شروع کر رہے ہیں، لیکن آپ کو ابتدائی طور پر کسی قسم کی تبدیلی محسوس نہیں کر سکتے. ہم فعال طور پر کمپنیوں کے نفاذ کے لیے دوسرے لوگ جو اتنی جلدی کر رہے کرنے کے لئے مصروف عمل ہے کے ساتھ، تعاقب نہ کریں شروع کر دیا ہے کے ساتھ کام کر رہے ہیں.
+
+
+;Where can I learn more?
+میں زیادہ معلومات حاصل کر سکتے ہیں؟
+
+
+;Other interesting work about Do Not Track and online privacy:
+Other interesting work about Do Not Track and online privacy:
+
+
+;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
+<a href="%s">نجی براؤزنگ</a> فائر فاکس میں &#8212; کوائف کی بچت کی حدود جس سائٹس اور صفحات کے بارے میں آپ کے آن لائن کا دورہ کیا ہے
+
+
+;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
+<a href="%(url1)s">کوکیز کا نظم کرنا</a> فائر فاکس میں&#8212; آپ کو کس طرح کنٹرول کی اجازت دیتا ہے<a href="%(url2)s">کوکیز</a>آپ کے کمپیوٹر پر محفوظ کی جاتی ہیں
+
+
+;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
+<a href="%s">یلیکس فاؤلر کی موزیلا بلاگ</a> &#8212;موزیلا ٹیکنالوجی اور پرائیویسی آفیسر سے تازہ ترین خبر
+
+
+;<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
+<a href="%s">ہمارا سراغراہ مت لگائیں</a>پراجیکٹ &#8212; سٹینفورڈ محققین سراغ راہ نہ کریں کے خیالات پر کام کر رہے ہیں
+
+
+;The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
+The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
+
+
+;Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
+ٹریکنگ تعمیل اور گنجائشa href="%s">W3C> ایڈیٹر کا مسودہ</a>
+
+
+;The W3C <a href="%s">Tracking Protection Working Group</a>
+The W3C <a href="%s">Tracking Protection Working Group</a>
+
+
+;<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
+<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
+
+
+;See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
+See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
+
+
+;Mozilla and Stanford’s Do Not Track <a href="%(url)s">submission to the IETF</a> &#8212; IETF is a standards body that helps define how the Web works, regardless of which Internet browser you use
+Mozilla and Stanford’s Do Not Track <a href="%(url)s">submission to the IETF</a> &#8212; IETF is a standards body that helps define how the Web works, regardless of which Internet browser you use
+
+
+;Enable Do Not Track in Firefox
+کریں فائر فاکس میں تعاقب نہ اہل بنائیں
+
+
+;Options window - Advanced panel - Do Not Track
+اختیارات دریچہ- اعلی درجے پینل - تعاقب نہ کریں
+
+
+;Enabling Do Not Track
+Enabling Do Not Track
+
+
+;Click for Instructions
+ہدایات کے لیے کلک کریں
+
+
+;Enable Do Not Track in Internet Explorer 9
+Enable Do Not Track in Internet Explorer 9
+
+
+;To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
+سراغ راہ مت کریں کو  IE 9 میں اہل بنانے کے لیئے آپ کو  IE 9 میں جالو کرنا پڑے گی ’<a href="%(url)s"> سراغ راہ حفاظت کاری  </a> فیحر۔ سب سے آسان طرقہ آُپ کر سکتے ہیں کہ تنصیب کریں<a href="%(tpl)s">موزیلا کی سادہ سراغ راہ فہرست</a>۔ اگر آپ نے IE 9 میں یہ صفحہ کا نظارہ کییا تو ویان دائیں جانب  ہدایت یہاں ہیں
+
+

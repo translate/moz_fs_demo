@@ -1,0 +1,160 @@
+# main title;The best of the latest Firefox
+Thủ thuật sử dụng Firefox
+
+
+;Bookmarks
+Đánh dấu trang
+
+
+;Simplify
+Đơn giản hoá
+
+
+;Arrange
+Sắp xếp
+
+
+;Sync
+Đồng bộ Sync
+
+
+;5 top tips, tricks and time-saving tools
+5 lời khuyên, thủ thuật và công cụ tiết kiệm thời gian hàng đầu
+
+
+;1
+1 {ok}
+
+
+;2
+2 {ok}
+
+
+;3
+3 {ok}
+
+
+;4
+4 {ok}
+
+
+;5
+5 {ok}
+
+
+;back
+quay lại
+
+
+;next
+tiếp
+
+
+# Tip 1;Click the star
+Nhấn vào hình ngôi sao
+
+
+;Watch the star jump so you know your bookmark has been added.
+Nếu bạn thấy ngôi sao nhảy lên tức là đánh dấu trang của bạn đã được thêm vào.
+
+
+;(Try it! It’s fun!)
+(Bạn thử xem! Nhìn rất thú vị!)
+
+
+;How to:
+Cách làm:
+
+
+;Click the star to add bookmarks and manage them from the same spot.
+Nhấn vào hình ngôi sao để thêm đánh dấu trang và quản lý chúng từ cùng một chỗ.
+
+
+# Tip 2;Simplify your life
+Đơn giản hóa cuộc sống của bạn
+
+
+;Go to your happy place.
+Sắp xếp theo cách bạn mong muốn.
+
+
+;Remove the buttons you don’t use so you can find the ones you do.
+Loại bỏ những nút bạn không dùng để dễ dàng tìm thấy những nút bạn hay dùng hơn.
+
+
+# The strong tags are for presentational purpose;Open the menu, select “<strong>Customize</strong>” and drag any button out of the toolbar.
+Mở menu, chọn “<strong>Tùy biến</strong>” và kéo thả những nút nút bạn không muốn khỏi thanh công cụ.
+
+
+# Tip 3;Add your faves
+Thêm những thứ bạn thích
+
+
+;Play favorites with the features you use most and arrange them for fast, easy access.
+Xếp những tính năng bạn thích dùng nhất để dễ dàng truy cập hơn.
+
+
+# The strong tags are for presentational purpose;Open the menu, select “<strong>Customize</strong>” and drag any button into the toolbar or menu.
+Mở menu, chọn “<strong>Tùy biến</strong>” và kéo thả những nút bạn muốn vào thanh công cụ hoặc menu.
+
+
+# Tip 4;Stay in Sync
+Luôn luôn đồng bộ
+
+
+# New string;Use Sync to magically access your open tabs, passwords and more wherever you use Firefox.
+Sử dụng tính năng đồng bộ Sync để truy cập các tab đang mở, mật khẩu cùng nhiều thứ khác từ mọi nơi với Firefox.
+
+
+# Old string, will be removed once the new string is activated;Use Sync to magically access your open tabs, passwords and more from any device.
+Sử dụng Sync để tự động truy cập các tab đang mở, mật khẩu và nhiều thứ khác từ mọi thiết bị khác nhau.
+
+
+# The strong tags are for presentational purpose;Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
+Chọn “<strong>Đăng nhập vào Sync</strong>” từ menu để sử dụng Firefox với thiết lập của chính bạn từ bất kỳ nơi đâu.
+
+
+# Tip 5;Free your add-ons
+Giải phóng các tiện ích của bạn
+
+
+;Keep those special, favorite add-ons in your menu so they’re visible and easily within reach.
+Giữ những tiện ích thú vị mà bạn ưa thích luôn ở menu để dễ dàng sử dụng nhất.
+
+
+# The strong tags are for presentational purpose;Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
+Chọn “<strong>Tùy biến</strong>” ở menu và kéo những tiện ích bạn muốn vào.
+
+
+;Get Firefox
+Tải Firefox
+
+
+;Congratulations
+Chúc mừng!
+
+
+;You’re an expert!
+Bạn đã là một chuyên gia rồi!
+
+
+;Now help your friends master Firefox.
+Giờ hãy giúp bạn bè cũng trở thành chuyên gia Firefox đi.
+
+
+# Accessibility string for link;Learn more about bookmarks
+Tìm hiểu thêm về đánh dấu trang
+
+
+# Accessibility string for link;Learn more about customizing
+Tìm hiểu thêm về tùy biến
+
+
+# Accessibility string for link;Learn more about Sync
+Tìm hiểu thêm về Sync
+
+
+# Accessibility string for link;Learn more about add-ons
+Tìm hiểu thêm về các tiện ích
+
+

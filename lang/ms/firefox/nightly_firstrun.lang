@@ -1,0 +1,77 @@
+;Firefox Nightly First Run Page
+Laman Larian Kali Pertama Firefox Nightly
+
+
+;Thank you for using Firefox Nightly
+Terima kasih kerana menggunakan Firefox Nightly
+
+
+;Choose an area to get involved below and help make Firefox better for users everywhere
+Pilih bidang yang ingin diceburi berikut dan bantu menjadikan Firefox lebih baik untuk pengguna di mana jua
+
+
+;Test
+Ujian
+
+
+;Find and file bugs and generally make sure things work as they should.
+Cari dan failkan pepijat dan dan secara amnya pastikan ianya berfungsi sebagaimana yang sepatutnya.
+
+
+;Start testing
+Mula menguji
+
+
+# Link used for the "Start testing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to test Mozilla products.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://oneanddone.mozilla.org
+https://oneanddone.mozilla.org {ok}
+
+
+;Code
+Kod
+
+
+;File bugs and work on the building blocks of the Firefox browser.
+Failkan pepijat dan lakukan pada blok binaan pelayar Firefox.
+
+
+;Start coding
+Mula mengekod
+
+
+# Link used for the "Start coding" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to Firefox code.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://developer.mozilla.org/docs/Introduction
+https://developer.mozilla.org/docs/Introduction {ok}
+
+
+;Localize
+Lokalise
+
+
+;Make Firefox available (and better) in more languages around the world.
+Jadikan Firefox tersedia (dan lebih baik) dalam lebih banyak bahasa di serata dunia.
+
+
+;Start localizing
+Mula melokalisasi
+
+
+# Link used for the "Start localizing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://wiki.mozilla.org/L10n:Contribute
+https://wiki.mozilla.org/L10n:Contribute {ok}
+
+
+;Show everyone that you’re helping to build the Web the world needs.
+Tunjukkan kepada semua yang anda membantu untuk membina Web yang dunia perlukan.
+
+
+;Get your Nightly User badge
+Dapatkan lencana Pengguna Nightly anda
+
+

@@ -1,0 +1,77 @@
+;Firefox Nightly First Run Page
+Firefox Nightly First Run Page {ok}
+
+
+;Thank you for using Firefox Nightly
+សូម​អរគុណ​ចំពោះ​ការ​ប្រើប្រាស់ ​Firefox Nightly
+
+
+;Choose an area to get involved below and help make Firefox better for users everywhere
+ជ្រើស​យក​ផ្នែក​ណា​មួយ​ខាង​ក្រោម​ដែល​អ្នក​ចង់​ចូលរួម​និង​ជួយ​ធ្វើ​ឲ្យ Firefox ប្រសើរ​ឡើង​សម្រាប់​អ្នក​ប្រើ​ប្រាស់​គ្រប់​ទី​កន្លែង
+
+
+;Test
+សាកល្បង
+
+
+;Find and file bugs and generally make sure things work as they should.
+ស្វែងរក​កំហុស​ឯកសារ ហើយ​​ប្រាកដ​ថា​ដំណើរការ​​ដូច​ជា​ពួក​យើង​បាន​ធ្វើ។
+
+
+;Start testing
+ចាប់ផ្ដើម​សាកល្បង
+
+
+# Link used for the "Start testing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to test Mozilla products.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://oneanddone.mozilla.org
+https://oneanddone.mozilla.org {ok}
+
+
+;Code
+កូដ
+
+
+;File bugs and work on the building blocks of the Firefox browser.
+កំហុស​ឯកសារ និង​ការងារ​នៅ​ពេល​បង្កើត​ប្លុក​នៃ​កម្មវិធី​អ៊ីនធឺណិត Firefox ។
+
+
+;Start coding
+ចាប់ផ្ដើម​សរសេរ​កូដ
+
+
+# Link used for the "Start coding" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to Firefox code.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://developer.mozilla.org/docs/Introduction
+https://developer.mozilla.org/docs/Introduction {ok}
+
+
+;Localize
+បកប្រែ
+
+
+;Make Firefox available (and better) in more languages around the world.
+បកប្រែ Firefox និង​ធ្វើ​ឲ្យ​វា​ប្រសើរ​ឡើង​ក្នុង​ភាសា​ដទៃ​ទៀត​ដែល​មាន​នៅ​លើ​ពិភពលោក។
+
+
+;Start localizing
+ចាប់ផ្ដើម​ការ​បកប្រែ
+
+
+# Link used for the "Start localizing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://wiki.mozilla.org/L10n:Contribute
+https://wiki.mozilla.org/L10n:Contribute {ok}
+
+
+;Show everyone that you’re helping to build the Web the world needs.
+បង្ហាញ​មនុស្ស​គ្រប់​គ្នា​ថា​អ្នក​កំពុង​ជួយ​បង្កើត​បណ្ដាញ​ដែល​ពិភពលោក​ត្រូវការ។
+
+
+;Get your Nightly User badge
+ទទួល​បាន​សញ្ញា​សម្គាល់​អ្នក​ប្រើ​សម្រាប់ Nightly របស់​អ្នក
+
+

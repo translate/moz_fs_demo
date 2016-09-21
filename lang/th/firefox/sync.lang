@@ -1,0 +1,206 @@
+;Keep your Firefox in sync
+ทำให้ Firefox ของคุณอยู่ในการผสาน
+
+
+;Ready, Set, Sync
+พร้อม ตั้งค่า ผสาน
+
+
+;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+คุณได้ลงชื่อเข้าร่วมและพร้อมแล้วที่จะเข้าถึง Firefox <em>ของคุณ</em> ทุกที่ ทุกเวลา
+
+
+;Take your Web with you
+นำเว็บไปกับคุณ
+
+
+;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+ผสาน Firefox ทุกที่ที่คุณใช้เพื่อเข้าถึงที่คั่นหน้า, รหัสผ่าน, แท็บ และอื่น ๆ ของคุณจากสมาร์ทโฟน, แท็บเล็ต หรือคอมพิวเตอร์
+
+
+;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+ผสานที่คั่นหน้า, รหัสผ่าน, แท็บ และอื่น ๆ ของคุณโดยใช้บัญชี Firefox และเข้าถึงได้ทุกที่ที่คุณลงชื่อเข้าใช้
+
+
+;It looks like you’re running an older version of Firefox.
+ดูเหมือนคุณกำลังใช้งาน Firefox รุ่นเก่าอยู่
+
+
+;The new version of Sync only works with the latest version of Firefox
+การผสานรุ่นใหม่ใช้งานได้กับ Firefox รุ่นล่าสุดเท่านั้น
+
+
+;Soon you’ll be able to use Sync on your iOS device
+อีกไม่นานคุณจะสามารถใช้การผสานบนอุปกรณ์ iOS ของคุณ
+
+
+;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+การผสานเป็นเพียงหนึ่งในฟีเจอร์อันยอดเยี่ยมที่คุณจะสามารถใช้ได้ด้วย Firefox เท่านั้น ค้นพบฟีเจอร์ทั้งหมด!
+
+
+;Now sync Firefox with your iOS and Android devices.
+ตอนนี้ผสาน Firefox กับอุปกรณ์ iOS และ Android ของคุณได้แล้ว
+
+
+# This string is displayed when you visit the page with a different browser (i.e. not Firefox);Sync is just one of the great features you’ll only get with Firefox.
+การผสานเป็นเพียงหนึ่งในฟีเจอร์อันยอดเยี่ยมที่คุณจะสามารถใช้ได้ด้วย Firefox เท่านั้น
+
+
+;Download Firefox for Android
+ดาวน์โหลด Firefox สำหรับ Android
+
+
+;Get started with Sync
+เริ่มต้นกับการผสาน
+
+
+;Update your Firefox
+ปรับรุ่น Firefox
+
+
+;Download Firefox
+ดาวน์โหลด Firefox
+
+
+;Get started with Sync in four easy steps:
+เริ่มต้นกับการผสานใน 4 ขั้นตอนง่ายๆ :
+
+
+# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+
+
+# (NEW STRING) <strong> tags used for font color formatting.;Click “<strong>Get started</strong>” in the tab that opens.
+Click “<strong>Get started</strong>” in the tab that opens.
+
+
+# (NEW STRING) <strong> tags used for font color formatting.;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+ใส่อีเมลและรหัสผ่านเพื่อ "<strong>สร้างบัญชี Firefox</strong>"
+
+
+# (NEW STRING) <strong> tags used for font color formatting.;Click “<strong>Next</strong>” to get a verification sent to your email.
+Click “<strong>Next</strong>” to get a verification sent to your email.
+
+
+;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+หลังจากที่คุณตรวจสอบอีเมลของคุณและคลิกลิงก์ยืนยัน คุณอย่างของคุณจะถูกตั้งค่าไว้แล้ว! Firefox จะซิงค์อัตโนมัติในเบื้องหลังตั้งแต่ตอนนั้น
+
+
+;Get more detailed instructions.
+รับรายละเอียดคำแนะนำเพิ่มเติม
+
+
+;Using an older version of Sync?
+กำลังใช้งาน Sync รุ่นเก่า?
+
+
+# This string is displayed on Android devices;How to set up Sync in five easy steps:
+วิธีการตั้งค่าการซิงค์ในห้าขั้นตอนง่ายๆ:
+
+
+# <strong> tags below used for font color formatting.
+# This string is displayed on Android devices;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+
+
+# This string is displayed on Android devices;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+
+
+# This string is displayed on Android devices;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+
+
+# This string is displayed on Android devices;The <strong>Create a Firefox Account page</strong> will open in a new tab.
+The <strong>Create a Firefox Account page</strong> will open in a new tab.
+
+
+# This string is displayed on Android devices;Fill out the form and click <strong>Next</strong>.
+กรอกแบบฟอร์มและคลิก<strong>ถัดไป</strong>
+
+
+# This string is displayed on Android devices;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+หลังจากคุณตรวจสอบอีเมลและคลิกลิงก์ยืนยัน คุณก็พร้อมที่จะไปแล้ว! อย่าลืมเชื่อมต่ออุปกรณ์ทั้งหมดของคุณเพื่อรับประโยชน์สูงสุดจากซิงค์
+
+
+;Sync a little. Sync a lot.
+ซิงค์เล็กน้อย ซิงมาก ๆ
+
+
+;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+คุณสามารถเลือกว่าส่วนใดของ Firefox ของคุณที่คุณต้องการซิงค์และสถานที่ที่คุณต้องการซิงค์มัน นำแท็บที่เปิดอยู่แลกเปลี่ยนกันทุกวัน เข้าถึงที่คั่นหน้าของคุณในที่ทำงาน อะไรก็ตาม เมื่อไรก็ตาม ที่ไหนก็ตาม
+
+
+;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+ต้องการเยี่ยมชมแท็บที่เปิดจากคอมพิวเตอร์ของคุณบนอุปกรณ์อื่น? เข้าถึงประวัติการเข้าชมระหว่างการเดินทาง? เก็บรหัสผ่านไว้กับคุณ? ตอนนี้คุณสามารถทำได้แล้ว
+
+
+;Here’s what you can sync:
+นี่คือสิ่งที่คุณสามารถผสานได้:
+
+
+;Bookmarks
+ที่คั่นหน้า
+
+
+;Passwords
+รหัสผ่าน
+
+
+;Open tabs
+เปิดแท็บ
+
+
+;History
+ประวัติ
+
+
+;At home
+ที่บ้าน
+
+
+;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+
+
+;At work
+ที่ทำงาน
+
+
+;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+เชื่อมต่อกับข้อมูลสำคัญของคุณตลอดเวลา ซิงค์รหัสผ่านและที่คั่นหน้าที่คุณอาจต้องการเข้าถึงในเวลาใด ๆ เหมือนกับ Firefox มันปลอดภัยเหมือนกัน
+
+
+;On the go
+ทุกที่ที่ไป
+
+
+;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+ติดตามไซต์ที่คุณชื่นชอบ หรือทำเรื่องราวที่คุณเริ่มต้นจากที่บ้านให้เสร็จ ทุกที่ที่คุณไปด้วยซิงค์ ไม่เคยมีอะไรง่ายแบบนี้มาก่อน
+
+
+;Add Firefox to your smartphone or tablet
+เพิ่ม Firefox เข้าไปยังสมาร์ทโฟนหรือแท็บเล็ตของคุณ
+
+
+;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+เพื่อรับประสบการณ์ซิงค์อย่างเต็มรูปแบบ รับ Firefox สำหรับ iOS หรือ Android และเชื่อมต่ออุปกรณ์ทั้งหมดของคุณ ทุกหนทุกแห่งที่คุณใช้ Firefox
+
+
+;Add Firefox
+เพิ่ม Firefox
+
+
+;Have an <b>Android smartphone</b> or <b>tablet</b>?
+มี<b>สมาร์ทโฟน Android</b> หรือ<b>แท็บเล็ต</b>ไหม?
+
+
+;DOWNLOAD FIREFOX FOR ANDROID
+DOWNLOAD FIREFOX FOR ANDROID
+
+
+;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+เพื่อการรับประสบการณ์การผสานอย่างเต็มที่ นำพาเว็บไปกับคุณทุกที่ที่คุณใช้ Firefox เชื่อมต่ออุปกรณ์สมาร์ทโฟน, แท็บเล็ต, คอมพิวเตอร์ และคอมพิวเตอร์พกพาของคุณ
+
+

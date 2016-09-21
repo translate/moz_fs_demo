@@ -1,0 +1,48 @@
+;How fast is your Firefox?
+Cik ātrs ir jūsu Firefox?
+
+
+# Bug 957283: wording modification just for pt-BR;New Firefox is up to 7 times faster. (That’s a lot!) Check the speedometer to see if yours can keep up.
+Jaunais Firefox ir līdz pat 7 reizēm ātrāks. (Tas gan daudz!) Pārbaudiet ātruma skaitītāju lai redzētu vai jūsu arī var tik pat daudz.
+
+
+;Learn more
+Uzzināt vairāk
+
+
+;Old Firefox = <em>Sadface</em>
+Novecojis Firefox = <em>Bēdīga seja</em>
+
+
+;New Firefox = <em>Yay!</em>
+Jauns Firefox = <em>Jā!</em>
+
+
+;That just isn’t going to cut it. Stop browsing in the past and <a href="%(url)s">upgrade now!</a>
+That just isn’t going to cut it. Stop browsing in the past and <a href="%(url)s">upgrade now!</a>
+
+
+;Now we’re talking!
+Now we’re talking!
+
+
+;Feels better, doesn’t it? Welcome to the future of the Web. It’s nice here.
+Labāka sajūta, vai nē? Sveicināti tīmekļa nākotnē. Te ir forši.
+
+
+;Hey, looks like you’re using %BROWSER%. Why not grab Firefox and get up to speed.
+Sveiki, izskatās ka jūs izmantojat %BROWSER%. Kāpēc nepamēģināt Firefox un paātrināt savu pārlūkošanu?
+
+
+;Hey, looks like you’re not using Firefox as your browser. Why not grab Firefox and get up to speed.
+Sveiki, izskatās ka jūs neizmantojat Firefox kā savu pārlūku. Kāpēc nepamēģināt Firefox un paātrināt savu pārlūkošanu?
+
+
+;New Firefox is faster, free (as always), crashes less and protects your privacy more.
+Jaunais Firefox ir ātrāks, par brīvi (kā vienmēr), mazāk uzkaras un vēl vairāk pasarga jūsu privātumu.
+
+
+;<a href="%(url)s">Upgrading</a> takes less than a minute and you won’t lose your history or bookmarks. Hooray!
+<a href="%(url)s">Atjaunināšana</a> aizņem mazāk par minūte un jūs nezaudēsiet nedz savu vēsturi, nedz savas grāmatzīmes. Urrā!
+
+

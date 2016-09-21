@@ -1,0 +1,356 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new;Get Monthly News
+Получайте ежемесячные новости
+
+
+;Your Email Address
+Ваш адрес эл. почты
+
+
+;Your email address:
+Ваш адрес эл. почты:
+
+
+;Text
+Текст
+
+
+;Available Languages
+Доступные языки
+
+
+;Language:
+Язык:
+
+
+;Select country
+Выберите страну
+
+
+;Country:
+Страна:
+
+
+;Whoops! Be sure to enter a valid email address.
+Ой! Убедитесь, что введён корректный адрес эл. почты.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Пожалуйста прочтите Политику приватности Mozilla и согласитесь с ней, установив флажок.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Я согласен с <a href="%s">Политикой приватности</a>
+
+
+;Sign me up!
+Подписаться!
+
+
+;We will only send you Mozilla-related information.
+Мы будем посылать вам только информацию, относящуюся к Mozilla.
+
+
+;Thanks for Subscribing!
+Спасибо за подписку!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+В скором времени мы начнём делиться полезными советами и приёмами, позволяющими использовать Firefox по максимуму, а также интересными новостями о Mozilla, и о том, как мы работаем, чтобы улучшить Интернет.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Подпишитесь на ежемесячную рассылку и будьте в курсе новостей Mozilla, а также последних советов и секретов, позволяющих использовать ваш Firefox по максимуму. Это идеальный способ для нас оставаться на связи!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Мы только что послали вам по эл. почте письмо для подтверждения. Щёлкните по ссылке в этом письме, чтобы подтвердить вашу подписку на этот список рассылки.
+
+
+;Read all about it in our <span>newsletter</span>
+Узнайте все новости из <span>нашей подписки</span>
+
+
+;Your newsletter subscription has been confirmed.
+Ваша подписка на новостную рассылку была подтверждена.
+
+
+;Format
+Формат
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+У вас всё настроено! <span>Но погодите, у нас есть больше</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Хотите получать наиболее полезную информацию? Расскажите нам немного о себе. И, пока вы здесь, подпишитесь на другие новости о Mozilla.
+
+
+;Firefox & You
+Firefox и Вы
+
+
+;Our Other Newsletters:
+Наши другие новостные рассылки:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Получайте новейшие полезные советы и приёмы, позволяющие использовать ваш любимый браузер по максимуму.
+
+
+;Firefox Mobile
+Мобильный Firefox
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Узнавайте о самых горячих новинках и популярных дополнениях для мобильного Firefox.
+
+
+;Beta News
+Новости о бета-версии
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Read about the latest features for Firefox desktop and mobile before the final release.
+
+
+;Let’s Be Friends!
+Давайте станем друзьями!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox также можно найти в ваших любимых социальных сетях. Свяжитесь с нами и присоединяйтесь к дискуссиям.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Управление вашими <span>подписками на новостные рассылки</span>
+
+
+;Subscribe
+Подписаться
+
+
+;Unsubscribe
+Отписаться
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Отметьте здесь, если вы хотите отписаться от всех писем из Mozilla
+
+
+;Remove me from all Mozilla emails
+Отписать меня от всех рассылок Mozilla
+
+
+;Save Preferences
+Сохранить настройки
+
+
+;Thanks for updating your email preferences.
+Спасибо, что обновили ваши почтовые настройки.
+
+
+;You've been unsubscribed.
+Вы были отписаны.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Нам жаль, что вы уходите. Вы не возражаете, если мы спросим, почему вы отписываетесь?
+
+
+;You send too many emails.
+Вы послали слишком много писем.
+
+
+;Your content wasn't relevant to me.
+Содержимое писем было для меня не интересно.
+
+
+;Your email design was too hard to read.
+Дизайн ваших писем делал их слишком трудными для чтения.
+
+
+;I didn't sign up for this.
+Я на это не подписывался.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Я держу связь с Mozilla через Facebook и Твиттер.
+
+
+;Submit
+Отправить
+
+
+;Thanks for telling us why you’re leaving.
+Спасибо, что рассказали нам, почему вы отписываетесь.
+
+
+;Mozilla Newsletters
+Новостные рассылки Mozilla
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Спасибо! Пожалуйста, проверьте свою папку входящих писем, чтобы подтвердить свою подписку.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Вы получите сообщение от mozilla@e.mozilla.org, просящее подтвердить вашу подписку. Если вы его не видите, проверьте свой спам-фильтр. Для получения нашей новостной рассылки вы должны подтвердить свою подписку.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Не забудьте добавить наш адрес отправителя: mozilla@e.mozilla.org в свою адресную книгу, чтобы почта от него всегда доходила до вашей папки входящих писем.
+
+
+# This string is used for a subscription field on other pages than /newsletter/;Get Firefox news
+Получайте новости Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/;YOUR EMAIL HERE
+ВАШ АДРЕС ЭЛ. ПОЧТЫ
+
+
+# Button;Sign me up
+Подписаться
+
+
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Я согласен с условиями использования личной информации согласно <a href="%s">Политике приватности</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Я согласен с тем, как Mozilla обращается с моей информацией, согласно <a href="%s">этой Политике приватности</a>
+
+
+;The supplied link has expired. You will receive a new one in the next newsletter.
+Указанная ссылка истекла. Вы получите новую ссылку в следующем письме.
+
+
+;Something is amiss with our system, sorry! Please try again later.
+Извините, в нашей системе что-то пошло не так! Пожалуйста, повторите попытку позже.
+
+
+;English&nbsp;only
+Только на английском
+
+
+;Newsletter Subscriptions
+Подписки на новостные рассылки
+
+
+;Newsletter confirm
+Подтверждение новостной рассылки
+
+
+;Format:
+Формат:
+
+
+;You’ve been unsubscribed.
+Вы были отписаны.
+
+
+;We’re sorry to see you go.
+Нам жаль, что вы уходите.
+
+
+;Would you mind telling us why you’re leaving?
+Не хотели бы вы рассказать, почему вы нас покидаете?
+
+
+;Other…
+Другое…
+
+
+;While here, why not check out some more Firefox awesomeness.
+Пока вы здесь, почему бы не взглянуть на другие удивительные возможности Firefox.
+
+
+;Get up and go
+С вами в пути
+
+
+;It’s your Web anywhere you go.
+Возьмите в дорогу свой Интернет.
+
+
+;Get Firefox for mobile!
+Загрузите мобильный Firefox!
+
+
+;Added extras
+Добавьте новые трюки
+
+
+;Make Firefox do more with add-ons.
+Научите Firefox делать больше с помощью дополнений.
+
+
+;Find out how!
+Узнайте как!
+
+
+;About us
+О нас
+
+
+;What’s Mozilla all about?
+В чём заключена работа Mozilla?
+
+
+;We’re glad you asked!
+Мы рады, что вы спросили!
+
+
+# Description for the newsletter in Newsletter subscription page;A monthly newsletter packed with tips to improve your Firefox experience.
+Ежемесячная новостная рассылка с советами по улучшению работы с Firefox.
+
+
+# Description for the newsletter in Newsletter subscription page;Tips and tricks to use Firefox on your Android phone.
+Советы и хитрости по использованию Firefox на вашем телефоне Android.
+
+
+# Description for the newsletter in Newsletter subscription page;Firefox OS news, tips, launch information and where to buy.
+Firefox OS: Новости, советы, информация по запуску и где купить устройства.
+
+
+# Description for the newsletter in Newsletter subscription page;Discover the latest, coolest HTML5 apps on Firefox OS.
+Откройте для себя самые новейшие крутые HTML5-приложения на Firefox OS.
+
+
+# Description for the newsletter in Newsletter subscription page;Get a weekly tip on how to super-charge your Firefox experience.
+Получайте каждую неделю совет, который поможет вам набрать опыт работы с Firefox.
+
+
+# Description for the newsletter in Newsletter subscription page;Read about the latest features for Firefox desktop and mobile before the final release.
+Read about the latest features for Firefox desktop and mobile before the final release.
+
+
+# Description for the newsletter in Newsletter subscription page;News from the Mozilla Project.
+Новости проекта Mozilla.
+
+
+# Description for the newsletter in Newsletter subscription page;Periodic email updates about our annual international film competition.
+Периодические обновления о нашем ежегодном международном конкурсе фильмов.
+
+
+# Description for the newsletter in Newsletter subscription page;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+Ежемесячный информационный бюллетень с новостями программы Firefox Affiliates.
+
+
+# Description for the newsletter in Newsletter subscription page;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+Новости для разработчиков о Firefox OS, Магазине Firefox и экосистеме открытых веб-приложений.
+
+
+# Description for the newsletter in Newsletter subscription page;Email updates for vouched Mozillians on mozillians.org.
+Почтовые обновления для поручённых Мозилльцев на mozillians.org.
+
+
+# Description for the newsletter in Newsletter subscription page;A monthly newsletter on how to get involved with Mozilla on your campus.
+Ежемесячный информационный бюллетень о том, как принять участие в проекте Mozilla на вашем кампусе.
+
+
+# Description for the newsletter in Newsletter subscription page;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+Бывшая программа университета с 2008-2011, сейчас прекращена и возобновлена как программа Firefox Student Ambassadors.
+
+

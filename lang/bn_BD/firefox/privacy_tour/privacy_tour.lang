@@ -1,0 +1,176 @@
+# This is the title for a door-hanger menu that shows in the browser chrome;See what’s new
+দেখুন নতুন কি আছে
+
+
+# This is the text for a door-hanger menu that shows in the browser chrome;You’re up to date with the latest features to help keep you in control.
+আপনি নতুন ফিচারসহ হালনাগাদ রয়েছেন, যা আপনার কাছে নিয়ন্ত্রণ রাখতে সাহায্য করে।
+
+
+# This is the label for a button that starts the tour;Let’s go
+চলুন যাই
+
+
+# This is the label for a button that delays starting the tour;Not now
+এখনই নয়
+
+
+# This is the label for a button that opens the tour modal dialog;Open tour
+সফর শুরু করুন
+
+
+# This is the label for a button that closes the tour modal dialog;Close tour
+সফর বন্ধ করুন
+
+
+# This is the text for a call to action that appears in the web page;See the newest ways you can take control of your digital life
+আপনার ডিজিটাল জীবনের নিয়ন্ত্রণ নেওয়ার নতুনতম উপায়
+
+
+# This is the label that represents tour step one of three;1/3
+1/3 {ok}
+
+
+# This is the label that represents tour step two of three;2/3
+2/3 {ok}
+
+
+# This is the label that represents tour step three of three;3/3
+3/3 {ok}
+
+
+;Declare your independence
+আপনার স্বাধীনতা ঘোষণা করুন
+
+
+;Thank you for choosing Firefox
+ফায়ারফক্স বেছে নেয়ার জন্য ধন্যবাদ
+
+
+;Watch the video to see our story
+আমাদের গল্প দেখতে ভিডিওটি দেখুন
+
+
+;Now share it with your world
+আপনার দুনিয়ায় এখন এটি শেয়ার করুন
+
+
+;Play
+প্লে
+
+
+;Play the video
+ভিডিওটি প্লে করুন
+
+
+;Share
+শেয়ার
+
+
+;Start browsing
+ব্রাউজিং শুরু করুন
+
+
+;Previous
+পূর্ববর্তী
+
+
+;Next
+পরবর্তী
+
+
+;Close
+বন্ধ
+
+
+# STEP 1 of the tour (Forget button)
+# %s is a searchplugin name;<span>Next:</span> %s
+<span>পরবর্তী:</span> %s
+
+
+# <br> tag below used for formatting only.
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta;Use Forget to cover your tracks or escape from sites you don’t trust
+আপনার পদচিহ্ন আড়াল করতে অথবা আস্থাভাজন নয় এমন সাইট থেকে বেরিয়ে আসতে Forget ব্যবহার করুন
+
+
+;Remove browsing history from your computer
+আপনার কম্পিউটার হতে ব্রাউজিং ইতিহাস অপসারন করুন
+
+
+;Erase website information after the fact
+কাজ শেষে ওয়েবসাইটের তথ্য মুছে ফেলুন
+
+
+;Add it above for quick, easy access
+দ্রুত ও সহজে ব্যবহারের জন্য এটি উপরে যোগ করুন
+
+
+;The new Forget button
+নতুন ভুলে যাও বোতাম
+
+
+;Want to cover your tracks? Activate the Forget button and leave no trace.
+আপনার পদচিহ্ন আড়াল করতে চান? Forget বোতাম সক্রিয় করুন এবং অনুসরণ ছাড়াই এগিয়ে যান।
+
+
+;Add it now
+এখনই যোগ করুন
+
+
+;Later
+পরে
+
+
+;Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
+এখন থেকে যেখানেই প্রয়োজন এটি পাওয়া যাবে। স্থানান্তর বা অপসারণ করতে, কেবন মেনু খুলে, Customize নির্বাচন করুন।
+
+
+;Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
+পরে এটি যোগ করতে চান? এই মেনু খুলুন এবং Customize নির্বাচন করুন। তারপর এটি (অথবা যেকোন বোতাম) আপনি যেখানে চান ড্র্যাগ করুন।
+
+
+# STEP 2 of the tour (search engines);<span>Previous:</span> Forget
+<span>পূর্ববর্তী:</span> ভুলে যাও
+
+
+;<span>Next:</span> Private Browsing
+<span>পরবর্তী:</span> ব্যক্তিগত ব্রাউজিং
+
+
+# %s is a searchplugin name. <br> tag below used for formatting only.;%s lets you <br>search anonymously
+%s আপনাকে <br>বেনামে অনুসন্ধান করতে দেয়
+
+
+;Get great results with less tracking
+কম ট্র্যাকিং করে ভালো ফলাফল পান
+
+
+;Make it (or any other) your default
+এটিকে (বা অন্য কোনটিকে) আপনার ডিফল্ট বানান
+
+
+;Find what you’re looking for, your way
+কাঙ্খিত জিনিষ খুঁজে নিন, নিজের উপায়ে
+
+
+# %s is a searchplugin name;<span>Previous:</span> %s
+<span>পূর্ববর্তী:</span> %s
+
+
+# STEP 3 of the tour (Private Browsing)
+# <br> tag below used for formatting only.;Private Browsing: <br>Our original privacy tool
+ব্যক্তিগত ব্রাউজিং: <br>আমাদের মৌলিক গোপনীয়তা টুল
+
+
+;Keep history and other info off your computer
+ইতিহাস এবং অন্যান্য তথ্য আপনার কম্পিউটার হতে দূরে রাখুন
+
+
+;Browse without recording where you’ve been
+কোথায় গেছেন তা রেকর্ড করা ছাড়াই ব্রাউজ করুন
+
+
+;So others using your computer can’t see it
+তাই আপনার কম্পিউটার ব্যবহার করে অন্যরা এটা দেখতে পাবে না
+
+

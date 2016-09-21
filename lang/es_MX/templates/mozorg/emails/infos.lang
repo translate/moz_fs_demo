@@ -1,0 +1,10 @@
+;Email: {{ email }}
+Area of Interest: {{ interest }}
+Language: {{ request.locale }}
+Comment: {{ comments|bleach_tags|safe }}
+Correo electrónico : {{ email }}
+Área de interés: {{ interest }}
+Idioma: {{ request.locale }}
+Comentario: {{ comments|bleach_tags|safe }}
+
+

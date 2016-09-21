@@ -1,0 +1,176 @@
+# This is the title for a door-hanger menu that shows in the browser chrome;See what’s new
+Tatz'eta' ri k'ak'a'
+
+
+# This is the text for a door-hanger menu that shows in the browser chrome;You’re up to date with the latest features to help keep you in control.
+Ütz atb'enäq kik'in ri ruk'isib'äl taq b'anikil richin yatkito' chi nik'oje' ri chajinïk pan aq'a'.
+
+
+# This is the label for a button that starts the tour;Let’s go
+Jo'
+
+
+# This is the label for a button that delays starting the tour;Not now
+Wakami mani
+
+
+# This is the label for a button that opens the tour modal dialog;Open tour
+Tijaq b'enam
+
+
+# This is the label for a button that closes the tour modal dialog;Close tour
+Titz'apïx b'enam
+
+
+# This is the text for a call to action that appears in the web page;See the newest ways you can take control of your digital life
+Ketz'et ri k'ak'a' taq rub'anikil pa ruwi' rub'eyal nik'oje' pan aq'a' ruchajinik ajq'ab'aj ak'aslem
+
+
+# This is the label that represents tour step one of three;1/3
+1/3 {ok}
+
+
+# This is the label that represents tour step two of three;2/3
+2/3 {ok}
+
+
+# This is the label that represents tour step three of three;3/3
+3/3 {ok}
+
+
+;Declare your independence
+Taq'alajirisaj ri ajachojri'ïl
+
+
+;Thank you for choosing Firefox
+Niqak'amowaj chawe ruma xacha' Firefox
+
+
+;Watch the video to see our story
+Tatz'eta' ri silowachib'äl richin nawetamaj ri qab'anob'al
+
+
+;Now share it with your world
+Wakami takomonij kik'in konojel pa ruwach'ulew
+
+
+;Play
+Titzij
+
+
+;Play the video
+Titzij ri silowachib'äl
+
+
+;Share
+Tikomonïx
+
+
+;Start browsing
+Tachapa' ri okem pa k'amaya'l
+
+
+;Previous
+Chuwäch
+
+
+;Next
+Jun chik
+
+
+;Close
+Titz'apïx
+
+
+# STEP 1 of the tour (Forget button)
+# %s is a searchplugin name;<span>Next:</span> %s
+<span>Jun chik:</span> %s
+
+
+# <br> tag below used for formatting only.
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta;Use Forget to cover your tracks or escape from sites you don’t trust
+Tawokisaj Timestäx richin ye'aküch kan ri taq awetal o yatanimäj chi kiwäch ri taq ruxaq k'amaya'l, ri man e ütz ta chawäch
+
+
+;Remove browsing history from your computer
+Tayuju' el ri runatab'al rokem pa k'amaya'l akematz'ib'
+
+
+;Erase website information after the fact
+Tiyuj ri retamab'al Ajk'amaya'l ruxaq k'amaya'l k'a ri' tib'etz'et
+
+
+;Add it above for quick, easy access
+Tatz'aqatisaj ajsik richin man k'ayew ta ri aninäq okem
+
+
+;The new Forget button
+Ri k'ak'a' pitz'b'äl Timestäx
+
+
+;Want to cover your tracks? Activate the Forget button and leave no trace.
+¿La nawajo' ye'aküch ri taq awetal? Tatzija' ri pitz'b'äl Timestäx chuqa' richin man naya' ta kan awetal.
+
+
+;Add it now
+Titz'aqatisäx wakami
+
+
+;Later
+Jub'a' chik na
+
+
+;Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
+Jantape' xtik'oje' wawe' richin toq xtik'atzin pe chawe. Richin nasiloj o nayuj el, xa xe tajaqa' ri k'utsamaj chuqa' tacha' Tichinäx.
+
+
+;Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
+¿La nawajo' natz'aqatisaj pa jun chik mej? Tajaqa' re k'utsamaj re' chuqa' tacha' Tichinäx. K'a ri taqirirej (o xab'achike chik jun pitz'b'äl) k'a ri' taya' kan pa xab'akuchi' nawajo'.
+
+
+# STEP 2 of the tour (search engines);<span>Previous:</span> Forget
+<span>Chuwäch:</span> K'utsamaj
+
+
+;<span>Next:</span> Private Browsing
+<span>Jun chik:</span> Ichinan Okem pa K'amaya'l
+
+
+# %s is a searchplugin name. <br> tag below used for formatting only.;%s lets you <br>search anonymously
+%s nuya' q'ij chawe <br>yakanon pa ewan rub'anikil
+
+
+;Get great results with less tracking
+Ke'ak'ulu' nimaläj taq q'i'oj rik'in ti jub'a' taqeb'äl
+
+
+;Make it (or any other) your default
+Tok (xab'achike chik jun) ri ruk'amon wi pe
+
+
+;Find what you’re looking for, your way
+Tawila' ri tajin nakanoj, pan ab'anikil
+
+
+# %s is a searchplugin name;<span>Previous:</span> %s
+<span>Chuwäch:</span> %s
+
+
+# STEP 3 of the tour (Private Browsing)
+# <br> tag below used for formatting only.;Private Browsing: <br>Our original privacy tool
+Ichinan Okem pa K'amaya'l: <br>Qitzij qasamajib'al richin ichinanem
+
+
+;Keep history and other info off your computer
+Tik'oje' ri natab'äl chuqa' jun chik retamab'al ri akematz'ib'
+
+
+;Browse without recording where you’ve been
+Tikanöx xa xe chi man tiyak akuchi' xak'oje' wi
+
+
+;So others using your computer can’t see it
+Ke ri toq ch'aqa' chik winaqi' xtikokisaj ri kematz'ib', man ketikir tikitz'et
+
+

@@ -1,0 +1,64 @@
+;Mozilla Privacy
+Príobháideachas Mozilla
+
+
+;Contact Mozilla
+Déan Teagmháil le Mozilla
+
+
+;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+Más mian leat do chuid faisnéise pearsanta a cheartú, nó má tá ceist agat maidir lenár bpolasaithe príobháideachais, déan teagmháil linn:
+
+
+;Data Privacy Principles
+Bunphrionsabail Phríobháideachais Sonraí
+
+
+;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+Is togra foinse oscailte é Mozilla, agus an misean atá againn ná feabhas a chur ar do shaol ar líne. Is é an misean seo atá taobh thiar dár bprionsabail phríobháideachais. <a href="%(link)s">Tuilleadh Eolais</a>
+
+
+;Our Privacy Notices
+Fógraí Príobháideachais
+
+
+;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Rinneamar Fógraí Príobháideachais gonta soiléire a dhéanann cur síos ar na bealaí a mbaineann táirgí agus seirbhísí Mozilla úsáid as do chuid sonraí agus ar na roghanna atá agat. Tuilleadh eolais:
+
+
+;Mozilla Websites, Communications &amp; Cookies
+Suímh Mozilla, Cumarsáid agus Fianáin
+
+
+;Firefox Browser
+Brabhsálaí Firefox
+
+
+;Firefox Cloud Services
+Néalseirbhísí Firefox
+
+
+;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+Dá mba mhian leat athruithe ar ár bpolasaithe príobháideachais a phlé, d'fhéadfá in ann <a href="%(group)s">clárú le liosta Ghrúpa Rialaithe Mozilla</a>.
+
+
+;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Gheobhaidh tú tuilleadh eolais faoin obair leanúnach a dhéanaimid sa réimse seo ar an mblag <a href="%(blog)s">Príobháideachas agus Sábháilteacht Sonraí</a> agus ar <a href="%(wiki)s">Vicí fhoireann phríobháideachais Mozilla</a>.
+
+
+;Outdated Policies
+Polasaithe As Dáta
+
+
+# Used at the top of the page for navigation (breadcrumbs);Home
+Baile
+
+
+# Used in legal docs to collapse (hide) a paragraph;Show Less
+Níos Lú
+
+
+# Used in sub-pages to return to the main index https://www.mozilla.org/privacy;Back to Mozilla Privacy Policy
+Fill ar Pholasaí Príobháideachais Mhozilla
+
+

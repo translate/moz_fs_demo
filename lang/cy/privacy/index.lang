@@ -1,0 +1,64 @@
+;Mozilla Privacy
+Preifatrwydd Mozilla
+
+
+;Contact Mozilla
+Cysylltwch â Mozilla
+
+
+;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+Os hoffech gywiro eich manylion neu mae gennych gwestiwn am ein polisi preifatrwydd, cysylltwch â:
+
+
+;Data Privacy Principles
+Egwyddorion Preifatrwydd Data
+
+
+;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+Mae Mozilla'n broject cod agored gyda chenhadaeth i wella'ch profiad o'r rhyngrwyd. Hwn sy'n gyrru'n arferion preifatrwydd data. <a href="%(link)s">Darllenwch Ragor</a>
+
+
+;Our Privacy Notices
+Ein Hysbysiadau Preifatrwydd
+
+
+;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Rydym wedi darparu Hysbysiadau Preifatrwydd cryno a chlir i ddisgrifio sut mae ein cynnyrch a'n gwasanaethau'n derbyn, rhannu a defnyddio data a beth yw eich dewisiadau. Dysgwch ragor:
+
+
+;Mozilla Websites, Communications &amp; Cookies
+Gwefannau Mozilla, Cyfathrebu a Chwcis
+
+
+;Firefox Browser
+Y Porwr Firefox
+
+
+;Firefox Cloud Services
+Gwasanaethau Cwmwl Firefox
+
+
+;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+I ddarllen a gwneud sylwadau ar y newidiadau sy'n cael eu cynnig i'n polisïau preifatrwydd <a href="%(group)s"> tanysgrifiwch i'r Grŵp Llywodraethu Mozilla</a>.
+
+
+;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Mae ein gwaith parhaus ar breifatrwydd yn cael ei gynnwys ym<a href="%(blog)s">Mlog Preifatrwydd a Diogelwch Data</a> ac mae gwybodaeth am ein gwaith ar gael ar<a href="%(wiki)s"> wici tîm preifatrwydd Mozilla</a>.
+
+
+;Outdated Policies
+Hen Bolisïau
+
+
+# Used at the top of the page for navigation (breadcrumbs);Home
+Cartref
+
+
+# Used in legal docs to collapse (hide) a paragraph;Show Less
+Dangos Llai
+
+
+# Used in sub-pages to return to the main index https://www.mozilla.org/privacy;Back to Mozilla Privacy Policy
+Nôl i Bolisi Preifatrwydd Mozilla
+
+

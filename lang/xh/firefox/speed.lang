@@ -1,0 +1,48 @@
+;How fast is your Firefox?
+Ikhawuleza kangakanani iFirefox yakho?
+
+
+# Bug 957283: wording modification just for pt-BR;New Firefox is up to 7 times faster. (That’s a lot!) Check the speedometer to see if yours can keep up.
+IFirefox entsha ikhawuleza ngokuphindwe kayi-7. (Ikhawuleza gqitha!) Khangela ispidomitha ukuze ubone ukuba eyakho ingamelana na nayo.
+
+
+;Learn more
+Funda okungakumbi
+
+
+;Old Firefox = <em>Sadface</em>
+IFirefox Endala= <em>Ubuso obudakumbileyo</em>
+
+
+;New Firefox = <em>Yay!</em>
+IFirefox Entsha = <em>Yay!</em>
+
+
+;That just isn’t going to cut it. Stop browsing in the past and <a href="%(url)s">upgrade now!</a>
+Ayizukuyiyekisa. Yeka ukubhrawza ngezinto zakudala yaye <a href="%(url)s">yihlaziye ngoku!</a>
+
+
+;Now we’re talking!
+Siyathetha ke ngoku!
+
+
+;Feels better, doesn’t it? Welcome to the future of the Web. It’s nice here.
+Ibhetele ngoku, akunjalo? Wamkelekile kwiWebhu yexesha elizayo, Kumnandi apha.
+
+
+;Hey, looks like you’re using %BROWSER%. Why not grab Firefox and get up to speed.
+Hey, kukhangeleka ngathi usebenzisa i %BROWSER%. Kutheni ungazifumaneli iFirefox uze uthi chatha isantya.
+
+
+;Hey, looks like you’re not using Firefox as your browser. Why not grab Firefox and get up to speed.
+Hey, kukhangeleka ngathi akusebenzisi iFirefox njengebhrawza yakho. kutheni ungazifumaneli iFirefox uze unyuse isantya sakho.
+
+
+;New Firefox is faster, free (as always), crashes less and protects your privacy more.
+IFirefox entsha iyakhawuleza, yeyasimahla (ngokuqhelekileyo), ayifane ikreshe yaye ikukhusela ngakumbi ukuba bucala kwakho.
+
+
+;<a href="%(url)s">Upgrading</a> takes less than a minute and you won’t lose your history or bookmarks. Hooray!
+<a href="%(url)s">Ukuhlaziya</a> kuthatha ngaphantsi komzuzu kwaye awunako ukulahlekelwa yimbali yakho okanye ibhukhmakhi. Hooray!
+
+

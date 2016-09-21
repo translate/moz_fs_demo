@@ -1,0 +1,188 @@
+# # NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1;Home of the Mozilla Project
+Inicio del Proyecto Mozilla
+
+
+# Used as a label for a button that scrolls through latest news.;Next article
+Artículo siguiente
+
+
+# Used as a label for a button that scrolls through latest news.;Previous article
+Artículo anterior
+
+
+# The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla";We are %(mozilla_wordmark)s
+Somos %(mozilla_wordmark)s
+
+
+;Doing good is part of our code
+Ser buenos es parte de nuestro código
+
+
+;Get involved
+Involúcrate
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.;<i>Explore</i> our mission
+<i>Explora</i> nuestra misión
+
+
+;Our principles guide us
+Nuestros principios<br> nos guían
+
+
+;We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+Somos una comunidad de tecnólogos, pensadores y desarrolladores que trabajamos para que Internet siga vivo y accesible.
+
+
+;Read more about our mission
+Infórmate sobre nuestra misión
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.;<i>Look</i> ahead
+<i>Mira</i><br> hacia el futuro
+
+
+;Look ahead
+Mira hacia el futuro
+
+
+;We‘re bringing more people to the Web in more ways and from more places than ever before.
+Estamos llevando la Web a más personas, de más formas y desde más lugares que nunca.
+
+
+;Learn more about Firefox OS
+Más información sobre Firefox&nbsp;OS
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.;<i>Join</i> our community
+<i>Únete</i> a la comunidad
+
+
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.;Join our<br> developer community
+Únete a nuestra<br> comunidad de desarrolladores
+
+
+;Get docs and demos, tools and tutorials and everything related to the Open Web.
+Obtén documentación, demos, herramientas y tutoriales, y todo lo relacionado con la Web abierta.
+
+
+;Visit the Mozilla Developer Network
+Visita Mozilla Developer Network
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.;<i>Forge</i> the future
+<i>Forja</i> el futuro
+
+
+;Mozilla Festival
+Mozilla Festival {ok}
+
+
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.;Forge the future<br> of the Web
+Forja el futuro<br> de la Web
+
+
+;Learn from some of the most passionate thinkers and inventors from around the world.
+Aprende y contágiate de la pasión de algunos de los pensadores e innovadores más importantes del mundo.
+
+
+;Come to the Mozilla Festival
+Ven al Mozilla Festival
+
+
+;Different by&nbsp;design
+De&nbsp;todos.&nbsp;Para&nbsp;todos
+
+
+# This string is displayed only for locales with a press agency blog;In the news
+Noticias
+
+
+# This string is displayed only for locales with a press agency blog;See all news
+Lee todas las noticias
+
+
+;Get involved
+Involúcrate
+
+
+# This string is displayed only for locales where we launch Firefox OS soon;Help launch Firefox OS in your country.
+Ayuda en el lanzamiento de Firefox&nbsp;OS en tu país.
+
+
+# This string is displayed only for locales where we launch Firefox OS soon;Become a Mobilizer today.
+Conviértete en <i>mobilizer</i> hoy mismo.
+
+
+;You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
+No tienes que saber programación para colaborar con Mozilla. <a href="%s">Más información sobre nuestras oportunidades de participación</a>.
+
+
+;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
+Gracias a nuestra comunidad global, los productos y sitios web de Mozilla están disponibles en más de 70 idiomas. <a href="%(link_l10n)s">Ayuda a traducirlos al tuyo</a>.
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.;<i>Watch</i> the watchers
+<i>Observa</i> a&nbsp;quien&nbsp;te&nbsp;observa
+
+
+# Lightbeam promo;See who’s watching you online
+Mira quién te observa en la Web
+
+
+# Lightbeam promo;Shine a light on the third parties that are collecting data about your online activity.
+Arroja luz sobre los sitios de terceros que recolectan datos sobre tu actividad en línea.
+
+
+;Install the Lightbeam add-on
+Instala el complemento Lightbeam
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.;<i>Learn</i> the Web
+<i>Aprende</i> la Web
+
+
+# Webmaker promo;We teach the Web
+Enseñamos la Web
+
+
+;Let‘s explore, tinker and create together to build a Web that‘s open and made by everyone.
+Exploremos, experimentemos y creemos juntos para construir una Web abierta y hecha por todos.
+
+
+;Become a Webmaker
+Conviértete en <i>webmaker</i>
+
+
+# Vans Triple Crown promo (note: background image and linked blog post will be in English for most locales);Firefox connects you to the Vans Triple Crown of Surfing and all the things you love. Don‘t miss a second of the action from Hawaii, Nov. 12—Dec. 20.
+Firefox te conecta a Vans Triple Crown of Surfing y a las cosas que te apasionan. No te pierdas ni un segundo de lo que ocurre en Hawái del 12 nov. al 20 dec.
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.;<i>Stream</i> the surf
+<i>Surfea</i> las olas
+
+
+;Stream the surf
+Surfea las olas
+
+
+;Learn more
+Más información
+
+
+# 2013 Add-ons promo: This <br> is strictly for visual formatting; translations can omit or reposition as needed.;See the<br> best add-ons
+See the<br> best add-ons
+
+
+# 2013 Add-ons promo: This <br> is strictly for visual formatting; translations can omit or reposition as needed.;The best add-ons<br> of the year
+The best add-ons<br> of the year
+
+
+# 2013 Add-ons promo;See the top 13 add-ons from 2013, as chosen by our amazing committee of volunteers.
+See the top 13 add-ons from 2013, as chosen by our amazing committee of volunteers.
+
+
+# 2013 Add-ons promo:;Add them to Firefox
+Add them to Firefox
+
+

@@ -1,0 +1,77 @@
+;Firefox Nightly First Run Page
+फायार फॉक्स ञिंदानाक् पा़हिल चालाक् साहटा .
+
+
+;Thank you for using Firefox Nightly
+फायार फॉकोस ञिंदावाक् बेबार ला़गित् आम सारहाव .
+
+
+;Choose an area to get involved below and help make Firefox better for users everywhere
+लातार रे सा़मिलोक ला़गित् ते मित् जायगा बाछाव मे आर साधारोन गोटाय उनकु ला़कती लेका जिनिस को का़मी .
+
+
+;Test
+बिडा़व
+
+
+;Find and file bugs and generally make sure things work as they should.
+ञाम आर बॉग को रेत् तेयार आर साधारोन गोटाय उनकु ला़कती लेका जिनिस को का़मी. 
+
+
+;Start testing
+बिड़ाव एहोबेक् आ.
+
+
+# Link used for the "Start testing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to test Mozilla products.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://oneanddone.mozilla.org
+https://oneanddone.mozilla.org {ok}
+
+
+;Code
+कोड
+
+
+;File bugs and work on the building blocks of the Firefox browser.
+रेत् बॉग आर फायारफॉक्स ब्राउजार रेयाक् तेयार आकोट रे का़मी या. 
+
+
+;Start coding
+कोडिंग एहोब.
+
+
+# Link used for the "Start coding" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to Firefox code.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://developer.mozilla.org/docs/Introduction
+https://developer.mozilla.org/डॉक/ उपुरुम .
+
+
+;Localize
+नोडेनाक् तेयार
+
+
+;Make Firefox available (and better) in more languages around the world.
+गोटा दुनिया रेयाक् ढेर पा़रसी रे फायार फॉक्स ञामोक्  (आर बेस )  तेयार मे .
+
+
+;Start localizing
+नोडेनाक् तेयार एहोब .
+
+
+# Link used for the "Start localizing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://;https://wiki.mozilla.org/L10n:Contribute
+https://wiki.mozilla.org/L10n:Contribute {ok}
+
+
+;Show everyone that you’re helping to build the Web the world needs.
+जोतोहोड़ उदुक् जे आम दुनिया ला़कती वेब तेयार रे गोड़ोवाक् काना. 
+
+
+;Get your Nightly User badge
+आमाक् ञिदावाक् बेभार बेज ञाम मे  .
+
+

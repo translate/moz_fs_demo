@@ -1,0 +1,48 @@
+;How fast is your Firefox?
+How fast is your Firefox?
+
+
+# Bug 957283: wording modification just for pt-BR;New Firefox is up to 7 times faster. (That’s a lot!) Check the speedometer to see if yours can keep up.
+Firefox manyen tye ma dwir tyeno 7 kulu. (Meno dit olu!) Rot mita me dwiro pi neno ka ce megi twero mede anyim.
+
+
+;Learn more
+Learn more
+
+
+;Old Firefox = <em>Sadface</em>
+Firefox Macon=<em>Sadface</em>
+
+
+;New Firefox = <em>Yay!</em>
+Firefox Manyen=<em>Yay!!</em>
+
+
+;That just isn’t going to cut it. Stop browsing in the past and <a href="%(url)s">upgrade now!</a>
+Meno pe bi ngolo ne matwal. Juk yeny me kare macon <a href="%(url)s"> yil rwomme kombedi!</a>
+
+
+;Now we’re talking!
+Wan watye dong kalok!
+
+
+;Feels better, doesn’t it? Welcome to the future of the Web. It’s nice here.
+Winy maber, ku? Ojoli ii anyim me Web. tye mamwonya kany atika.
+
+
+;Hey, looks like you’re using %BROWSER%. Why not grab Firefox and get up to speed.
+Hey, Neno calo itye katic ki %BROWSER%. Pingo pe iyut Firefox ci ongwec madwir.
+
+
+;Hey, looks like you’re not using Firefox as your browser. Why not grab Firefox and get up to speed.
+Hey, Neno calo pe itye katic ki Firefox calo layeny mamegi. Pingo pe iyut Firefox ci ongwec madwir.
+
+
+;New Firefox is faster, free (as always), crashes less and protects your privacy more.
+Firefox Manyen dwir olu, me nono (pol kare), poto atura manok ci gwoko imung pa dano kakare.
+
+
+;<a href="%(url)s">Upgrading</a> takes less than a minute and you won’t lose your history or bookmarks. Hooray!
+<a href="%(url)s">Yilo rwomme</a> tero dakika ma pe romo acel ki pe i birwenyo gin mamegi mukato con onyo alama buk. Hooray!
+
+

@@ -1,0 +1,160 @@
+# main title;The best of the latest Firefox
+Iporãvéva Firefox apopyre pahaguáva
+
+
+;Bookmarks
+Techaukaha
+
+
+;Simplify
+Mombyky
+
+
+;Arrange
+Mbohekokatu
+
+
+;Sync
+Mbojuehe
+
+
+;5 top tips, tricks and time-saving tools
+5 ñemoñe'ẽ iporãvéva, mba'ekuaa ha tembipuru nde pya'eve hag̃ua
+
+
+;1
+1 {ok}
+
+
+;2
+2 {ok}
+
+
+;3
+3 {ok}
+
+
+;4
+4 {ok}
+
+
+;5
+5 {ok}
+
+
+;back
+kupegua
+
+
+;next
+upeigua
+
+
+# Tip 1;Click the star
+Eikutu mbyjápe
+
+
+;Watch the star jump so you know your bookmark has been added.
+Ehecha mbyja ári jepo eikuaa hag̃ua pe techaukaha oñembojuapy hague.
+
+
+;(Try it! It’s fun!)
+(Ejapomína! ¡Nemokyre'ỹta!)
+
+
+;How to:
+Mba'éichapa:
+
+
+;Click the star to add bookmarks and manage them from the same spot.
+Eikutu pe mbyja embojuaju hag̃ua techaukaha ha eñangareko hese peteĩ tendaite guive.
+
+
+# Tip 2;Simplify your life
+Embohasy'ỹ nde rekove
+
+
+;Go to your happy place.
+Tereho tenda revy'ahápe.
+
+
+;Remove the buttons you don’t use so you can find the ones you do.
+Eipe'a umi votõ ndereipurúiva ejuhu hag̃uáicha umi añetehápe eipurúva.
+
+
+# The strong tags are for presentational purpose;Open the menu, select “<strong>Customize</strong>” and drag any button out of the toolbar.
+Eike poravorãme, embosa'y “<strong>Ñemomba'e</strong>” ha embosyryry oimeraẽva umi votõme tembipuru renda peguápe.
+
+
+# Tip 3;Add your faves
+Embojuaju eguerohoryvéva
+
+
+;Play favorites with the features you use most and arrange them for fast, easy access.
+Ñembosarái eguerohoryvéva umi tembiaporã eipuruvéva ndive ha embohekokatu jeike pya'e ha hasy'ỹveháicha.
+
+
+# The strong tags are for presentational purpose;Open the menu, select “<strong>Customize</strong>” and drag any button into the toolbar or menu.
+Eike poravorãme, embosa'y “<strong>Ñemomba'e</strong>” ha embosyryry oimeraẽva umi votõ tembipuru renda térã poravorãme. 
+
+
+# Tip 4;Stay in Sync
+Epyta ñembojuehépe
+
+
+# New string;Use Sync to magically access your open tabs, passwords and more wherever you use Firefox.
+Eipuru Sync eike pya'eve hag̃ua tendayke ijurujávape, ñe'ẽñemi ha ambueve tenda eipurusehápe Firefox.
+
+
+# Old string, will be removed once the new string is activated;Use Sync to magically access your open tabs, passwords and more from any device.
+Eipuru Sync eike pya'eve hag̃ua tendayke ijurujávape, ñe'ẽñemi ha ambueve oimeraẽva mba'e'oka guive.
+
+
+# The strong tags are for presentational purpose;Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
+Eiporavo poravopyrã “<strong>Emoñepyrũ tembiapo ñembojuehépe</strong>” poravorãme ha ejapo Firefox-gui nemba'éramo tenda eipurusehápe.
+
+
+# Tip 5;Free your add-ons
+Emosãso ne moĩmbahakuéra
+
+
+;Keep those special, favorite add-ons in your menu so they’re visible and easily within reach.
+Eguereko umi egueroryvéva, moĩmbaha hayhuvéva nde poravorãme, péicha ojekuaáta ha ndahasymo'ãi ihupyty.
+
+
+# The strong tags are for presentational purpose;Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
+Embosa'y “<strong>Ñemomba'e</strong>” poravorãme ha embosyryry umi moĩmbaha eikotevẽvape.
+
+
+;Get Firefox
+Eguereko Firefox
+
+
+;Congratulations
+Vy'apavẽ
+
+
+;You’re an expert!
+Nde katupyryeterei!
+
+
+;Now help your friends master Firefox.
+Ko'ág̃a eipytyvõ ne angirũnguérape oipurukuaa hag̃ua Firefox.
+
+
+# Accessibility string for link;Learn more about bookmarks
+Maranduve techaukahakuéra rehegua
+
+
+# Accessibility string for link;Learn more about customizing
+Maranduve ñemomba'ete rehegua
+
+
+# Accessibility string for link;Learn more about Sync
+Maranduve Sync rehegua
+
+
+# Accessibility string for link;Learn more about add-ons
+Maranduve moĩmbaha rehegua
+
+

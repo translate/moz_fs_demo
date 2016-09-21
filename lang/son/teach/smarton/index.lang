@@ -1,0 +1,117 @@
+# HTML Title;Get smart on the Web
+Wa caram interneti ra
+
+
+# <b> element below is for visual formatting, to distinguish the Smart On name from the rest of the text;Get <b>Smart On</b> the Web
+Duu <b>Smart On</b> interneti ra
+
+
+;The SmartOn Series is like your Internet owner’s manual: the place to learn the most useful intel and tips from Mozilla policy peeps and programmers.
+The SmartOn Series is like your Internet owner’s manual: the place to learn the most useful intel and tips from Mozilla policy peeps and programmers.
+
+
+;See all SmartOns
+See all SmartOns
+
+
+# Used to navigate back to the landing page when inside one of the subpages.
+# Displayed on the top left corner, scroll down (hiding the main header) to display it.;SmartOn
+SmartOn {ok}
+
+
+;Tracking
+Ganayan
+
+
+;What you do online is your business, and you can keep it that way.
+What you do online is your business, and you can keep it that way.
+
+
+;Follow me
+Ay gana
+
+
+;Outfox the trackers
+Wa ganakey yan
+
+
+;Cyber security
+Interneti saajaw
+
+
+;Lock it down
+A kufal
+
+
+;Look both ways, stay updated, and make sure your passwords are as buff as you are.
+Look both ways, stay updated, and make sure your passwords are as buff as you are.
+
+
+;Government surveillance
+Government surveillance
+
+
+;Take a stand
+Take a stand
+
+
+;Decide where you think the line should be – and keep others from crossing it.
+Decide where you think the line should be – and keep others from crossing it.
+
+
+;Smarter by the step
+Smarter by the step
+
+
+;Ask
+Hãa
+
+
+;Know
+Bay
+
+
+;Do
+Tee
+
+
+;Chat
+Faakaaray
+
+
+;Ask yourself what you think, find out what you don’t know, take control of your experience. Then talk it out with your friends.
+Ask yourself what you think, find out what you don’t know, take control of your experience. Then talk it out with your friends.
+
+
+# <b> is for visual formatting. Used inside in the header when entering one of the pages;<b>1.</b> Ask
+<b>1.</b> Hãa
+
+
+# <b> is for visual formatting. Used inside in the header when entering one of the pages;<b>2.</b> Know
+<b>2.</b> Bay
+
+
+# <b> is for visual formatting. Used inside in the header when entering one of the pages;<b>3.</b> Do
+<b>3.</b> Tee
+
+
+# <b> is for visual formatting. Used inside in the header when entering one of the pages;<b>4.</b> Chat
+<b>4.</b> Faakaaray
+
+
+# Shared string across pages. Used as a label for button to tweet a statement;Tweet this
+Tuwitu tee
+
+
+# Link points to https://teach.mozilla.org/clubs/;Connect with your community to explore topics related to privacy and tracking by joining or starting a <a href="{url}">Mozilla Club</a>.
+Connect with your community to explore topics related to privacy and tracking by joining or starting a <a href="{url}">Mozilla Club</a>.
+
+
+# Displayed in the footer when visiting the page with another browser;Take back control
+Wa dabari koyne
+
+
+# Displayed in the footer when visiting the page with another browser;The non-profit browser by Mozilla
+Mozilla ka interneti naaru bila nda arriba ceeciyan
+
+

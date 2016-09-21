@@ -1,0 +1,564 @@
+;Your email address:
+Jūsu epasta adrese:
+
+
+;Language:
+Valoda:
+
+
+;Select country
+Izvēlieties valsti
+
+
+;Country:
+Valsts:
+
+
+# Form submit button on the Student Ambassador newsletter subscription form;Sign me up!
+Pierakstiet mani!
+
+
+;Thanks for Subscribing!
+Paldies, ka pierakstījāties!
+
+
+;Your newsletter subscription has been confirmed.
+Jūsu vēstkopas pieteikums ir apstiprināts.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox + You
+Firefox + You
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox + You);A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+Ik mēneša vēstule ar īpašiem paziņojumiem un padomiem, kā uzlabot ikdienu ar Firefox un Firefox Android ierīcēm.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox OS + You
+Firefox OS + You
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You);A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+Ik mēneša vēstule un īpašie paziņojumi par to kā iegūt vairāk no Firefox OS, tostarp jaunākās iespējas un lietotnes no Firefox veikala.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Accounts Tips
+Firefox Accounts Tips
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips);Get the most out of your Firefox Account.
+Iegūstiet vairāk no sava Firefox konta
+
+
+# Name for the newsletter in Newsletter subscription page;Mozilla Communities
+Mozilla kopienas
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Communities);Bringing you the best new opportunities to help support the open Web.
+Jaunākās ziņas par iespējām atbalstīt atvērto internetu.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Student Ambassadors
+Firefox studentu vēstnieki
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors);A monthly newsletter on how to get involved with Mozilla on your campus.
+Ikmēneša vēstule par to, kā augstskolā ienest Mozilla
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Affiliates
+Firefox Biedri
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates);A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+Ikmēneša vēstule, lai uzzinātu visu par Firefox partneru programmu.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Apps & Hacks
+Firefox lietotnes un pielāgojumi
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks);News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+Ziņas izstrādātajiem par Firefox OS, Firefox Marketplace un Atvērtā Tīmekļa aplikāciju ekosistēmu.
+
+
+# Name for the newsletter in Newsletter subscription page;Mozillians
+Mozillieši
+
+
+# Description for the newsletter in Newsletter subscription page;Email updates for vouched Mozillians on mozillians.org.
+Epasta atjauninājumi apstiprinātiem Moziliešiem uz mozillians.org.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox for desktop
+Firefox datoriem
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop);Don’t miss the latest announcements about our desktop browser.
+Saņemiet jaunākos paziņojumus par datoru pārlūka versiju.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox for Android
+Firefox Android ierīcēm
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for Android);Keep up with releases and news about Firefox for Android.
+Sekojiet jaunumiem par Firefox Android ierīcēm.
+
+
+# Name for the newsletter in Newsletter subscription page;Mozilla
+Mozilla {ok}
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla);Special announcements and messages from the team dedicated to keeping the Web free and open.
+Īpašie paziņojumi no komandas, kas rūpējas par interneta atvērtību.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox OS smartphone owner?
+Firefox OS telefona īpašnieks?
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?);Don’t miss important news and updates about your Firefox OS device.
+Nepalaidiet garām svarīgus jaunumus par Firefox OS ierīci.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox iOS
+Firefox iOS
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox iOS);Be the first to know when Firefox is available for iOS devices.
+Esiet pirmais, kas uzzina, par Firefox iOS ierīcēm.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Flicks
+Firefox Flicks
+
+
+;Periodic email updates about our annual international film competition.
+Epasti par ikgadējo starptautisko filmu konkursu.
+
+
+# Name for the newsletter in Newsletter subscription page;Beta News
+Beta ziņas
+
+
+# Name for the newsletter in Newsletter subscription page;Mozilla Foundation
+Mozilla Foundation
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Foundation);News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
+News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
+
+
+# Name for the newsletter in Newsletter subscription page;Shape of the Web
+Shape of the Web
+
+
+# Description for the newsletter in Newsletter subscription page (Shape of the Web);News and information related to the health of the web.
+News and information related to the health of the web.
+
+
+;About Addons
+About Addons
+
+
+;Firefox OS
+Firefox OS {ok}
+
+
+;Firefox OS news, tips, launch information and where to buy.
+Firefox OS ziņas, padomi, palaišanas informācija un kur to iegadāties.
+
+
+;We can keep in touch with occasional messages that matter most to you.
+Mēs varam sūtīt tikai pašus svarīgākos jaunumus.
+
+
+;Submit
+Nosūtīt
+
+
+;Find out how!
+Uzziniet kās!
+
+
+;Newsletters
+Jaunumi
+
+
+;About us
+Par mums
+
+
+;I didn't sign up for this.
+Es nemaz nepieteicos uz šīm ziņām.
+
+
+;Save Preferences
+Saglabāt iestatījumus
+
+
+;The supplied link has expired. You will receive a new one in the next newsletter.
+Šī saite ir novecojusi. Nākamajā ziņojumā jūs saņemsiet jaunu saiti.
+
+
+;Get up and go
+Ejiet visur brīvi
+
+
+;Subscribe
+Pieteikties
+
+
+;Set your preferences below to make sure you always receive the news you want.
+Pielāgojiet savus iestatījumus, lai vienmēr saņemtu tieši to, ko vēlaties.
+
+
+;You send too many emails.
+Jūs sūtāt pārāk daudz epastu.
+
+
+;Getting too much email from us?
+Saņemat pārāk daudz epastu no mums?
+
+
+;Would you mind telling us why you’re leaving?
+Vai jūs varēt mums pastāstiet kāpēc jūs mums pametiet?
+
+
+;Get Firefox for mobile!
+Iegūstiet Firefox mobilām ierīcēm!
+
+
+;What’s Mozilla all about?
+Par ko vispār ir Mozilla?
+
+
+;I’m interested in:
+Mani interesē:
+
+
+;Format:
+Formāts:
+
+
+;Your content wasn't relevant to me.
+Ziņojumu saturs man nebija aktuāls.
+
+
+;Don’t forget to check your inbox to confirm your request to get Firefox for iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check your spam filter. You must confirm your request in order to receive the updates.
+Don’t forget to check your inbox to confirm your request to get Firefox for iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check your spam filter. You must confirm your request in order to receive the updates.
+
+
+;Firefox
+Firefox {ok}
+
+
+;We’re sorry to see you go.
+Mums žēl ka jūs mums atstājiet.
+
+
+;title
+title
+
+
+;Firefox is coming soon to iOS!
+Firefox is coming soon to iOS!
+
+
+;It’s your Web anywhere you go.
+Tas ir jūsu tīmeklis jebkur jūs iet.
+
+
+;Your email design was too hard to read.
+Ziņojumu dizainu bija pārāk grūti lasīt.
+
+
+;Please enter a valid email address
+Lūdzu ievadiet pareizu epasta adresi
+
+
+;Newsletter Subscriptions
+Vēstkopu abonementi
+
+
+;Unsubscribe
+Atteikties
+
+
+;Mozilla Newsletter
+Mozilla Newsletter
+
+
+;Thanks for updating your email preferences.
+Paldies, ka atjaunināji epasta iestatījumus.
+
+
+;We’re glad you asked!
+Labi, ka pajautājāt!
+
+
+;Firefox on iOS — Sign up for email updates — Mozilla
+Firefox on iOS — Sign up for email updates — Mozilla
+
+
+;Something is amiss with our system, sorry! Please try again later.
+Mūsu sistēmai ir kaut kādas problēmas, piedodiet! Mēģiniet vēlreiz nedaudz vēlāk.
+
+
+;Check all categories that apply to you, and we promise to keep the mail to a minimum.
+Atzīmējiet visas sadaļas, kas attiecas uz jums un mēs apsolām, ka sūtīsim tikai minimumu.
+
+
+;description
+description
+
+
+;Sign up today to receive email updates about the iOS version of Firefox.
+Sign up today to receive email updates about the iOS version of Firefox.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Sekoju Mozilla Feisbukā un Tviterī.
+
+
+;Success! An email has been sent to you with your preference center link. Thanks!
+Success! An email has been sent to you with your preference center link. Thanks!
+
+
+;Remove me from all Mozilla emails
+Izņemiet mani no visiem Mozilla epastiem
+
+
+;Thanks for telling us why you’re leaving.
+Paldies, ka izstāstījāt, kāpēc aizejat.
+
+
+;Enter your email address and we’ll send you a link to your email preference center.
+Enter your email address and we’ll send you a link to your email preference center.
+
+
+;Send me a link
+Send me a link
+
+
+;Added extras
+Papildu lietas
+
+
+;%s is not a valid newsletter
+%s is not a valid newsletter
+
+
+;English&nbsp;only
+Tikai&nbsp;angliski
+
+
+;This is not a valid email address. Please check the spelling.
+This is not a valid email address. Please check the spelling.
+
+
+;Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty excited about it too!
+Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty excited about it too!
+
+
+;You’ve been unsubscribed.
+Jūs esat atteicies.
+
+
+;Make Firefox do more with add-ons.
+Ļaujiet Firefox izdarīt vairāk ar papildinājumiem.
+
+
+;You must agree to the privacy notice
+You must agree to the privacy notice
+
+
+;You must agree to the privacy policy
+You must agree to the privacy policy
+
+
+;Other…
+Cits…
+
+
+# <title> tag for the subscription confirmation page;Newsletter confirm
+Vēstkopu apstiprinājums
+
+
+;Not interested in our newsletters, but like those special announcements? No problem.
+Jūs neinteresē mūsu jaunumi, bet patīk īpašie paziņojumi? Nav problēmu.
+
+
+;Manage your Email Preferences
+Pārvaldies epasta iestatījumus
+
+
+;This page is in maintenance mode and is temporarily unavailable.
+This page is in maintenance mode and is temporarily unavailable.
+
+
+;To update your email preferences, please check back in a little while. Thanks!
+To update your email preferences, please check back in a little while. Thanks!
+
+
+;We love sharing updates about all the awesome things happening at Mozilla.
+Mums patīk dalīties ar jaunākajām un stilīgākajām ziņām no Mozilla.
+
+
+;This email address is not in our system. Please double check your address or <a href="%s">subscribe to our newsletters.</a>
+This email address is not in our system. Please double check your address or <a href="%s">subscribe to our newsletters.</a>
+
+
+;We are sorry, but there was a problem with our system. Please try again later!
+Atvainojāmies, bet saskārāmies ar problēmu ar mūsu sistēmu. Lūdzu mēģiniet vēlreiz vēlāk!
+
+
+;The supplied link has expired or is not valid. You will receive a new one in the next newsletter, or below you can request an email with the link.
+The supplied link has expired or is not valid. You will receive a new one in the next newsletter, or below you can request an email with the link.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Lūdzu pārliecinieties, ka vēstules, kas tiek sūtītas no mozilla@e.mozilla.org spēj nonākt jūsu pasta kastē.
+
+
+;While here, why not check out some more Firefox awesomeness.
+Kamēr esat te, apskatiet vēl dažas stilīgas Firefox lietas.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Pārvaldīt <span>vēstkopu abonementus</span>
+
+
+;Sign up below for updates and to be notified when it launches.
+Pierakstieties zemāk, lai saņemtu jaunumus un paziņojumu par palaišanu.
+
+
+;Newsletter email recovery
+Newsletter email recovery
+
+
+;*You’ll only receive updates and announcements about the iOS version of Firefox.
+*You’ll only receive updates and announcements about the iOS version of Firefox.
+
+
+;Firefox Marketplace for Firefox OS
+Firefox Marketplace for Firefox OS
+
+
+;Discover the latest, coolest HTML5 apps on Firefox OS.
+Atklājiet jaunākas un foršākas HTML5 aplikācijas uz Firefox OS.
+
+
+;Firefox Weekly Tips
+Firefox Weekly Tips
+
+
+;Get a weekly tip on how to super-charge your Firefox experience.
+Saņemiet iknedēļas padomu par to kā uzlādēt Firefox.
+
+
+;Student Reps
+Student Reps
+
+
+;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+Kādreizējā Universitāšu programma 2008-2011 gadam, kas tagad ir laista pensijā un kuras darbu turpina Firefox studentu programma.
+
+
+;Mozilla Learning Network
+Mozilla Learning Network
+
+
+;Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
+Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
+
+
+;Download Firefox for iOS
+Download Firefox for iOS
+
+
+;Download Firefox for Android
+Lejupielādēt Firefox Android ierīcēm
+
+
+;Get Firefox for Android
+Iegūstiet Firefox Android ierīcēm
+
+
+;Drumbeat Newsgroup
+Drumbeat Newsgroup
+
+
+;Mozilla Festival
+Mozilla Festival
+
+
+;Special announcements about Mozilla's annual, hands-on festival dedicated to forging the future of the open Web.
+Special announcements about Mozilla's annual, hands-on festival dedicated to forging the future of the open Web.
+
+
+;Firefox Marketplace for Android
+Firefox Marketplace for Android
+
+
+;About Standards
+About Standards
+
+
+;Get Involved
+Iesaisties!
+
+
+;Download Firefox for Mobile
+Download Firefox for Mobile
+
+
+;Maker Party
+Maker Party
+
+
+;Mozilla's largest celebration of making and learning on the web.
+Mozilla's largest celebration of making and learning on the web.
+
+
+;Aurora
+Aurora
+
+
+;Join Mozilla
+Pievienojies Mozilla
+
+
+;About Labs
+About Labs
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Lasi par jaunākajām iespējām Firefox versijās pirms tās nonāk gala versijā.
+
+
+;Webmaker
+Webmaker {ok}
+
+
+;Special announcements helping you get the most out of Webmaker.
+Special announcements helping you get the most out of Webmaker.
+
+
+;Addon Development
+Addon Development
+
+
+;Firefox Marketplace for Desktop
+Firefox Marketplace for Desktop
+
+
+# It appears here: https://www-dev.allizom.org/newsletter/firefox/;Put more fox in your inbox.
+Put more fox in your inbox.
+
+
+;See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
+See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
+
+

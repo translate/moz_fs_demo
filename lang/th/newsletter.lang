@@ -1,0 +1,344 @@
+;Your email address:
+ที่อยู่อีเมลของคุณ
+
+
+;Available Languages
+ภาษาที่มี
+
+
+;Language:
+ภาษา:
+
+
+;Select country
+เลือกประเทศ
+
+
+;Country:
+ประเทศ:
+
+
+# Form submit button on the Student Ambassador newsletter subscription form;Sign me up!
+บอกรับข่าว!
+
+
+;We will only send you Mozilla-related information.
+เราจะส่งเฉพาะข้อมูลที่เกี่ยวข้องกับ Mozilla เท่านั้น
+
+
+;Thanks for Subscribing!
+ขอบคุณในการบอกรับข่าว!
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+บอกรับข่าวรายเดือนเพื่อเกาะติดข่าวที่เกี่ยวข้องกับ Mozilla เช่น กลเม็ดเคล็ดลับล่าสุดในการใช้งาน Firefox ให้มีประสิทธิภาพสูงสุด นี่เป็นหนทางที่ดีที่เราจะใกล้ชิดกัน!
+
+
+;Read all about it in our <span>newsletter</span>
+อ่านต่อใน <span>จดหมายข่าว</span> ของเรา
+
+
+;Your newsletter subscription has been confirmed.
+ยืนยันการบอกรับจดหมายข่าวของคุณแล้ว
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox & You
+Firefox และคุณ
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox & You);A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox OS News
+ข่าว Firefox OS
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS News);A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+
+
+# Name for the newsletter in Newsletter subscription page;Mozilla Communities
+ชุมชน Mozilla
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Communities);Bringing you the best new opportunities to help support the open Web.
+นำคุณสู่โอกาสที่ดีที่สุดในการช่วยสนับสนุนเว็บเปิด
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Student Ambassadors
+ตัวแทนนักเรียน Firefox
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors);A monthly newsletter on how to get involved with Mozilla on your campus.
+A monthly newsletter on how to get involved with Mozilla on your campus.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates);A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+จดหมายข่าวประจำเดือนเพื่อให้คุณทันสมัยต่อโปรแกรมขององค์กรในเครือ Firefox
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Apps & Hacks
+Firefox Apps & Hacks
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks);News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+ข่าวสำหรับนักพัฒนาเกี่ยวกับ Firefox OS, ร้านค้า Firefox และแอพในระบบเว็บเปิด
+
+
+# Name for the newsletter in Newsletter subscription page;Mozillians
+Mozillians {ok}
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox for desktop
+Firefox สำหรับเดสก์ท็อป
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop);Don’t miss the latest announcements about our desktop browser.
+อย่าพลาดการประกาศล่าสุดเกี่ยวกับเบราว์เซอร์บนคอมพิวเตอร์ตั้งโต๊ะของเรา
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox for Android
+Firefox สำหรับ Android
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for Android);Keep up with releases and news about Firefox for Android.
+ตามข่าวและรุ่นเกี่ยวกับ Firefox สำหรับ Android ให้ทัน
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla);Special announcements and messages from the team dedicated to keeping the Web free and open.
+การประกาศพิเศษและข้อความจากทีมงานซึ่งอุทิศเพื่อทำให้เว็บฟรีและเปิดต่อไป
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox OS smartphone owner?
+เป็นเจ้าของสมาร์ทโฟน Firefox OS หรือไม่?
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?);Don’t miss important news and updates about your Firefox OS device.
+ไม่พลาดข่าวสารและการปรับรุ่นเกี่ยวกับอุปกรณ์ Firefox OS ของคุณ
+
+
+;Beta News
+ข่าว Beta
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+จัดการ <span>การบอกรับจดหมายข่าว</span> ของคุณ
+
+
+;Manage your Email Preferences
+จัดการการตั้งค่าอีเมลของคุณ
+
+
+;We love sharing updates about all the awesome things happening at Mozilla.
+We love sharing updates about all the awesome things happening at Mozilla.
+
+
+;Set your preferences below to make sure you always receive the news you want.
+Set your preferences below to make sure you always receive the news you want.
+
+
+;Newsletters
+จดหมายข่าว
+
+
+;Getting too much email from us?
+รับอีเมลจากเรามากไปหรือไม่?
+
+
+;Not interested in our newsletters, but like those special announcements? No problem.
+ไม่สนใจในจดหมายข่าวสของเรา แต่ชอบประกาศพิเศษ? ไม่มีปัญหา
+
+
+;We can keep in touch with occasional messages that matter most to you.
+We can keep in touch with occasional messages that matter most to you.
+
+
+;Check all categories that apply to you, and we promise to keep the mail to a minimum.
+Check all categories that apply to you, and we promise to keep the mail to a minimum.
+
+
+;I’m interested in:
+ฉันสนใจใน:
+
+
+;Subscribe
+บอกรับ
+
+
+;Unsubscribe
+ยกเลิกการบอกรับ
+
+
+;Remove me from all Mozilla emails
+เอาฉันออกจากทุกอีเมลของ Mozilla
+
+
+;Save Preferences
+บันทึกการตั้งค่า
+
+
+;Thanks for updating your email preferences.
+ขอบคุณที่ปรับปรุงการตั้งค่าอีเมลของคุณ
+
+
+;You send too many emails.
+คุณส่งอีเมลมามากเกินไป
+
+
+;Your content wasn't relevant to me.
+เนื้อหาของคุณไม่น่าสนใจ
+
+
+;Your email design was too hard to read.
+อีเมลของคุณอ่านยาก
+
+
+;I didn't sign up for this.
+ฉันไม่ได้บอกรับจดหมายข่าวนี้
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+ฉันจะไปใช้ Facebook และ Twitter ในการติดตามข่าวแทน
+
+
+;Submit
+ส่ง
+
+
+;Thanks for telling us why you’re leaving.
+ขอบคุณที่บอกเราว่าทำไมคุณถึงต้องจากไป
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+ขอบคุณ! โปรดตรวจสอบกล่องจดหมายของคุณเพื่อยืนยันการบอกรับจดหมายข่าว
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+คุณจะได้รับอีเมลจาก mozilla@e.mozilla.org เพื่อยืนยันการบอกรับจดหมายข่าว ถ้าคุณไม่พบจดหมายฉบับนั้นลองตรวจสอบกล่องจดหมายขยะดู คุณจะต้องยืนยันการบอกรับจดหมายข่าวเพื่อให้การบอกรับจดหมายข่าวนั้นสมบูรณ์
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+อย่าลืมใส่ที่อยู่อีเมล mozilla@e.mozilla.org เข้าไปยังสมุดที่อยู่ของคุณเพื่อให้อีเมลจากที่อยู่นี้ส่งเข้ามายังกล่องจดหมายของคุณได้เสมอ
+
+
+;The supplied link has expired. You will receive a new one in the next newsletter.
+ลิงก์ที่ให้ไปหมดอายุแล้ว คุณจะได้รับลิงก์ใหม่ในจดหมายข่าวอันถัดไป
+
+
+;Something is amiss with our system, sorry! Please try again later.
+มีบางอย่างไม่ถูกต้องในระบบของเรา ขออภัย! โปรดลองใหม่อีกครั้งในภายหลัง
+
+
+;English&nbsp;only
+ภาษาอังกฤษเท่านั้น
+
+
+;Newsletter Subscriptions
+บอกรับจดหมายข่าว
+
+
+;Newsletter confirm
+ยืนยันจดหมาข่าว
+
+
+;Format:
+รูปแบบ:
+
+
+;You’ve been unsubscribed.
+คุณได้ยกเลิกการบอกรับแล้ว
+
+
+;We’re sorry to see you go.
+เราเสียใจที่เห็นคุณจากไป
+
+
+;Would you mind telling us why you’re leaving?
+จะเป็นไรไหมถ้าคุณบอกเหตุผลที่คุณไป?
+
+
+;Other…
+อื่นๆ …
+
+
+;While here, why not check out some more Firefox awesomeness.
+ระหว่างนี้ ทำไมไม่ลองดูความเจ๋งอย่างอื่นๆ ของ Firefox ล่ะ
+
+
+;Get up and go
+ก้าวไปด้วยความมุ่งมั่น
+
+
+;It’s your Web anywhere you go.
+มันคือเว็บของคุณในทุกที่ที่คุณไป
+
+
+;Get Firefox for mobile!
+Firefox สำหรับอุปกรณ์เคลื่อนที่!
+
+
+;Added extras
+เพิ่มความสามารถ
+
+
+;Make Firefox do more with add-ons.
+Firefox ทำได้มากกว่าด้วยส่วนเสริม
+
+
+;Find out how!
+ค้นหาว่าทำอย่างไร!
+
+
+;About us
+เกี่ยวกับเรา
+
+
+;What’s Mozilla all about?
+Mozilla คืออะไร?
+
+
+;We’re glad you asked!
+เรายินดีมากที่คุณถาม!
+
+
+# Description for the newsletter in Newsletter subscription page;A monthly newsletter packed with tips to improve your Firefox experience.
+A monthly newsletter packed with tips to improve your Firefox experience.
+
+
+# Description for the newsletter in Newsletter subscription page;Firefox OS news, tips, launch information and where to buy.
+Firefox OS news, tips, launch information and where to buy.
+
+
+# Description for the newsletter in Newsletter subscription page;Be the first to know when Firefox is available for iOS devices.
+เป็นคนกลุ่มแรกที่รู้เมื่อ Firefox พร้อมสำหรับอุปกรณ์ iOS
+
+
+# Description for the newsletter in Newsletter subscription page;Discover the latest, coolest HTML5 apps on Firefox OS.
+ค้นพบแอพ HTML5 ล่าสุด เจ๋งสุดบน Firefox OS
+
+
+# Description for the newsletter in Newsletter subscription page;Get a weekly tip on how to super-charge your Firefox experience.
+Get a weekly tip on how to super-charge your Firefox experience.
+
+
+# Description for the newsletter in Newsletter subscription page;Read about the latest features for Firefox desktop and mobile before the final release.
+อ่านเรื่องที่เกี่ยวกับความสามารถล่าสุดของ Firefox สำหรับคอมพิวเตอร์ตั้งโต๊ะและอุปกรณ์เคลื่อนที่ก่อนที่จะออกตัวจริง
+
+
+# Description for the newsletter in Newsletter subscription page;News from the Mozilla Project.
+ข่าวสารจาก Mozilla Project
+
+
+# Description for the newsletter in Newsletter subscription page;Periodic email updates about our annual international film competition.
+Periodic email updates about our annual international film competition.
+
+
+# Description for the newsletter in Newsletter subscription page;Email updates for vouched Mozillians on mozillians.org.
+Email updates for vouched Mozillians on mozillians.org.
+
+
+# Description for the newsletter in Newsletter subscription page;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+
+

@@ -1,0 +1,176 @@
+# This is the title for a door-hanger menu that shows in the browser chrome;See what’s new
+Dii woo kaŋ ga taaga
+
+
+# This is the text for a door-hanger menu that shows in the browser chrome;You’re up to date with the latest features to help keep you in control.
+War ga duu alhabar taaga nda alhaali kokorantey ka war gaa ka cindi juwal ra.
+
+
+# This is the label for a button that starts the tour;Let’s go
+Ir ma goy
+
+
+# This is the label for a button that delays starting the tour;Not now
+Manti sohõ
+
+
+# This is the label for a button that opens the tour modal dialog;Open tour
+Windiroo šintin
+
+
+# This is the label for a button that closes the tour modal dialog;Close tour
+Windiroo benandi
+
+
+# This is the text for a call to action that appears in the web page;See the newest ways you can take control of your digital life
+Dii fondo taagey kaŋ ra war ga hin ka war interneti hunaroo juwal
+
+
+# This is the label that represents tour step one of three;1/3
+1/3 {ok}
+
+
+# This is the label that represents tour step two of three;2/3
+2/3 {ok}
+
+
+# This is the label that represents tour step three of three;3/3
+3/3 {ok}
+
+
+;Declare your independence
+W'a har kaŋ war duu war boŋ
+
+
+;Thank you for choosing Firefox
+Foo nda goy kaŋ war na Firefox suuba
+
+
+;Watch the video to see our story
+Widewo guna ka d'ir taarikoo
+
+
+;Now share it with your world
+Sohõ w'a žemna nda war adduɲɲaa
+
+
+;Play
+Hẽeenandi
+
+
+;Play the video
+Widewo guna
+
+
+;Share
+Žemna
+
+
+;Start browsing
+Naaruyan šintin
+
+
+;Previous
+Bisante
+
+
+;Next
+Jine
+
+
+;Close
+Daabu
+
+
+# STEP 1 of the tour (Forget button)
+# %s is a searchplugin name;<span>Next:</span> %s
+<span>Jinehere:</span> %s
+
+
+# <br> tag below used for formatting only.
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta;Use Forget to cover your tracks or escape from sites you don’t trust
+Dirŋa kayandi ka war ceebandey daabu wala ka nungey kaŋ ši nda naanay naŋ
+
+
+;Remove browsing history from your computer
+Ceeciyan taariki kaa war ordinateroo ga
+
+
+;Erase website information after the fact
+Interneti nungu alhabar tuusu goy banda ga
+
+
+;Add it above for quick, easy access
+A tonton beene ka cahã nda faala ka huru
+
+
+;The new Forget button
+Dirŋa butoŋ taagaa
+
+
+;Want to cover your tracks? Activate the Forget button and leave no trace.
+War ga boona ka war ceebandey daabu? Dirŋa tunandi nda ba šilbay kul ši cindi.
+
+
+;Add it now
+A tonton sohõ
+
+
+;Later
+Hiino
+
+
+;Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
+Sohõ a goo ne waati kul kaŋ war ga boona. K'a ganandi wala k'a kaa, šilbayboŋoo feeri de nda hanse war boŋ se suuba.
+
+
+;Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
+Boona k'a tonton hiino? Šilbayboŋoo feeri nda hanse war boŋ se suuba. A cendi sohõ (wala butoŋ foo naagu) nungu kaŋ war ga baa.
+
+
+# STEP 2 of the tour (search engines);<span>Previous:</span> Forget
+<span>Bisante:</span> Dirŋa
+
+
+;<span>Next:</span> Private Browsing
+<span>Jine:</span> Sutura ceeciyan
+
+
+# %s is a searchplugin name. <br> tag below used for formatting only.;%s lets you <br>search anonymously
+%s ga naŋ war ma <br>ceeci bila nda maa 
+
+
+;Get great results with less tracking
+Goy ka boori nda ganayan kaccante
+
+
+;Make it (or any other) your default
+A tee (wal'affoo kul) war tilasu ceecikaa
+
+
+;Find what you’re looking for, your way
+Duu woo kaŋ war goo m'a ceeci, nda war ibaayoo
+
+
+# %s is a searchplugin name;<span>Previous:</span> %s
+<span>Bisante:</span> %s
+
+
+# STEP 3 of the tour (Private Browsing)
+# <br> tag below used for formatting only.;Private Browsing: <br>Our original privacy tool
+Sutura ceeciyan: <br>Ir aššil sutura goyjinaa
+
+
+;Keep history and other info off your computer
+War ši war taarikoo nd'alhabar taney gaabu ordinater ga
+
+
+;Browse without recording where you’ve been
+Ceeci bila nda war cindi dogoo ma jisandi
+
+
+;So others using your computer can’t see it
+Woo ra borey kaŋ ga goy nda war ordinateroo ga dii y'a
+
+

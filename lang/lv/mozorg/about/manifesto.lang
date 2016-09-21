@@ -1,0 +1,412 @@
+;The Mozilla Manifesto
+Mozilla Manifests
+
+
+;These are the principles that guide our mission to promote openness, innovation & opportunity on the Web.
+Tie ir principi kuri vada mūsu misiju lai veicinātu atvērtību, inovāciju un tīmekļa dotas iespējas.
+
+
+;Share this
+Pastāstīt citiem
+
+
+# <strong> and </strong> tags are used for presentation purposes, do not translate them;<strong>Our 10</strong> Principles
+<strong>Mūsu 10</strong> principi
+
+
+;Previous principle
+Iepriekšējais princips
+
+
+;Next principle
+Nākamais princips
+
+
+;See more…
+Paskatīties vairāk...
+
+
+;Learn more
+Uzzināt vairāk
+
+
+;01
+01 {ok}
+
+
+;The Internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
+Internets tagad ir modernās dzīves neatņemama sastāvdaļa—īpaši svarīgs komponents izglītībā, saziņā, sadarbībā, uzņēmumos, izklaidēs un sabiedrībā kopumā.
+
+
+;Use Open Badges to share your skills and interests
+Use Open Badges to share your skills and interests
+
+
+;Explore how the Web impacts science
+Uzziniet kā Internets palīdz zinātnei
+
+
+;Learn about open source code in journalism
+Learn about open source code in journalism
+
+
+;Making to learn in the digital world
+Making to learn in the digital world
+
+
+;Open Badges
+Open Badges
+
+
+;02
+02 {ok}
+
+
+;The Internet is a global public resource that must remain open and accessible.
+The Internet is a global public resource that must remain open and accessible.
+
+
+;Read about open Internet policy initiatives and developments
+Read about open Internet policy initiatives and developments
+
+
+;Explore how to help keep the Web open
+Zināt kā darboties lai paturētu atvērtu tīmekli
+
+
+;Mozilla story
+Mozilla vēsture
+
+
+;You don’t have to make a case for open. You have to make a case for not open.
+You don’t have to make a case for open. You have to make a case for not open.
+
+
+# VP stands for Vice President - do not translate <span> and </span> tags;<span>Johnathan Nightingale,</span> <span>VP Firefox</span>
+<span>Johnathan Nightingale,</span> <span>VP Firefox</span>
+
+
+;03
+03 {ok}
+
+
+;The Internet must enrich the lives of individual human beings.
+Internetam ir jāuzlabo cilvēku dzīves.
+
+
+;See how the Web can connect the world to healthcare
+Uzziniet kā internets var pieslēgt pasauli ārstēšanai
+
+
+;Explore how the Web works
+Uzziniet kā tīmeklis darbojas
+
+
+;Medic Mobile
+Medic Mobile
+
+
+;04
+04 {ok}
+
+
+;Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+Indivīdu drošība un privātums internetā ir pamattiesības kurām nav jābūt uzskatītām par opcijām.
+
+
+;See how Mozilla works to put your privacy first
+Uzziniet kā Mozilla liek jūsu privātumu pirmajā vietā
+
+
+;Read about developments in privacy and data safety
+Uzziniet vairāk par attīstībām privātuma un datu aizsardzības jomās
+
+
+;Learn more about how to protect yourself online
+Uzziniet kā sev aizsargāt tiešsaistē
+
+
+;The Web We Want: An Open Letter
+Tīmeklis mēs vēlamies: atvērta vēstule
+
+
+;05
+05 {ok}
+
+
+;Individuals must have the ability to shape the Internet and their own experiences on it.
+Katram ir jābūt iespēja modelēt internetu un uz to veidot savus pašus eksperimentus.
+
+
+;Use these free tools to teach the Web
+Izmantojiet šos brīvos rīkus lai pasniegtu tīmekli
+
+
+;Learn about creating and curating content for the Web
+Iemācieties veidot un uzlabot saturu tīmeklim
+
+
+;Teaching the Web
+Pasniegt tīmekli
+
+
+;Meet the Webmakers
+Satikt Webmakers
+
+
+;06
+06 {ok}
+
+
+;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
+The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
+
+
+;Add new voices to open source technology
+Piedalīties atvērtā koda tehnoloģijām
+
+
+;Set your Do Not Track preference
+Uzstādīt neizsekošanas opciju
+
+
+;Understand the Web ecosystem
+Saprast tīmekļa ekosistēmu
+
+
+;Who is Mozilla?
+Kurš ir Mozilla?
+
+
+;07
+07 {ok}
+
+
+;Free and open source software promotes the development of the Internet as a public resource.
+Brīva un atvērta programmatūra veicina interneta attīstību kā publisku bagātību.
+
+
+;Explore how open practices keep the Web accessible
+Uzziniet kā atvērtās prakses patur tīmekli pieejamu
+
+
+;Learn how to remix content to create something new
+Uzziniet kā izveidot ko jaunu izmantojot jau esošo
+
+
+;Learn how to maximize the interactive potential of the Web
+Uzziniet kā palielināt tīmekļa interaktīvo potenciālu
+
+
+;Contributing to Open Source Software
+Dot savu ieguldījumu brīvai programmatūrai
+
+
+;08
+08 {ok}
+
+
+;Transparent community-based processes promote participation, accountability and trust.
+Caurspīdīgi un uz kopienas balstīti procesi veicina līdzdalību, atbildību un uzticību.
+
+
+;Participate in our governance forum
+Piedalīties mūsu pārvaldības forumā
+
+
+;Join us as a volunteer
+Pievienojies kā brīvprātīgais
+
+
+;Join us as a student ambassador
+Piebiedroties kā studentu vēstnieks
+
+
+# Obsolete string replaced by separate strings (do not remove);Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
+Piebiedroties mums kā <a href="%(volunteer)s">brīvprātīgais</a> vai kā <a href="%(ambassador)s">studentu vēstniekam</a>
+
+
+;Learn how to collaborate online
+Iemācīties sadarbošanos tiešsaistē
+
+
+;I am a Mozillian
+Es esmu Mozilietis
+
+
+;09
+09 {ok}
+
+
+;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
+Uzņēmumu investīcijas interneta attīstībā nes daudzus labumus; līdzsvars starp uzņēmumu pelņu un sabiedrisko labumu ir kritisks.
+
+
+;Visualize who you interact with on the Web with Lightbeam
+Visualize who you interact with on the Web with Lightbeam
+
+
+;See how Firefox phones seek to balance the mobile ecosystem
+See how Firefox phones seek to balance the mobile ecosystem
+
+
+;Learn about creating Web resources with others
+Iemācīties kopā veidot tīmekļa resursus
+
+
+;Lightbeam for Firefox
+Lightbeam Firefox pārlūkam
+
+
+;10
+10 {ok}
+
+
+;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
+Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
+
+
+;Host or join a Maker Party
+Host or join a Maker Party
+
+
+;Learn how to build online collaboration skills
+Uzziniet kā uzlabot savas tiešsaistes sadarbības spējas
+
+
+;What is MozFest?
+Kas ir MozFest?
+
+
+;Read the entire manifesto
+Izlasīt pilno manifestu
+
+
+;Tell your friends
+Pastāstiet draugiem
+
+
+# This string will be included in a tweet;I support Mozilla because… #mozmanifesto
+Es atbalstu Mozilla jo… #mozmanifests
+
+
+;Tweet this
+Tvītot par šo
+
+
+;Learn more about…
+Uzziniet vairāk par…
+
+
+;Donating to Mozilla
+Ziedot Mozilla
+
+
+;Our history
+Mūsu vēsture
+
+
+;Our mission
+Mūsu misija
+
+
+# Strings for mozilla.org/about/manifesto/details/;Introduction
+Ievads
+
+
+;The Internet is becoming an increasingly important part of our lives.
+Internets aizņem arvien lielāku vietu mūsu dzīvēs.
+
+
+;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
+Mozilla projekts ir globāla cilvēku kopiena kuri tic atvērtībā, inovācijā, un iespēju izmantošanā interneta dzīves pilnuma palikšanai. Mēs strādājam kopā kops 1998. gada lai nodrošināt to, ka interneta attīstība visiem nes labumus. Mēs esam pazīstami ar sava pārlūka, Firefox, izveidi.
+
+
+;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
+Mozilla projekts izmanto uz kopienas balstītu pieeja lai izveidot pasaules līmeņa atvērtā koda programmatūru un lai attīstīt jaunus kolaboratīvu aktivitāšu veidus. Mēs veidojam cilvēku kopienas kuras iesaistās mūsu katra interneta lietošanas uzlabošanā.
+
+
+;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
+As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
+
+
+;The goals for the Manifesto are to:
+Manifesta mērķi ir sekojošie:
+
+
+;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
+articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
+
+
+;speak to people whether or not they have a technical background;
+speak to people whether or not they have a technical background;
+
+
+;make Mozilla contributors proud of what we're doing and motivate us to continue; and
+make Mozilla contributors proud of what we're doing and motivate us to continue; and
+
+
+;provide a framework for other people to advance this vision of the Internet.
+provide a framework for other people to advance this vision of the Internet.
+
+
+;These principles will not come to life on their own. People are needed to make the Internet open and participatory - people acting as individuals, working together in groups, and leading others. The Mozilla Foundation is committed to advancing the principles set out in the Mozilla Manifesto. We invite others to join us and make the Internet an ever better place for everyone.
+These principles will not come to life on their own. People are needed to make the Internet open and participatory - people acting as individuals, working together in groups, and leading others. The Mozilla Foundation is committed to advancing the principles set out in the Mozilla Manifesto. We invite others to join us and make the Internet an ever better place for everyone.
+
+
+;Principles
+Principi
+
+
+;Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+Katram ir jābūt iespēja modelēt internetu un uz to veidot savus pašus eksperimentus.
+
+
+;Advancing the Mozilla Manifesto
+Advancing the Mozilla Manifesto
+
+
+;There are many different ways of advancing the principles of the Mozilla Manifesto. We welcome a broad range of activities, and anticipate the same creativity that Mozilla participants have shown in other areas of the project. For individuals not deeply involved in the Mozilla project, one basic and very effective way to support the Manifesto is to use Mozilla Firefox and other products that embody the principles of the Manifesto.
+There are many different ways of advancing the principles of the Mozilla Manifesto. We welcome a broad range of activities, and anticipate the same creativity that Mozilla participants have shown in other areas of the project. For individuals not deeply involved in the Mozilla project, one basic and very effective way to support the Manifesto is to use Mozilla Firefox and other products that embody the principles of the Manifesto.
+
+
+;Mozilla Foundation Pledge
+Mozilla Fonda apņemšanos
+
+
+;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
+Mozilla Fonds apņemas atbalstīt Mozilla Manifestu visās savās aktivitātes. Mēs it īpaši:
+
+
+;build and enable open-source technologies and communities that support the Manifesto’s principles;
+build and enable open-source technologies and communities that support the Manifesto’s principles;
+
+
+;build and deliver great consumer products that support the Manifesto’s principles;
+build and deliver great consumer products that support the Manifesto’s principles;
+
+
+;use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
+use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
+
+
+;promote models for creating economic value for the public benefit; and
+promote models for creating economic value for the public benefit; and
+
+
+;promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
+promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
+
+
+;Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
+Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
+
+
+;Invitation
+Uzaicinājums
+
+
+;The Mozilla Foundation invites all others who support the principles of the Mozilla Manifesto to join with us, and to find new ways to make this vision of the Internet a reality.
+The Mozilla Foundation invites all others who support the principles of the Mozilla Manifesto to join with us, and to find new ways to make this vision of the Internet a reality.
+
+

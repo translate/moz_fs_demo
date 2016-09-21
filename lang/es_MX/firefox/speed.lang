@@ -1,0 +1,48 @@
+;How fast is your Firefox?
+¿Qué tan rápido es tu Firefox?
+
+
+# Bug 957283: wording modification just for pt-BR;New Firefox is up to 7 times faster. (That’s a lot!) Check the speedometer to see if yours can keep up.
+El nuevo Firefox es hace 7 veces más rápido. (¡Eso es muchísimo!) Checa tu velocímetro para comprobar que el tuyo no se quede atrás. 
+
+
+;Learn more
+Aprender más
+
+
+;Old Firefox = <em>Sadface</em>
+Antigüo Firefox = <em>Caratriste</em>
+
+
+;New Firefox = <em>Yay!</em>
+Nuevo Firefox = <em>¡Sí!</em>
+
+
+;That just isn’t going to cut it. Stop browsing in the past and <a href="%(url)s">upgrade now!</a>
+Eso no es buena idea. Deja de navegar en el pasado y <a href="%(url)s">¡actualiza ahora!</a>
+
+
+;Now we’re talking!
+¡Ya nos estamos entendiendo!
+
+
+;Feels better, doesn’t it? Welcome to the future of the Web. It’s nice here.
+Se siente mejor, ¿verdad? Bienvenido al futuro de la Web, Es bueno estar aquí.
+
+
+;Hey, looks like you’re using %BROWSER%. Why not grab Firefox and get up to speed.
+Oye, parece que estás usando %BROWSER%. ¿Por qué no descargas Firefox y descubres lo que es la velocidad?
+
+
+;Hey, looks like you’re not using Firefox as your browser. Why not grab Firefox and get up to speed.
+Oye, parece que no estás usando Firefox como navegador. ¿Por qué no descargas Firefox y descubres lo que es la velocidad?
+
+
+;New Firefox is faster, free (as always), crashes less and protects your privacy more.
+El nuevo Firefox es más rápido, gratuito (como siempre), falla menos y protege más tu privacidad.
+
+
+;<a href="%(url)s">Upgrading</a> takes less than a minute and you won’t lose your history or bookmarks. Hooray!
+La <a href="%(url)s">Actualización</a> toma menos de un minuto y no perderás tu historial o marcadores. ¡Hurra!
+
+

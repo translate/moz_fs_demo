@@ -1,0 +1,276 @@
+;Firefox OS Frequently Asked Questions
+Soalan-Soalan Lazim Firefox OS
+
+
+;Firefox OS FAQ
+Firefox OS FAQ {ok}
+
+
+;About Firefox OS
+Tentang Firefox OS
+
+
+;What is Firefox OS?
+Apa itu Firefox OS?
+
+
+;Firefox OS is the only truly open mobile OS that unlocks the power of the Web as the platform and enables operators, hardware manufacturers and developers to create innovative and customized applications and products for consumers to use across these connected devices.
+Firefox OS is the only truly open mobile OS that unlocks the power of the Web as the platform and enables operators, hardware manufacturers and developers to create innovative and customized applications and products for consumers to use across these connected devices.
+
+
+;How is Firefox OS different from other operating systems?
+Bagaimana yang dikatakan Firefox OS berlainan dengan operasi sistem yang lain?
+
+
+;For users
+For users
+
+
+;Firefox OS offers a customized and easy to use experience appropriate to consumers from the value range in India to early tech adopters in Japan.
+Firefox OS offers a customized and easy to use experience appropriate to consumers from the value range in India to early tech adopters in Japan.
+
+
+;For operators and OEMs
+For operators and OEMs
+
+
+;Firefox OS offers the opportunity to capture new user segments due to its open development process and tight collaboration with partners searching for new revenue streams and business models.
+Firefox OS offers the opportunity to capture new user segments due to its open development process and tight collaboration with partners searching for new revenue streams and business models.
+
+
+;For developers
+For developers
+
+
+;Firefox OS offers the freedom to build the most advanced web experiences on mobile. Developers can create apps that customers can access across multiple platforms, devices and operating systems. Firefox OS provides them with the possibility of connecting with hundreds of millions of Firefox supporters around the world as well as access to relatively untapped markets.
+Firefox OS offers the freedom to build the most advanced web experiences on mobile. Developers can create apps that customers can access across multiple platforms, devices and operating systems. Firefox OS provides them with the possibility of connecting with hundreds of millions of Firefox supporters around the world as well as access to relatively untapped markets.
+
+
+;Buying Firefox OS
+Membeli Firefox OS
+
+
+;What phones will Firefox OS be available on?
+Telefon apakah yang akan menyediakan Firefox OS?
+
+
+;Since launching, Firefox OS smartphones are available in over 40 markets from multiple global operators on a number of different devices, across different price device categories. These include handsets from Alcatel ONETOUCH, ZTE, Huawei and LG.
+Since launching, Firefox OS smartphones are available in over 40 markets from multiple global operators on a number of different devices, across different price device categories. These include handsets from Alcatel ONETOUCH, ZTE, Huawei and LG.
+
+
+;Where can I buy Firefox OS?
+Di manakah saya boleh membeli Firefox OS?
+
+
+;The full list of where to buy Firefox OS devices can be found at the <a href="%(link)s">devices page</a>.
+The full list of where to buy Firefox OS devices can be found at the <a href="%(link)s">devices page</a>.
+
+
+;What will be the price of the phone?
+Berapakah harga telefon tersebut?
+
+
+;Pricing is not set by Mozilla and will be established by our operator and manufacturer partners based on local market dynamics.
+Harga tidak ditetapkan oleh Mozilla dan akan ditentukan oleh operator dan rakan pengeluar berdasarkan dinamik pasaran tempatan.
+
+
+;What apps will be available on Firefox OS?
+Aplikasi apakah yang boleh didapati pada Firefox OS?
+
+
+;The Firefox Marketplace offers an open app environment that leverages the scale of the Web as a development platform; allowing operators, phone manufacturers and developers greater flexibility.
+The Firefox Marketplace offers an open app environment that leverages the scale of the Web as a development platform; allowing operators, phone manufacturers and developers greater flexibility.
+
+
+;The growing list of apps for Firefox OS includes Pinterest, Facebook, LINE, Twitter, airbnb, EA Games, SoundCloud, outlook.com, Cut the Rope, Dailymotion, goal.com and TomTom Maps. Many more are being made available every day. For more information, visit <a href="%(url)s">https://marketplace.firefox.com/</a>
+The growing list of apps for Firefox OS includes Pinterest, Facebook, LINE, Twitter, airbnb, EA Games, SoundCloud, outlook.com, Cut the Rope, Dailymotion, goal.com and TomTom Maps. Many more are being made available every day. For more information, visit <a href="%(url)s">https://marketplace.firefox.com/</a>
+
+
+;Is Firefox OS available in my language?
+Adakah Firefox OS tersedia dalam bahasa saya?
+
+
+;Firefox OS is currently available in a number of different languages. Check out the device market availability at the <a href="%(link)s">devices page</a>.
+Firefox OS is currently available in a number of different languages. Check out the device market availability at the <a href="%(link)s">devices page</a>.
+
+
+;We’re working on adding more languages as we launch into new markets.
+We’re working on adding more languages as we launch into new markets.
+
+
+;Using Firefox OS
+Menggunakan Firefox OS
+
+
+;How do I…
+Bagaimana saya…
+
+
+;…make a call?
+…membuat panggilan?
+
+
+;…import my contacts?
+…import kenalan saya?
+
+
+;…create and view messages?
+…membuat dan melihat mesej?
+
+
+;…use the internet?
+…menggunakan internet?
+
+
+;…download and install an app?
+…muat turun dan memasang app?
+
+
+;…take pictures?
+…mengambil gambar?
+
+
+;…compose and send an email?
+…mengarang dan menghantar emel?
+
+
+;Firefox Marketplace
+Gedung Firefox
+
+
+;Your go-to source for the best apps for Firefox OS.
+Sumber tepat dan cepat anda untuk app terbaik untuk Firefox OS.
+
+
+;Firefox browser
+Pelayar Firefox
+
+
+;The fast, smart, safe way to get the best of the Web.
+Cara yang pantas, pintar, selamat untuk mendapatkan yang terbaik dari Web.
+
+
+;Deep integration with social media
+Integrasi yang mendalam dengan media sosial
+
+
+;Full access to every Twitter and Facebook update from wherever you are.
+Akses penuh ke setiap kemas kini Twitter dan Facebook dari mana sahaja anda berada.
+
+
+;Camera
+Kamera
+
+
+;With built-in style filters for fun, creative shots.
+Dengan penapis gaya terbina dalam untuk tangkapan yang seronok dan kreatif.
+
+
+;FM Radio
+Radio FM
+
+
+;All the audio you want on the go, all on one device.
+Semua audio yang anda mahu di mana sahaja, semua pada satu peranti.
+
+
+;Maps
+Peta
+
+
+;Includes directions, traffic and local transit information.
+Termasuk pandu arah, trafik dan maklumat transit tempatan.
+
+
+;Privacy and Security
+Privasi dan Keselamatan
+
+
+;How will Firefox OS keep me safe while I browse?
+How will Firefox OS keep me safe while I browse?
+
+
+;Mozilla was the first to implement the Do Not Track privacy feature.
+Mozilla adalah yang pertama untuk melaksanakan ciri privasi Do Not Track.
+
+
+;Firefox also features customizable security settings to manage passwords, history, private data, cookies, site options and add-ons. <a href="%(url)s">Learn more.</a>
+Firefox juga mempunyai tetapan keselamatan yang boleh disesuaikan untuk menguruskan kata laluan, sejarah, data peribadi, kuki, pilihan laman dan add-on. <a href="%(url)s">Ketahui lebih lanjut.</a>
+
+
+;Developer Questions
+Soalan Pembangun
+
+
+;Are you a developer? Have questions? <a href="%(url)s">Learn more at the Mozilla Developer Network.</a>
+Adakah anda seorang pembangun? Punyai soalan? <a href="%(url)s">Ketahui lebih lanjut di Mozilla Developer Network.</a>
+
+
+# Obsolete string, do not remove;Backed by some of the biggest names in the industry, Firefox OS is a new open operating system for smartphones developed by Mozilla.
+Disokong oleh beberapa nama besar dalam industri, Firefox OS adalah sebuah sistem operasi terbuka untuk telefon mudah alih yang dibangunkan oleh Mozilla.
+
+
+# Obsolete string, do not remove;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
+Keseluruhannya dibina menggunakan HTML5 dan standard Web terbuka yang lain, Firefox OS adalah bebas daripada persyaratan dan sekatan daripada platform empunya sedia ada.
+
+
+# Obsolete string, do not remove;Firefox OS is the only operating system with Adaptive App Search.
+Firefox OS ialah satu satunya operasi sistem dengan Carian Apl Adaptif.
+
+
+# Obsolete string, do not remove;While every other phone today is static, giving you the exact same apps each time you turn it on, Firefox OS is always changing to offer exactly the apps you need at any moment in your life.
+Sementara setiap telefon lain pada hari ini adalah statik, memberi anda aplikasi yang sama setiap kali anda menghidupkan ia, Firefox OS sentiasa berubah untuk menawarkan aplikasi yang benar-benar anda perlukan pada bila-bila ketika dalam kehidupan anda.
+
+
+# Obsolete string, do not remove;It adapts so you can live every moment to its fullest.
+Ia menyesuaikan diri supaya anda boleh menghidupkan setiap saat sepenuhnya.
+
+
+# Obsolete string, do not remove;Firefox OS is brought to you by Mozilla, a global nonprofit organization that emphasizes principle over profit.
+Firefox OS dibawakan kepada anda oleh Mozilla, sebuah organisasi global tanpa keuntungan yang lebih menekankan prinsip berbanding keuntungan.
+
+
+# Obsolete string, do not remove;We believe that the Web is a shared public resource to be cared for, not a commodity to be sold.
+Kami percaya bahawa Web adalah sebuah sumber awam yang dikongsi dan perlu dijaga, bukanlah sebuah komoditi untuk dijual.
+
+
+# Obsolete string, do not remove;We work with a worldwide community to create open source products like Mozilla Firefox and to innovate for the benefit of the individual and the betterment of the Web.
+Kami bekerja dengan komuniti di seantero dunia untuk mencipta produk sumber terbuka seperti Mozilla Firefox dan menginovasi untuk faedah setiap individu dan juga kebaikan Web.
+
+
+# Obsolete string, do not remove;The result is great products built by passionate people and better choices for everyone.
+Hasilnya adalah sebuah produk hebat yang dibina oleh mereka yang bersemangat dan pilihan yang lebih baik untuk semua orang.
+
+
+# Obsolete string, do not remove;To see a full list of available Firefox OS phones, please visit the <a href="%(link)s">devices page</a>.
+To see a full list of available Firefox OS phones, please visit the <a href="%(link)s">devices page</a>.
+
+
+# Obsolete string, do not remove;To purchase a Firefox OS phone, please visit the <a href="%(link)s">devices page</a> and select your available country.
+To purchase a Firefox OS phone, please visit the <a href="%(link)s">devices page</a> and select your available country.
+
+
+# Obsolete string, do not remove;The growing list includes leading apps like Facebook, Twitter, Nokia HERE maps, Cut the Rope, and Time Out.
+Aplikasi terkemuka seperti Facebook, Twitter, Nokia HERE maps, Cut the Rope, dan Time Out kini termasuk dalam senarai yang semakin berkembang.
+
+
+# Obsolete string, do not remove;Many more are being made available every day.
+Lebih banyak lagi yang sedang disediakan setiap hari.
+
+
+# Obsolete string, do not remove;Firefox OS is currently available in Spanish, Polish, English, Italian, Portuguese, German, Serbian, Hungarian and Greek.
+Firefox OS kini boleh didapati dalam Bahasa Sepanyol, Poland, Inggeris, Itali, Portugis, Jerman, Serbia, Hungary dan Yunani.
+
+
+# Obsolete string, do not remove;We’re working on adding more languages all the time.
+Kami sedang berusaha menambah lebih banyak bahasa pada setiap masa.
+
+
+# Obsolete string, do not remove;Adaptive App Search
+Mencari Aplikasi Adaptif
+
+
+# Obsolete string, do not remove;Get information on any subject right when you need it, brought to you and your phone by Firefox OS.
+Dapatkan maklumat mengenai sesuatu subjek ketika anda memerlukannya, dibawa kepada anda dan telefon anda oleh Firefox OS.
+
+

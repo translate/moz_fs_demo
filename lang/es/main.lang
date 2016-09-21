@@ -1,0 +1,360 @@
+;Navigation
+Área de navegación
+
+
+;About
+Acerca
+
+
+;Donate
+Dona
+
+
+;Support
+Asistencia
+
+
+;Products
+Productos
+
+
+;Add-ons
+Complementos
+
+
+;About Us
+Acerca de nosotros
+
+
+;Labs
+Labs {ok}
+
+
+;skip to Navigation
+Ir al área de navegación
+
+
+;switch language
+Cambiar de idioma
+
+
+;Back to home page
+Volver a la página de inicio
+
+
+;About Mozilla
+Acerca de Mozilla
+
+
+;Get Involved
+Involúcrate
+
+
+;Careers
+Empleo
+
+
+;Press Center
+Área de prensa
+
+
+;Contact Us
+Contacta con nosotros
+
+
+;Other languages:
+Otros idiomas:
+
+
+# Year / Month / Day, indicate your prefered date format for your language;%Y-%m-%d
+%d-%m-%Y
+
+
+;Legal Notices
+Avisos legales
+
+
+;Privacy Policy
+Política de privacidad
+
+
+;Release Notes
+Notas de la versión
+
+
+;Other Systems and Languages
+Otros sistemas e idiomas
+
+
+;Close
+Cerrar
+
+
+;(in English)
+(en inglés)
+
+
+;Return to top
+Volver al principio
+
+
+;Features
+Características
+
+
+;Customize
+Personaliza
+
+
+;Download
+Descargar
+
+
+;Next
+Siguiente
+
+
+# MegaBytes abbreviation;MB
+Mb
+
+
+;MegaBytes
+Megabytes
+
+
+;FAQ
+FAQ {ok}
+
+
+;Videos
+Vídeos
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+A menos que <a href="%s">se indique</a> lo contrario, el contenido de esta página está licenciado bajo <br /><a href="%s">Creative Commons Reconocimiento Compartir-Igual v3.0</a> o cualquier versión posterior.
+
+
+;Report Trademark Abuse
+Informa sobre uso<br/>indebido de marca
+
+
+;Free Upgrade
+Actualización gratuita
+
+
+# social networks such as Facebook and Twitter;Follow us on:
+Síguenos en:
+
+
+;Customize with Add-ons
+Personaliza con complementos
+
+
+;Learn More
+Más información
+
+
+;Watch the video
+Mira el vídeo
+
+
+;WebM format
+Formato WebM
+
+
+;Ogg Theora format
+Formato Ogg Theora
+
+
+;MPEG-4 format
+Formato MPEG-4
+
+
+;Mobile
+Móviles
+
+
+;Check out the new look and feel of Firefox.
+Comprueba el nuevo diseño de Firefox.
+
+
+;View Full Site
+Ver el sitio completo
+
+
+;Get Firefox for Android
+Obtener Firefox para Android
+
+
+;Download for <span>Android</span>
+Descargar para <span>Android</span>
+
+
+;Desktop
+Escritorio
+
+
+;Firefox Beta for mobile
+Firefox Beta para móviles
+
+
+;Firefox for mobile
+Firefox para móviles
+
+
+;Email
+Correo electrónico
+
+
+;Super speed
+Supervelocidad
+
+
+;Stunning graphics
+Gráficos sorprendentes
+
+
+;The latest technologies
+Las últimas tecnologías
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+¡Necesitas actualizar! Mantén tu seguridad dedicando menos de un minuto. <br/> Comienza a usar tu nuevo Firefox y obtendrás la mejor navegación y personalización de la Web. <br/>   ¡Es rápido y gratuito!
+
+
+;Upgrade now
+Actualizar ahora
+
+
+;Update now
+Actualizar ahora
+
+
+;Supported Devices
+Dispositivos compatibles
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons;What’s New
+Novedades
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons;Privacy
+Privacidad
+
+
+# Footer string;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Algunos contenidos están protegidos por los derechos de autor ©1998–%(current_year)s de determinados colaboradores en mozilla.org. El resto del contenido está disponible bajo una licencia <a href="%(url)s">Creative Commons</a>.
+
+
+# Footer string;Contribute to this page
+Colabora en esta página
+
+
+# Top menu item;Mission
+Misión
+
+
+# Footer item on some pages to link to a tour of features;Tour
+Visita virtual
+
+
+# Footer item;Partner with Us
+Sé nuestro socio
+
+
+# Top menu item on firefox/update page;Performance
+Rendimiento
+
+
+# Top menu item on firefox/update page;Technology
+Tecnología
+
+
+# Top menu item on firefox/update page;Privacy &amp; Security
+Privacidad y seguridad
+
+
+# Top menu item on firefox/update page;Releases
+Lanzamientos
+
+
+# Top menu item on firefox/update page;Overview
+Información general
+
+
+# Top menu item on firefox/update page;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page;Firefox for Organizations
+Firefox para organizaciones
+
+
+# Top menu item on firefox/update page;Desktop Add-ons
+Complementos para escritorio
+
+
+# Top menu item on firefox/update page;Mobile Add-ons
+Complementos para móviles
+
+
+# Top menu item on firefox/update page;Themes
+Temas
+
+
+# Top menu item on firefox/update page;Desktop Support
+Asistencia para escritorio
+
+
+# Top menu item on firefox/update page;Mobile Support
+Asistencia para móviles
+
+
+# Top menu item on firefox/update page;Blog
+Blog {ok}
+
+
+# Top menu item on firefox/update page;About Firefox
+Acerca de Firefox
+
+
+# Top menu item on firefox/update page;Join Mozilla
+Únete a Mozilla
+
+
+# Top menu item on firefox/update page;Participate
+Participa
+
+
+# Top menu item on firefox/update page;Brand Toolkit
+Manual de la marca
+
+
+# Top menu item on firefox/update page;Partnerships
+Asociaciones
+
+
+# Newsletter subscription form above footer on some pages;Get Mozilla updates
+Recibe actualizaciones de Mozilla
+
+
+# share button for social networks;Share
+Compartir
+
+
+# footer link;Mozilla on Twitter
+Mozilla en Twitter
+
+
+# footer link;Firefox on Twitter
+Firefox en Twitter
+
+
+# footer link;Mozilla on Facebook
+Mozilla en Facebook
+
+
+# footer link;Firefox on Facebook
+Firefox en Facebook
+
+

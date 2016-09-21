@@ -1,0 +1,48 @@
+;How fast is your Firefox?
+Kor rask er din Firefox?
+
+
+# Bug 957283: wording modification just for pt-BR;New Firefox is up to 7 times faster. (That’s a lot!) Check the speedometer to see if yours can keep up.
+Nye Firefox er opp til 7 gongar raskare. (Det er mykje!) Kontroller fartsmålaren for å sjå om din kan henga med.
+
+
+;Learn more
+Les meir
+
+
+;Old Firefox = <em>Sadface</em>
+Gammal Firefox = <em>Trist</em>
+
+
+;New Firefox = <em>Yay!</em>
+Ny Firefox = <em>Jaa!</em>
+
+
+;That just isn’t going to cut it. Stop browsing in the past and <a href="%(url)s">upgrade now!</a>
+Det vert ikkje noko av det. Slutt å surfa i fortida <a href="%(url)s">Oppgrader no!</a>
+
+
+;Now we’re talking!
+Det var noko det!
+
+
+;Feels better, doesn’t it? Welcome to the future of the Web. It’s nice here.
+Dette kjennest mykje btere, ikkje sant Velkomen til framtida åt nettet. Detr er fint her.
+
+
+;Hey, looks like you’re using %BROWSER%. Why not grab Firefox and get up to speed.
+Heisann, det ser ut til at du brukar %BROWSER%. Kvifor ikkje lasta ned Firefox og få fart på sakene.
+
+
+;Hey, looks like you’re not using Firefox as your browser. Why not grab Firefox and get up to speed.
+heisann, det ser ut til at du ikkje brukar Firefox som din nettlesar. Kvifor ikkje lasta ned Firefox og få fart på sakene.
+
+
+;New Firefox is faster, free (as always), crashes less and protects your privacy more.
+Den nye Firefox er raskare, gratis (som alltid), krasjar mindre og tek meir vare på personvernet ditt.
+
+
+;<a href="%(url)s">Upgrading</a> takes less than a minute and you won’t lose your history or bookmarks. Hooray!
+<a href="%(url)s">Oppgraderinga</a> tek mindre enn eitt minutt og du vil ikkje mista historikken din eller bokmerka dine. Hurra!
+
+

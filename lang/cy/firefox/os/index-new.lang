@@ -1,0 +1,266 @@
+# Used as meta HTML tag (page title);Firefox OS — Just what you need — Great smartphone features, apps and more
+Firefox OS — Yr union beth — Nodweddion ffonau clyfar gwych, apiau a rhagor
+
+
+# Used as meta HTML tag (page description);Firefox OS is designed to give you just what you need, just when you need it. It comes with apps for all you do and you can download more of your favorites from the Firefox Marketplace. Smart has never been so simple.
+Mae Firefox OS wedi ei gynllunio i gynnig yr union beth sydd ei angen, pryd bynnag fydd ei angen. Mae'n cynnwys apiau ar gyfer gwneud pob dim ac mae modd llwytho i lawr rhagor o'ch ffefrynnau o Farchnad Firefox. Fu clyfar erioed mor hawdd.
+
+
+# Used as og:description for sharing purposes (Open Graph);Designed to give you just what you need in a smartphone, with apps for all you do and more. Smart has never been so simple.
+Wedi ei gynllunio i roi i chi popeth sydd ei angen mewn ffôn clyfar, gydag apiau ar gyfer pob gofyn a mwy. Mae clyfar yn syml.
+
+
+# Obsolete, do not remove.;Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
+Firefox OS — Y Ffôn Addasadwy — Nodweddion Ffôn Clyfar, Apiau a Mwy
+
+
+# Obsolete, do not remove.;Firefox OS smartphones give you great adaptive features and apps that let you live every moment to its fullest and build a brighter future for the Web.
+Mae ffonau Firefox OS yn darparu nodweddion addasol gwych ac apiau sy'n caniatáu i chi fyw bob munud i'r eithaf ac adeiladu dyfodol mwy disglair i'r We.
+
+
+# Alternative text for top image;Firefox OS device illustration
+Llun dyfais Firefox OS
+
+
+;Designed to give you just what you need, just when you need it.
+Wedi ei gynllunio i roi i chi beth rydych ei angen, ar yr adeg iawn.
+
+
+# Title used above the animation (click on the phone image);Give these a try
+Rhowch gynnig ar rhain
+
+
+# Used as a button label in the animation at the top of the page;Scroll the homepage
+Sgrolio'r tudalen cartref
+
+
+# Used as a button label in the animation at the top of the page;Swipe between apps
+Llusgo rhwng apiau
+
+
+# Title;Smart has never been so simple
+Dyw clyfar byth wedi bod mor hawdd
+
+
+# Alternative text for icon;interaction icon
+eicon rhyngweithio
+
+
+# Sub-section title;Scroll for what you need
+Sgrolio am beth rydych ei angen
+
+
+;Say goodbye to multiple home screens. Everything you need is right there in one clean, continuous scroll. What could be easier?
+Dwedwch ffarwel i sgriniau cartref lluosog. Mae pob peth rydych eu hangen yma mewn un sgrolio hir, parhaus. Beth allai fod yn haws?
+
+
+# Sub-section title;Search in a snap
+Chwilio, chwap
+
+
+;Search the Web and the Firefox Marketplace, or visit a website directly — all from the search bar at the top of your home screen.
+Chwiliwch y We a'r Firefox Marketplace, neu ymweld â gwefan yn uniongyrchol — y cyfan o'r bar chwilio ar frig eich sgrin cartref.
+
+
+# Sub-section title
+# The &nbsp; (non-breaking space) is used only to differentiate this title from the button label "Swipe" between apps
+# Feel free to use the same translation and drop the non-breaking space in your translation.;Swipe&nbsp;between apps
+Llusgo&nbsp;rhwng apiau
+
+
+;Access your recently used apps in a flash. Just swipe from the edge of the screen to cycle through all of your open apps.
+Ewch at eich apiau diweddar yn sydyn. Llusgwch o ymyl y sgrin i gylchu drwy eich apiau agored i gyd.
+
+
+# Currently not used in the page, will be used for 1.1 fallback content;Firefox OS is designed to fit your life and with Adaptive App Search it does just that. Just start typing to get fast and easy access to related apps and local content. It’s smart and simple — the way every search should be.
+Mae Firefox OS wedi ei gynllunio i fod yn rhan agos o'ch bywyd ac mae'r Ap Chwilio'n Addasol yn gwneud yr union beth. Teipiwch i gael mynediad cyflym a hawdd i apiau perthnasol a chynnwys lleol. Mae'n glyfar a syml — y ffordd dylai chwilio fod.
+
+
+;Apps for all you do
+Apiau ar gyfer popeth rydych yn ei wneud
+
+
+;Stay connected
+Cadwch mewn cysylltiad
+
+
+;Stay entertained
+Byddwch wedi eich difyrru
+
+
+;Stay organized
+Cadwch drefn ar bethau
+
+
+# Placeholder text for the search bar, imported from Gaia 2.0;Search or enter address
+Chwiliwch neu rhowch gyfeiriad
+
+
+# Time used in the phone image. It should replicate Gaia's actual time format for your locale.;12:34 PM
+12:34 PM {ok}
+
+
+# App name imported from Gaia 2.0;Phone
+Ffôn
+
+
+# App name imported from Gaia 2.0;Camera
+Camerâu
+
+
+# App name imported from Gaia 2.0;Video
+Fideo
+
+
+# App name imported from Gaia 2.0;E-Mail
+E-bost
+
+
+# App name imported from Gaia 2.0;Messages
+Negeseuon
+
+
+# App name imported from Gaia 2.0;Calendar
+Calendr
+
+
+# App name imported from Gaia 2.0;Browser
+Porwr
+
+
+# App name imported from Gaia 2.0;Clock
+Cloc
+
+
+# App name imported from Gaia 2.0;Contacts
+Cysylltiadau
+
+
+# App name imported from Gaia 2.0;Music
+Cerddoriaeth
+
+
+# App name imported from Gaia 2.0;FM Radio
+Radio FM
+
+
+# App name imported from Gaia 2.0;Settings
+Gosodiadau
+
+
+# App name imported from Gaia 2.0;Gallery
+Oriel
+
+
+# App name imported from Gaia 2.0;Usage
+Defnydd
+
+
+;Add more from the Firefox Marketplace
+Ychwanegwch ragor o'r Firefox Marketplace
+
+
+;Get all the most popular games and social networking apps right here.
+Mae'r gemau mwyaf poblogaidd a'r apiau rhwydweithio cymdeithasol i gyd yma.
+
+
+;Go to the Marketplace
+Ewch i'r Marketplace
+
+
+;* Pre-installed apps may vary by manufacturers and operators.
+* Gall apiau wedi eu gosod ymlaen llaw amrywio yn ôl gwneuthurwr a darparwr.
+
+
+;In the news
+Yn y newyddion
+
+
+;See more
+Gweld rhagor
+
+
+# Alternative text for community image;Mozilla community photo
+Llun cymuned Mozilla
+
+
+;Powered by the Mozilla community
+Yn cael ei yrru gan cymuned Mozilla
+
+
+;Mozilla is a non-profit organization fueled by a passionate global community. Together, we’re able to create and innovate with local interests in mind, while making the Web better and more accessible for everyone everywhere.
+Mae Mozilla yn gorff dim er elw sy'n cael ei yrru gan gymuned fyd eang brwdfrydig. Gyda'n gilydd, rydym yn gallu creu ac arloesi ar faterion lleol, tra'n gwneud y We'n le gwell ar gyfer pawb, ymhob man.
+
+
+;Learn more about Mozilla
+Dysgu rhagor am Mozilla
+
+
+;Need Help?
+Angen Cymorth?
+
+
+;Firefox OS Support
+Cefnogaeth Firefox OS
+
+
+# App name imported from Gaia 2.0;Find My Device
+Canfod fy Nyfais
+
+
+;For Developers
+Ar gyfer Datblygwyr
+
+
+;Mozilla Developer Network
+Rhwydwaith Datblygwyr Mozilla
+
+
+;Mozilla Appmaker
+Mozilla Appmaker {ok}
+
+
+;Firefox OS devices
+Dyfeisiau Firefox OS
+
+
+;Where is Firefox OS available?
+Lle mae Firefox OS ar gael?
+
+
+;Other Firefox OS versions
+Fersiynau eraill o Firefox OS
+
+
+;For Partners
+Ar gyfer Partneriaid
+
+
+;Partnership opportunities
+Cyfleoedd ar gyfer Partneriaid
+
+
+# Module "Get a phone", displayed in countries where phones are commercialized by operators;We work with a number of providers to offer Firefox OS on a variety of devices.
+Rydym yn gweithio gyda nifer o ddarparwyr i gynnig Firefox OS ar amrywiaeth o ddyfeisiau.
+
+
+# Case 1: There are several phone providers;Choose one from the list below to get a Firefox OS smartphone in your country.
+Dewiswch un o'r rhestr isod i brynu ffôn clyfar Firefox OS yn eich gwlad.
+
+
+# Case 2: There is only one provider in the country;Click on the provider below to get a Firefox OS smartphone in your country.
+Cliciwch ar y darparwr isod i brynu ffôn clyfar Firefox OS yn eich gwlad.
+
+
+;Sign up for our monthly newsletter
+Ymunwch er mwyn derbyn ein cylchlythyr misol
+
+
+;Thank you for signing up!
+Diolch am ymuno!
+
+
+;Sign up for our monthly newsletter and get the latest on Firefox OS
+Ymunwch a derbyn ein cylchlythyr misol a chael y diweddaraf ar Firefox OS
+
+

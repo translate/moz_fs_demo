@@ -1,0 +1,1100 @@
+# ;firefox
+firefox {ok}
+
+
+# ;mozilla
+mozilla {ok}
+
+
+# ;web
+เว็บ
+
+
+# ;help
+ความช่วยเหลือ
+
+
+# ;free
+ฟรี
+
+
+# ;mobile
+อุปกรณ์พกพา
+
+
+# ;browser
+เบราว์เซอร์
+
+
+# ;user
+ผู้ใช้
+
+
+# ;developer
+นักพัฒนา
+
+
+# ;download
+ดาวน์โหลด
+
+
+# ;android
+android {ok}
+
+
+# ;learn
+เรียนรู้
+
+
+# ;feature
+คุณลักษณะ
+
+
+# ;experience
+ประสบการณ์
+
+
+# ;build
+สร้าง
+
+
+# ;app
+แอป
+
+
+# ;world
+โลก
+
+
+# ;involved
+เกี่ยวข้อง
+
+
+# ;support
+สนับสนุน
+
+
+# ;device
+อุปกรณ์
+
+
+# ;marketplace
+ร้านค้า
+
+
+# ;version
+รุ่น
+
+
+# ;started
+started
+
+
+# ;back
+กลับ
+
+
+# ;site
+ไซต์
+
+
+# ;HTML5
+HTML5 {ok}
+
+
+# ;community
+ชุมชน
+
+
+# ;update
+ปรับรุ่น
+
+
+# ;people
+ผู้คน
+
+
+# ;create
+สร้าง
+
+
+# ;access
+เข้าถึง
+
+
+# ;product
+ผลิตภัณฑ์
+
+
+# ;time
+เวลา
+
+
+# ;platform
+แพลตฟอร์ม
+
+
+# ;video
+วีดิโอ
+
+
+# ;content
+เนื้อหา
+
+
+# ;security
+ความปลอดภัย
+
+
+# ;desktop
+คอมพิวเตอร์ตั้งโต๊ะ
+
+
+# ;release
+release
+
+
+# ;million
+million
+
+
+# ;information
+ข้อมูล
+
+
+# ;fast
+เร็ว
+
+
+# ;project
+โครงการ
+
+
+# Specific interest;firefox for android
+firefox สำหรับ android
+
+
+# ;add-on
+ส่วนเสริม
+
+
+# ;check
+ตรวจสอบ
+
+
+# ;facebook
+facebook
+
+
+# ;system
+ระบบ
+
+
+# ;tool
+เครื่องมือ
+
+
+# ;innovation
+นวัตกรรม
+
+
+# ;version of firefox
+รุ่นของ Firefox
+
+
+# ;feel
+feel
+
+
+# Field;website
+เว็บไซต์
+
+
+# ;beta
+beta
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons;privacy
+ความเป็นส่วนตัว
+
+
+# Field;email
+อีเมล
+
+
+# ;test
+ทดสอบ
+
+
+# ;page
+หน้า
+
+
+# ;today
+วันนี้
+
+
+# ;future
+อนาคต
+
+
+# ;news
+ข่าว
+
+
+# ;contributor
+contributor
+
+
+# ;service
+บริการ
+
+
+# ;share
+share
+
+
+# ;application
+application
+
+
+# ;faster
+เร็วขึ้น
+
+
+# ;questions
+คำถาม
+
+
+# ;We’re
+We’re
+
+
+# ;no
+ไม่
+
+
+# This is a button inciting the user to read the following section of content in a modal window.;read
+read
+
+
+# ;view
+view
+
+
+# ;join
+join
+
+
+# ;market
+market
+
+
+# ;upgrade
+upgrade
+
+
+# ;opportunities
+opportunities
+
+
+# Top menu item;mission
+เป้าหมาย
+
+
+# ;global
+global
+
+
+# ;event
+event
+
+
+# ;stay
+stay
+
+
+# ;choice
+choice
+
+
+# ;creative
+creative
+
+
+# ;design
+design
+
+
+# ;safe
+safe
+
+
+# ;browsing
+browsing
+
+
+# ;visit
+visit
+
+
+# ;we’re
+we’re
+
+
+# ;write
+write
+
+
+# ;bringing
+bringing
+
+
+# ;follow
+follow
+
+
+# ;network
+network
+
+
+# ;online
+online
+
+
+# ;technologies
+technologies
+
+
+# Strings used in our download buttons;download firefox
+ดาวน์โหลด firefox
+
+
+# ;friends
+friends
+
+
+# ;native
+native
+
+
+# ;building
+building
+
+
+# ;business
+business
+
+
+# ;internet
+internet
+
+
+# ;language
+language
+
+
+# ;search
+search
+
+
+# ;browse
+browse
+
+
+# ;offering
+offering
+
+
+# Field;phone
+phone
+
+
+# ;awesome
+awesome
+
+
+# ;click
+click
+
+
+# ;customize
+การปรับแต่ง
+
+
+# ;forward
+forward
+
+
+# ;google
+google
+
+
+# ;firefox beta
+firefox beta {ok}
+
+
+# ;helping
+helping
+
+
+# ;team
+team
+
+
+# ;address
+address
+
+
+# ;consumer
+consumer
+
+
+# # LOCATION OVERLAY AND MAP ##;location
+location
+
+
+# ;non-profit
+non-profit
+
+
+# ;technology
+technology
+
+
+# ;link
+link
+
+
+# ;manage
+manage
+
+
+# ;solution
+solution
+
+
+# ;aurora
+aurora
+
+
+# ;connect
+connect
+
+
+# ;customization
+customization
+
+
+# ;feel free
+feel free
+
+
+# ;list
+list
+
+
+# ;power
+power
+
+
+# ;sharing
+sharing
+
+
+# ;store
+ร้านค้า
+
+
+# ;twitter
+twitter
+
+
+# ;freedom
+freedom
+
+
+# ;standard
+standard
+
+
+# ;webmaker
+webmaker
+
+
+# ;partner
+partner
+
+
+# ;feedback
+feedback
+
+
+# ;live
+live
+
+
+# ;control
+control
+
+
+# ;development
+development
+
+
+# ;favorite
+favorite
+
+
+# ;mozilla marketplace
+mozilla marketplace
+
+
+# ;track
+track
+
+
+# ;customer
+customer
+
+
+# ;day
+day
+
+
+# ;enjoy
+enjoy
+
+
+# Firefox Web Apps promotional page : https://www.allizom.org/apps/;firefox marketplace
+firefox marketplace
+
+
+# ;operating
+operating
+
+
+# ;sign
+sign
+
+
+# ;volunteer
+volunteer
+
+
+# ;web standards
+web standards
+
+
+# ;documentation
+documentation
+
+
+# ;fan
+fan
+
+
+# ;hand
+hand
+
+
+# ;love
+love
+
+
+# ;minute
+minute
+
+
+# ;multiple
+multiple
+
+
+# ;opportunity
+opportunity
+
+
+# ;resource
+resource
+
+
+# ;submit
+ส่ง
+
+
+# ;touch
+touch
+
+
+# ;blog
+บล็อก
+
+
+# ;channel
+channel
+
+
+# ;coming
+coming
+
+
+# ;explore
+explore
+
+
+# ;home
+บ้าน
+
+
+# ;hundreds
+hundreds
+
+
+# ;mozilla firefox
+mozilla firefox
+
+
+# ;play
+เล่น
+
+
+# ;plugin
+ส่วนเสริม
+
+
+# ;spread
+กระจาย
+
+
+# ;tab
+แท็บ
+
+
+# ;testing
+การทดสอบ
+
+
+# ;word
+คำ
+
+
+# ;code
+code
+
+
+# ;comment
+comment
+
+
+# ;develop
+พัฒนา
+
+
+# ;developer network
+เครือข่ายนักพัฒนา
+
+
+# ;distribute
+กระจาย
+
+
+# ;feel free to write
+feel free to write
+
+
+# ;individual
+individual
+
+
+# ;issue
+issue
+
+
+# ;It’s
+It’s
+
+
+# ;mind
+mind
+
+
+# ;mozilla developer
+mozilla developer
+
+
+# ;player
+player
+
+
+# ;proudly
+proudly
+
+
+# ;proudly non-profit
+proudly non-profit
+
+
+# ;run
+run
+
+
+# ;select
+select
+
+
+# ;involved with mozilla
+involved with mozilla
+
+
+# ;operator
+operator
+
+
+# ;firefox aurora
+firefox aurora {ok}
+
+
+# ;effort
+effort
+
+
+# ;iPhone
+iPhone
+
+
+# ;offer
+offer
+
+
+# ;relationship
+relationship
+
+
+# ;date
+date
+
+
+# ;file
+file
+
+
+# ;policy
+policy
+
+
+# ;start
+start
+
+
+# ;launch
+launch
+
+
+# ;marketing
+marketing
+
+
+# ;meet
+meet
+
+
+# ;specific
+specific
+
+
+# ;you’re
+you’re
+
+
+# ;API
+API
+
+
+# ;contact
+contact
+
+
+# ;data
+data
+
+
+# ;expect
+expect
+
+
+# ;launched
+launched
+
+
+# ;performance
+performance
+
+
+# ;source
+source
+
+
+# ;stay safe
+stay safe
+
+
+# ;tablet
+tablet
+
+
+# ;term
+term
+
+
+# ;annual
+annual
+
+
+# ;bug
+bug
+
+
+# ;core
+core
+
+
+# ;creating
+creating
+
+
+# ;email address
+email address
+
+
+# ;flash
+flash
+
+
+# ;form
+form
+
+
+# ;functionality
+functionality
+
+
+# ;generation
+generation
+
+
+# ;mobile devices
+mobile devices
+
+
+# ;moving
+moving
+
+
+# ;mozilla webmaker
+mozilla webmaker
+
+
+# ;openness
+openness
+
+
+# ;participation
+participation
+
+
+# ;planet
+planet
+
+
+# ;protect
+protect
+
+
+# ;report
+report
+
+
+# ;shared
+shared
+
+
+# ;social
+social
+
+
+# ;software
+software
+
+
+# ;spread the word
+spread the word
+
+
+# ;task
+task
+
+
+# ;that’s
+that’s
+
+
+# ;unique
+unique
+
+
+# ;billion
+billion
+
+
+# ;button
+button
+
+
+# ;care
+care
+
+
+# ;close
+ปิด
+
+
+# ;contribute
+contribute
+
+
+# ;detail
+detail
+
+
+# ;distribution
+distribution
+
+
+# ;enter
+enter
+
+
+# ;final
+final
+
+
+# ;firefox users
+firefox users
+
+
+# ;flexible
+flexible
+
+
+# ;info
+info
+
+
+# ;main
+main
+
+
+# ;mozilla developer network
+mozilla developer network
+
+
+# ;note
+หมายเหตุ
+
+
+# ;please feel free
+please feel free
+
+
+# ;program
+program
+
+
+# ;quick
+quick
+
+
+# ;ready
+ready
+
+
+# ;running
+running
+
+
+# ;sort
+sort
+
+
+# ;top
+top
+
+
+# ;web experience
+web experience
+
+
+# ;You’re
+You’re
+
+
+# ;adobe
+adobe
+
+
+# ;box
+box
+
+
+# ;free download
+ดาวน์โหลดฟรี
+
+
+# ;supported
+supported
+
+
+# ;What’s
+What’s
+
+
+# ;jay
+jay
+
+
+# ;supported devices
+อุปกรณ์ที่รองรับ
+
+
+# ;distribute your apps
+distribute your apps
+
+
+# ;partnership
+partnership
+
+
+# ;Add-ons
+ส่วนเสริม
+
+
+# ;newsletter
+newsletter
+
+
+# ;messenger
+messenger
+
+
+# ;OEM
+OEM
+
+
+# ;organization
+organization
+
+
+# ;success
+success
+
+

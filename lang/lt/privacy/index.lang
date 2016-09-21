@@ -1,0 +1,64 @@
+;Mozilla Privacy
+„Mozilla“ ir privatumas
+
+
+;Contact Mozilla
+Susisiekite su „Mozilla“
+
+
+;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+Jei norite patikslinti savo duomenis ar turite kokių nors klausimų dėl mūsų privatumo politikos, kviečiame su mumis susisiekti šiuo adresu:
+
+
+;Data Privacy Principles
+Duomenų privatumo principai
+
+
+;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+„Mozilla“ yra atvirojo kodo projektas, kurio misija – padėti jums geriau jaustis internete. Ši misija yra kertinis mūsų duomenų privatumo principų akmuo. <a href="%(link)s">Išsamiau</a>
+
+
+;Our Privacy Notices
+Mūsų privatumo pastabos
+
+
+;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Šiose privatumo pastabose aprašėme, kaip duomenis gauname, juos naudojame ir jais dalijamės, jums naudojantis mūsų produktais ir paslaugomis, bei kokias susijusias galimybes turite jūs. Sužinokite daugiau:
+
+
+;Mozilla Websites, Communications &amp; Cookies
+„Mozillos“ svetainės, komunikacijos priemonės ir slapukai
+
+
+;Firefox Browser
+„Firefox“ naršyklė
+
+
+;Firefox Cloud Services
+„Firefox“ debesijos paslaugos
+
+
+;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+Jei norite susipažinti ar pakomentuoti siūlomus mūsų privatumo nuostatų pakeitimus, <a href="%(group)s">užsiprenumeruokite „Mozillos“ valdymo grupę</a> (anglų k.).
+
+
+;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Mūsų vykdoma veikla privatumo srityje yra aprašoma <a href="%(blog)s">Privatumo ir duomenų saugumo tinklaraštyje</a>; informacija apie ją taip pat pateikiama <a href="%(wiki)s">„Mozillos“ privatumo komandos vikyje</a> (abu šaltiniai – anglų k.).
+
+
+;Outdated Policies
+Pasenę nuostatai
+
+
+# Used at the top of the page for navigation (breadcrumbs);Home
+Pradžia
+
+
+# Used in legal docs to collapse (hide) a paragraph;Show Less
+Glausčiau
+
+
+# Used in sub-pages to return to the main index https://www.mozilla.org/privacy;Back to Mozilla Privacy Policy
+Grįžti į „Mozillos“ privatumo nuostatus
+
+

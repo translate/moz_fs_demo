@@ -1,0 +1,564 @@
+;Your email address:
+អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក៖
+
+
+;Language:
+ភាសា៖
+
+
+;Select country
+ជ្រើស​ប្រទេស
+
+
+;Country:
+ប្រទេស៖
+
+
+# Form submit button on the Student Ambassador newsletter subscription form;Sign me up!
+ចុះ​ឈ្មោះ​ខ្ញុំ!
+
+
+;Thanks for Subscribing!
+អរគុណ​សម្រាប់​ការ​ជាវ​ជា​ប្រចាំ!
+
+
+;Your newsletter subscription has been confirmed.
+ការ​ជាវ​ប្រចាំ​ព្រឹត្តិបត្តិ​ព័ត៌មាន​របស់​អ្នក​បាន​បញ្ជាក់ ។
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox + You
+Firefox + You
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox + You);A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+ព្រឹត្តិបត្រ​ប្រចាំ​ខែ និង​សេចក្ដី​ប្រកាស​​​ពិសេស​ៗ​ផ្ដល់​នូវ​ជំនួយ​ឲ្យ​អ្នក​ដើម្បី​កែ​លម្អ​បទ​ពិសោធន៍​របស់​អ្នក​ជាមួយ Firefox នៅ​លើ​​កុំព្យូទ័រ​​លើ​តុ​ និង​ឧបករណ៍​អេនដ្រយ​របស់​អ្នក។
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox OS + You
+Firefox OS + You
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You);A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Accounts Tips
+Firefox Accounts Tips
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips);Get the most out of your Firefox Account.
+Get the most out of your Firefox Account.
+
+
+# Name for the newsletter in Newsletter subscription page;Mozilla Communities
+Mozilla Communities
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Communities);Bringing you the best new opportunities to help support the open Web.
+នាំ​មក​នូវ​​ឱកាស​ថ្មី​ប្រសើរ​បំផុត​ដើម្បី​ជួយ​គាំទ្រ​បណ្ដាញ​បើក​ទូលាយ។
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Student Ambassadors
+Firefox Student Ambassadors
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors);A monthly newsletter on how to get involved with Mozilla on your campus.
+សំបុត្រ​សារព័ត៌មាន​​ប្រចាំខែ​លើ​របៀប​ចូលរួម​ជាមួយ Mozilla លើ​បណ្ដាញ​របស់​អ្នក។
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Affiliates
+Firefox Affiliates {ok}
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates);A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+ព្រឹត្តិបត្រ​ព័ត៌មាន​​ប្រចាំខែ​​ធ្វើ​ឲ្យ​អ្នក​ទទួល​បាន​បច្ចុប្បន្នភាព​ជាមួយ​កម្មវិធី​ Firefox Affiliates។
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Apps & Hacks
+Firefox Apps & Hacks
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks);News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+ព័ត៌មាន​សម្រាប់​អ្នក​អភិវឌ្ឍន៍​អំពី Firefox OS, Firefox Marketplace និង​ប្រព័ន្ធ​អេកូ​កម្មវិធី​បណ្ដាញ​បើក​ចំហ។
+
+
+# Name for the newsletter in Newsletter subscription page;Mozillians
+Mozillians
+
+
+# Description for the newsletter in Newsletter subscription page;Email updates for vouched Mozillians on mozillians.org.
+បច្ចុប្បន្នភាព​អ៊ីមែល​សម្រាប់​អះអាង Mozillians នៅ​លើ mozillians.org ។
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox for desktop
+Firefox សម្រាប់​ផ្ទៃតុ
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop);Don’t miss the latest announcements about our desktop browser.
+កុំ​ភ្លេច​សេចក្ដី​ប្រកាស​ព័ត៌មាន​ចុងក្រោយ​អំពី​កម្មវិធី​អ៊ីនធឺណិត​លើ​កុំព្យូទ័រ​របស់​អ្នក។
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox for Android
+Firefox សម្រាប់ Android
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for Android);Keep up with releases and news about Firefox for Android.
+Keep up with releases and news about Firefox for Android.
+
+
+# Name for the newsletter in Newsletter subscription page;Mozilla
+Mozilla {ok}
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla);Special announcements and messages from the team dedicated to keeping the Web free and open.
+សេចក្ដី​ប្រកាស​ និង​សារ​ពិសេសៗ​ពី​ក្រុម​ការងារ​មាន​បំណង​រក្សា​សេរីភាព និង​ភាព​បើក​ទូលាយ​​​លើ​បណ្ដាញ​។
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox OS smartphone owner?
+Firefox OS smartphone owner?
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?);Don’t miss important news and updates about your Firefox OS device.
+Don’t miss important news and updates about your Firefox OS device.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox iOS
+Firefox iOS
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox iOS);Be the first to know when Firefox is available for iOS devices.
+Be the first to know when Firefox is available for iOS devices.
+
+
+# Name for the newsletter in Newsletter subscription page;Firefox Flicks
+Firefox Flicks {ok}
+
+
+;Periodic email updates about our annual international film competition.
+បច្ចុប្បន្នភាព​តាម​អ៊ីមែល​​​ដោយ​ពេល​អំពី​​​ការ​ប្រកួត​ភាពយន្ត​​អន្តរជាតិ​ប្រចាំ​ឆ្នាំ​​របស់​យើង។
+
+
+# Name for the newsletter in Newsletter subscription page;Beta News
+ព័ត៌មាន Beta
+
+
+# Name for the newsletter in Newsletter subscription page;Mozilla Foundation
+Mozilla Foundation
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Foundation);News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
+News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
+
+
+# Name for the newsletter in Newsletter subscription page;Shape of the Web
+Shape of the Web
+
+
+# Description for the newsletter in Newsletter subscription page (Shape of the Web);News and information related to the health of the web.
+News and information related to the health of the web.
+
+
+;About Addons
+About Addons
+
+
+;Firefox OS
+Firefox OS {ok}
+
+
+;Firefox OS news, tips, launch information and where to buy.
+ដំណឹង ជំនួយ ព័ត៌មាន​ការ​ដាក់​ឲ្យ​ប្រើប្រាស់ និង​កន្លែង​ទិញ Firefox OS ។
+
+
+;We can keep in touch with occasional messages that matter most to you.
+We can keep in touch with occasional messages that matter most to you.
+
+
+;Submit
+ដាក់​ស្នើ
+
+
+;Find out how!
+រក​ឃើញ​​របៀប!
+
+
+;Newsletters
+Newsletters
+
+
+;About us
+អំពី​យើង
+
+
+;I didn't sign up for this.
+ខ្ញុំ​មិន​បាន​ចុះ​ឈ្មោះ​ទេ ។
+
+
+;Save Preferences
+រក្សា​ទុក​ចំណូល​ចិត្ត
+
+
+;The supplied link has expired. You will receive a new one in the next newsletter.
+តំណ​ដែល​បាន​ផ្ដល់​បាន​ផុត​កំណត់។ អ្នក​នឹង​ទទួល​បាន​តំណ​ថ្មី​មួយ​ក្នុង​សំបុត្រ​សារព័ត៌មាន​បន្ទាប់។
+
+
+;Get up and go
+ចាប់ផ្ដើម ហើយ​បន្ត
+
+
+;Subscribe
+Subscribe
+
+
+;Set your preferences below to make sure you always receive the news you want.
+Set your preferences below to make sure you always receive the news you want.
+
+
+;You send too many emails.
+អ្នក​ផ្ញើ​អ៊ីមែល​ច្រើន​ពេក​មក​ខ្ញុំ ។
+
+
+;Getting too much email from us?
+តើ​ទទួល​បាន​អ៊ីមែល​ច្រើន​ពេក​ពី​យើង​មែន​ទេ?
+
+
+;Would you mind telling us why you’re leaving?
+តើ​​អ្នក​ប្រកាន់​ក្នុង​ការ​ប្រាប់​យើង​ហេតុ​អ្វី​អ្នក​ចាក​ចេញ?
+
+
+;Get Firefox for mobile!
+Firefox សម្រាប់​​ឧបករណ៍​ចល័ត!
+
+
+;What’s Mozilla all about?
+តើ​ផ្នែក​ទាំងអស់​របស់ Mozilla មាន​អ្វី​ខ្លះ?
+
+
+;I’m interested in:
+I’m interested in:
+
+
+;Format:
+របស់​អ្នក៖
+
+
+;Your content wasn't relevant to me.
+មាតិការ​របស់​អ្នក​មិន​ទាក់ទង​ជាមួយ​ខ្ញុំ ។
+
+
+;Don’t forget to check your inbox to confirm your request to get Firefox for iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check your spam filter. You must confirm your request in order to receive the updates.
+Don’t forget to check your inbox to confirm your request to get Firefox for iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check your spam filter. You must confirm your request in order to receive the updates.
+
+
+;Firefox
+Firefox {ok}
+
+
+;We’re sorry to see you go.
+យើង​សោកស្ដាយ​ដែល​ឃើញ​អ្នក​ទៅ។
+
+
+;title
+title
+
+
+;Firefox is coming soon to iOS!
+Firefox is coming soon to iOS!
+
+
+;It’s your Web anywhere you go.
+វា​ជា​បណ្ដាញ​របស់​អ្នក​នៅ​កន្លែង​ណាមួយ​ដែល​អ្នក​ទៅ។
+
+
+;Your email design was too hard to read.
+ការ​រចនា​អ៊ីមែល​របស់​អ្នក​ពិបាក​ក្នុង​ការ​អាន​ណាស់ ។
+
+
+;Please enter a valid email address
+សូម​បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល​ត្រឹមត្រូវ។
+
+
+;Newsletter Subscriptions
+ការ​ជាវ​សំបុត្រ​សារព័ត៌មាន
+
+
+;Unsubscribe
+ឈប់​ជាវ​ប្រចាំ
+
+
+;Mozilla Newsletter
+Mozilla Newsletter
+
+
+;Thanks for updating your email preferences.
+អរគុណ​សម្រាប់​ការ​ធ្វើ​បច្ចុប្បន្ន​ភាព​ចំណូល​ចិត្ត​អ៊ីមែល​របស់​អ្នក ។
+
+
+;We’re glad you asked!
+យើង​រីករាយ​ឲ្យ​អ្នក​សួរ!
+
+
+;Firefox on iOS — Sign up for email updates — Mozilla
+Firefox on iOS — Sign up for email updates — Mozilla
+
+
+;Something is amiss with our system, sorry! Please try again later.
+មាន​កំហុស​អ្វី​មួ​ជាមួយ​ប្រព័ន្ធ​របស់​ពួក​យើង, សូមទោស! សូម​ព្យាយាម​ម្ដងទៀត​ពេលក្រោយ។
+
+
+;Check all categories that apply to you, and we promise to keep the mail to a minimum.
+Check all categories that apply to you, and we promise to keep the mail to a minimum.
+
+
+;description
+description
+
+
+;Sign up today to receive email updates about the iOS version of Firefox.
+Sign up today to receive email updates about the iOS version of Firefox.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+ខ្ញុំ​នឹង​នៅ​តែ​មាន​ទំនាក់ទំនង​ជាមួយ Mozilla តាម​រយៈ Facebook និង Twitter ។
+
+
+;Success! An email has been sent to you with your preference center link. Thanks!
+Success! An email has been sent to you with your preference center link. Thanks!
+
+
+;Remove me from all Mozilla emails
+យក​ខ្ញុំ​ចេញ​ពី​អ៊ីមែល Mozilla ទាំងអស់
+
+
+;Thanks for telling us why you’re leaving.
+អរគុណ​សម្រាប់​ការ​ប្រាប់​ពួក​យើង​ពី​មូលហេតុ​ដែល​អ្នក​ឈប់​ប្រើ ។
+
+
+;Enter your email address and we’ll send you a link to your email preference center.
+Enter your email address and we’ll send you a link to your email preference center.
+
+
+;Send me a link
+Send me a link
+
+
+;Added extras
+បាន​បន្ថែម
+
+
+;%s is not a valid newsletter
+%s is not a valid newsletter
+
+
+;English&nbsp;only
+អង់គ្លេស&nbsp;only
+
+
+;This is not a valid email address. Please check the spelling.
+This is not a valid email address. Please check the spelling.
+
+
+;Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty excited about it too!
+Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty excited about it too!
+
+
+;You’ve been unsubscribed.
+អ្នក​បាន​ឈប់​ជាវ​​ជា​ប្រចាំ​ហើយ ។
+
+
+;Make Firefox do more with add-ons.
+ធ្វើ​ឲ្យ Firefox មាន​ច្រើន​ជាមួយ​កម្មវិធី​បន្ថែម។
+
+
+;You must agree to the privacy notice
+You must agree to the privacy notice
+
+
+;You must agree to the privacy policy
+You must agree to the privacy policy
+
+
+;Other…
+ផ្សេង…
+
+
+# <title> tag for the subscription confirmation page;Newsletter confirm
+ការ​បញ្ជាក់​សំបុត្រ​សារព័ត៌មាន​
+
+
+;Not interested in our newsletters, but like those special announcements? No problem.
+Not interested in our newsletters, but like those special announcements? No problem.
+
+
+;Manage your Email Preferences
+Manage your Email Preferences
+
+
+;This page is in maintenance mode and is temporarily unavailable.
+This page is in maintenance mode and is temporarily unavailable.
+
+
+;To update your email preferences, please check back in a little while. Thanks!
+To update your email preferences, please check back in a little while. Thanks!
+
+
+;We love sharing updates about all the awesome things happening at Mozilla.
+We love sharing updates about all the awesome things happening at Mozilla.
+
+
+;This email address is not in our system. Please double check your address or <a href="%s">subscribe to our newsletters.</a>
+This email address is not in our system. Please double check your address or <a href="%s">subscribe to our newsletters.</a>
+
+
+;We are sorry, but there was a problem with our system. Please try again later!
+យើង​សូម​ទោល, ប៉ុន្តែ​មាន​បញ្ហា​ជាមួយ​ប្រព័ន្ធ​របស់​ពួក​យើង។ សូម​ព្យាយាម​ម្ដងទៀត​ពេល​ក្រោយ!
+
+
+;The supplied link has expired or is not valid. You will receive a new one in the next newsletter, or below you can request an email with the link.
+The supplied link has expired or is not valid. You will receive a new one in the next newsletter, or below you can request an email with the link.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+សូម​ប្រាកដ​ដើម្បី​បន្ថែម​អាសយដ្ឋាន​ផ្ញើ​របស់​ពួក​យើង៖ mozilla@e.mozilla.org ចំពោះ​សៀវភៅ​អាសយដ្ឋាន​របស់​អ្នក​ដើម្បី​ប្រាកដ​ថា​យើង​​បាន​ទៅ​ដល់​ប្រអប់​​ទទួល​របស់​អ្នក​ជានិច្ច។
+
+
+;While here, why not check out some more Firefox awesomeness.
+ខណៈ​ពេល​នៅ​ទៅ​នេះ, ហេតុ​អ្វី​មិន​ពិនិត្យមើល​ភាព​គួរ​ឲ្យ​ភ័យ​ខ្លាច​សម្រាប់ Firefox បន្ថែម​មួយ​ចំនួន​ទៀត។
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+គ្រប់គ្រង<span>ការ​ជាវ​ប្រចាំ​ព្រឹត្តិបត្តិ​ព័ត៌មាន</span>​របស់​អ្នក
+
+
+;Sign up below for updates and to be notified when it launches.
+Sign up below for updates and to be notified when it launches.
+
+
+;Newsletter email recovery
+Newsletter email recovery
+
+
+;*You’ll only receive updates and announcements about the iOS version of Firefox.
+*You’ll only receive updates and announcements about the iOS version of Firefox.
+
+
+;Firefox Marketplace for Firefox OS
+Firefox Marketplace for Firefox OS
+
+
+;Discover the latest, coolest HTML5 apps on Firefox OS.
+រកមើល​កម្មវិធី HTML5 ដ៏​ងាយស្រួល​ចុងក្រោយ​បំផុត​នៅ​លើ Firefox OS ។
+
+
+;Firefox Weekly Tips
+Firefox Weekly Tips
+
+
+;Get a weekly tip on how to super-charge your Firefox experience.
+ទទួល​បាន​ជំនួយ​ប្រចាំ​សប្ដាហ៍​អំពី​របៀប​​បញ្ចូល​​បំពេញ​បទពិសោធន៍​ Firefox របស់​អ្នក។
+
+
+;Student Reps
+Student Reps
+
+
+;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+កម្មវិធី​អតីតៈ​​សាកលវិទ្យាល័យ​​​ពី​ឆ្នាំ ២០០៨-២០១១ ឥឡូវ​នេះ​បាន​បញ្ចប់​ និង​​បើក​ដំណើរការ​ឡើងវិញ​ជា​កម្មវិធី​ Firefox Student Ambassadors ។
+
+
+;Mozilla Learning Network
+Mozilla Learning Network
+
+
+;Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
+Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
+
+
+;Download Firefox for iOS
+Download Firefox for iOS
+
+
+;Download Firefox for Android
+ទាញ​យក Firefox សម្រាប់ Android
+
+
+;Get Firefox for Android
+យក Firefox សម្រាប់ Android
+
+
+;Drumbeat Newsgroup
+Drumbeat Newsgroup
+
+
+;Mozilla Festival
+Mozilla Festival
+
+
+;Special announcements about Mozilla's annual, hands-on festival dedicated to forging the future of the open Web.
+Special announcements about Mozilla's annual, hands-on festival dedicated to forging the future of the open Web.
+
+
+;Firefox Marketplace for Android
+Firefox Marketplace for Android
+
+
+;About Standards
+About Standards
+
+
+;Get Involved
+ចូលរួម​
+
+
+;Download Firefox for Mobile
+Download Firefox for Mobile
+
+
+;Maker Party
+Maker Party {ok}
+
+
+;Mozilla's largest celebration of making and learning on the web.
+Mozilla's largest celebration of making and learning on the web.
+
+
+;Aurora
+Aurora
+
+
+;Join Mozilla
+ចូលរួម​ជាមួយ Mozilla
+
+
+;About Labs
+About Labs
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+អាន​ព័ត៌មាន​លក្ខណៈ​បន្ថែម​ចុងក្រោយ​បំផុត​សម្រាប់  Firefox លើ​កុំព្យូទ័រ និង​ទូរសព្ទ​មុន​ពេល​ចេញ​កំណែ​ចុងក្រោយ ។
+
+
+;Webmaker
+Webmaker {ok}
+
+
+;Special announcements helping you get the most out of Webmaker.
+Special announcements helping you get the most out of Webmaker.
+
+
+;Addon Development
+Addon Development
+
+
+;Firefox Marketplace for Desktop
+Firefox Marketplace for Desktop
+
+
+# It appears here: https://www-dev.allizom.org/newsletter/firefox/;Put more fox in your inbox.
+Put more fox in your inbox.
+
+
+;See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
+See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
+
+

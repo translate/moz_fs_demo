@@ -1,0 +1,689 @@
+# Used for HTML title attribute;Volunteer Opportunities at Mozilla
+موزیلا میں رضاکارانہ مواقع
+
+
+# this string is used for accessibility reasons, it's not visible in the page;Menu
+مینیو
+
+
+# this br is for formatting, omit or reposition as needed;Why<br> volunteer
+کیوں <br>رضا کار
+
+
+# this br is for formatting, omit or reposition as needed;Find<br> an event
+<br>ایک تقریب میں تلاش کریں
+
+
+# this br is for formatting, omit or reposition as needed;Meet<br> Mozillians
+Meet<br> Mozillians
+
+
+;Get involved
+شامل ہوں
+
+
+;Your country
+Your country
+
+
+# This is a hint used as a placeholder in a country selection dropdown menu. It should be short.;I live in&hellip;
+I live in&hellip;
+
+
+;Volunteer with Mozilla!
+موزیلا کے ساتھ رضاکارانہ کام کریں!
+
+
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.;active Mozillians worldwide
+active Mozillians worldwide
+
+
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.;upcoming events around the globe
+upcoming events around the globe
+
+
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :);languages and counting, on every continent
+languages and counting, on every continent
+
+
+;Join a global community of game-changers.
+Join a global community of game-changers.
+
+
+# this br is for formatting, omit or reposition as needed;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
+Volunteer as much as you like. Or as little.<br> It’s totally up to you.
+
+
+# this br is for formatting, omit or reposition as needed;Share your skills and pick up<br> a few new ones along the way.
+آپ کی مہارت کا اشتراک کریں اور لینے<br> راستے میں چند نئے لوگوں کے.
+
+
+;Volunteering with Mozilla&hellip;
+Volunteering with Mozilla&hellip;
+
+
+# This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+
+
+;See our community in action
+ہماری قوم میں عمل دیکھیں
+
+
+;How Mozillians help every day
+How Mozillians help every day
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale;Spain &middot; Activism
+Spain &middot; Activism
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale;Philippines &middot; Activism
+Philippines &middot; Activism
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale;Switzerland &middot; Coding
+Switzerland &middot; Coding
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale;India &middot; Teaching
+India &middot; Teaching
+
+
+;Read his story
+Read his story
+
+
+;Read her story
+Read her story
+
+
+;Want to get involved? Here’s how.
+Want to get involved? Here’s how.
+
+
+;Choose what interests you and tell us how you’d like to help
+اپنی دلچسپیوں کا انتخاب کریں اور ہمیں بتائیں کہ کس طرح مدد کرنا چاہتے ہیں
+
+
+;Stand by for an email that will connect you to the Mozilla community
+کہ اگر آپ موزیلا برادری سے منسلک کرے گا ایک ای میل کے لئے کی طرف سے کھڑے ہو جاؤ
+
+
+;Create your Mozillians account and share your contributions with the world
+Create your Mozillians account and share your contributions with the world
+
+
+;Get started
+Get started
+
+
+;Not ready to dive in just yet?
+Not ready to dive in just yet?
+
+
+;Here are a few other ways you can support Mozilla right now.
+یہاں آپ کو ابھی موزیلا حمایت کر سکتے ہیں کچھ دوسرے طریقے ہیں.
+
+
+;Donate to Mozilla
+موزیلا کرنے کے لئے عطیہ
+
+
+;Read our Manifesto
+ہمارے منشور پڑھیں
+
+
+;Like us on Facebook
+ہمین فیس بک پر پسند کریں
+
+
+;Follow us on Twitter
+ٹویٹر پر ہمارے ساتھ چلیے
+
+
+;Upcoming event
+انے والے وقوعہ
+
+
+;See all events
+تمام واقعات دیکھو
+
+
+;Communicate
+رابطہ کریں
+
+
+;Mozilla communities
+موزیلا کمیونٹیز
+
+
+;Mailing lists
+Mailing lists
+
+
+;IRC channels
+IRC channels
+
+
+;More links
+مزید لنکس
+
+
+;Submit Firefox feedback
+Submit Firefox feedback
+
+
+;Explore Mozilla careers
+Explore Mozilla careers
+
+
+;Get help with Firefox
+فائر فاکس کے ساتھ مدد حاصل کریں
+
+
+;Subscribe to community events
+Subscribe to community events
+
+
+;Get community updates
+Get community updates
+
+
+# Used as title of the /stories sub-page;Mozillian Stories
+Mozillian Stories
+
+
+# Used as a toggle to display more content.;More
+More
+
+
+# Used as a toggle to display less content.;Less
+کم
+
+
+;Read more Mozillian stories
+زیادہ موزیلین کہانیاں پڑھیں
+
+
+;Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
+Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
+
+
+;More coming soon
+مزید جلد ہی آرہا ہے
+
+
+# Used as title of the /signup sub-page;Get Involved: Volunteer Opportunities at Mozilla
+شامل ہوں: Mozilla میں رضاکارانہ مواقع
+
+
+;To get started, tell us what interests you.
+To get started, tell us what interests you.
+
+
+;Choose one for now. You can always contribute to other areas later.
+Choose one for now. You can always contribute to other areas later.
+
+
+# This text is used for accessibility reasons, it's not visible;Where would you like to get started?
+Where would you like to get started?
+
+
+;Coding
+Coding
+
+
+;More about coding
+More about coding
+
+
+;Contribute code to a whole range of Mozilla products, including Firefox and Firefox OS.
+Contribute code to a whole range of Mozilla products, including Firefox and Firefox OS.
+
+
+;Testing
+Testing
+
+
+;More about testing
+More about testing
+
+
+;Help make the Mozilla products you use — and love — even better.
+Help make the Mozilla products you use — and love — even better.
+
+
+;Writing
+لکھنا
+
+
+;More about writing
+لکھنے کے بارے میں مزید
+
+
+;Lend your voice to Mozilla — from blogging and social media to providing technical documents for users and developers.
+موزیلا کیلئے اپنی آواز قرضے دیں- تکنیکی دستاویزات فراہم کرنے کے لئے بلاگنگ اور سوشل میڈیا سے صارفین اور ڈویلپرز کے لئے.
+
+
+;Teaching
+پڑهانا
+
+
+;More about teaching
+More about teaching
+
+
+;Share your skills with a community that’s eager to learn. Take advantage of our free tools, teaching resources and events.
+اپنی مہارت ایک کمیونٹی کے ساتھ اشتراک کریں جو سیکھنے کے لیئے بےتاب ہوں،ہمارے مفت ٹول وسائل اور واقعات کی تعلیم کا فائدہ لیں۔
+
+
+;Helping
+مدد کرنا
+
+
+;More about helping
+مدد کرنے کے بارے میں مزید
+
+
+;Provide support to users who need it and help everyone get the most out of their Mozilla products.
+Provide support to users who need it and help everyone get the most out of their Mozilla products.
+
+
+;Translating
+Translating
+
+
+;More about translating
+More about translating
+
+
+;Help make Mozilla stuff available in other languages. Translate everything from newsletters and websites to copy for Firefox and Firefox OS.
+Help make Mozilla stuff available in other languages. Translate everything from newsletters and websites to copy for Firefox and Firefox OS.
+
+
+;Activism
+Activism
+
+
+;More about activism
+More about activism
+
+
+;Get involved with our opportunities to support freedom, security and privacy on the open Web.
+Get involved with our opportunities to support freedom, security and privacy on the open Web.
+
+
+;I don’t know
+I don’t know
+
+
+;More about how you can contribute
+More about how you can contribute
+
+
+;Not sure how you want to help? No problem. We can find the appropriate contribution activity for you.
+آپ یقینی نہیں کہ مدد  کس طرح کرنا چاہتے ہیں؟کوئی مسلہ نہیں۔ ہم آپ کے لئے مناسب شراکت سرگرمی حاصل کر سکتے ہیں۔
+
+
+;Now tell us a little about yourself:
+اب اپنے بارے میں ہمیں کچھ بتائیے
+
+
+;Name
+Name
+
+
+;Email address
+Email address
+
+
+;Country
+Country
+
+
+;select
+select
+
+
+;Why do you want to be a Mozilla volunteer?
+Why do you want to be a Mozilla volunteer?
+
+
+;(Optional)
+(Optional)
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+
+
+;Start contributing
+Start contributing
+
+
+;Sign me up for community updates
+Sign me up for community updates
+
+
+;(English)
+(English)
+
+
+;What particular area?
+What particular area?
+
+
+;What would you like to code?
+What would you like to code?
+
+
+;What would you like to test?
+What would you like to test?
+
+
+;What would you like to translate?
+What would you like to translate?
+
+
+;What would you like to write?
+What would you like to write?
+
+
+;What would you like to teach?
+What would you like to teach?
+
+
+;Firefox
+Firefox {ok}
+
+
+;Websites
+Websites
+
+
+;Firefox add-ons
+Firefox add-ons
+
+
+;HTML5 apps
+HTML5 apps
+
+
+;Diagnosing Web compatibility issues
+Diagnosing Web compatibility issues
+
+
+;Online services
+Online services
+
+
+;Web compatibility
+Web compatibility
+
+
+;Product localization
+Product localization
+
+
+;Website localization
+Website localization
+
+
+;I’d like to work on localization tools
+میں لوکلائزیشن کے ٹولز پر کام کرنا چاہوں گا
+
+
+;Social media
+سماجی میڈیا
+
+
+;Journalism
+صحافت
+
+
+;Technical docs for users
+صارفین کے لیئے تکنیکی دستاویزات
+
+
+;Technical docs for developers
+Technical docs for developers
+
+
+;Technical docs for Firefox add-ons
+Technical docs for Firefox add-ons
+
+
+;Technical docs for HTML5 apps
+Technical docs for HTML5 apps
+
+
+;Teach the Web (Webmaker)
+Teach the Web (Webmaker)
+
+
+;Open News fellowships
+اوپن نیوز فیلوشپ
+
+
+;Hive - Community networks of educators/mentors
+Hive - Community networks of educators/mentors
+
+
+;Open Web science research
+Open Web science research
+
+
+;Community Events
+Community Events
+
+
+;Find events
+وقوعہ ڈھونڈیں
+
+
+;By city, country, or event:
+پرائے شہر، ملک ہا وقوعہ:
+
+
+;By date:
+پرائے تاریخ
+
+
+;month
+مہینہ
+
+
+;year
+سال
+
+
+;Date
+Date
+
+
+;Event
+Event
+
+
+;Location
+محل وقوع
+
+
+;City
+City
+
+
+;Events
+Events
+
+
+# Used as title of the thank you page displayed after users send the form;Thank you!
+شکریہ!
+
+
+;Thanks!
+Thanks!
+
+
+;We’re thrilled to see that you’re interested in coding and can’t wait to get you started.
+We’re thrilled to see that you’re interested in coding and can’t wait to get you started.
+
+
+;We’re thrilled to see that you’re interested in testing and can’t wait to get you started.
+We’re thrilled to see that you’re interested in testing and can’t wait to get you started.
+
+
+;We’re thrilled to see that you’re interested in writing and can’t wait to get you started.
+We’re thrilled to see that you’re interested in writing and can’t wait to get you started.
+
+
+;We’re thrilled to see that you’re interested in teaching and can’t wait to get you started.
+We’re thrilled to see that you’re interested in teaching and can’t wait to get you started.
+
+
+;We’re thrilled to see that you’re interested in helping and can’t wait to get you started.
+We’re thrilled to see that you’re interested in helping and can’t wait to get you started.
+
+
+;We’re thrilled to see that you’re interested in translating and can’t wait to get you started.
+We’re thrilled to see that you’re interested in translating and can’t wait to get you started.
+
+
+;We’re thrilled to see that you’re interested in activism and can’t wait to get you started.
+We’re thrilled to see that you’re interested in activism and can’t wait to get you started.
+
+
+;We’re thrilled to see that you’re interested in volunteering and can’t wait to get you started.
+We’re thrilled to see that you’re interested in volunteering and can’t wait to get you started.
+
+
+;Keep an eye on your inbox for an important message from us.
+Keep an eye on your inbox for an important message from us.
+
+
+;Hello!
+Hello!
+
+
+;Your Name
+Your Name
+
+
+;In the meantime&hellip;
+In the meantime&hellip;
+
+
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.;You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
+You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
+
+
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.;Choose a Task Now
+Choose a Task Now
+
+
+# Displayed in the "Thank You!" page after the email is sent for other categories.;Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
+Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
+
+
+# Displayed in the "Thank You!" page after the email is sent for other categories.;Join Now
+Join Now
+
+
+;You can create your Mozillians account now to connect with fellow Mozillians.
+You can create your Mozillians account now to connect with fellow Mozillians.
+
+
+;Yes, create my Mozillians account
+Yes, create my Mozillians account
+
+
+;You will be asked to sign in before proceeding
+You will be asked to sign in before proceeding
+
+
+;No thanks, I’ll just wait for the email
+No thanks, I’ll just wait for the email
+
+
+# The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+# Strings have been copied from the old template (mozorg/contribute.lang);Area of interest?
+دلچسپی کا موضوع؟
+
+
+;Helping Users
+صارفین کی مدد
+
+
+;Testing and QA
+Testing and QA
+
+
+;Marketing
+مارکیٹنگ
+
+
+;Localization and Translation
+مقامیت سازی اور ترجمہ
+
+
+;Web Development
+ویب تکمیل کاری
+
+
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+
+;Add-ons
+ایڈ اون
+
+
+;Visual Design
+بصری ڈیزائن
+
+
+;Documentation and Writing
+دستاویزکاری اور تحریر
+
+
+;Education
+تعلیم
+
+
+;Other
+دیگر
+
+
+;Hi, I’m interested in…
+سلام، مجھے دلچسپی ہے…
+
+
+;Send us a note and we can get you started right away.
+ہمیں پیغام بھیجیں اور ہم آپ کو فوری طور پر شروع کروا سکتے ہیں۔
+
+
+;I have a suggestion for Firefox
+میرے پاس Firefox کے لیے ایک تجویز ہے
+
+
+;I need help with a Firefox issue
+مجھے ایک Firefox کے مسلے کے لیے مدد چاہیے ہے
+
+
+;Please enter a valid email address.
+Please enter a valid email address.
+
+
+;You must agree to the privacy policy.
+آپ کو ہماری رازداری پالیسی پر آمادہ ہونا ہو گا۔
+
+
+;Please select an area of interest.
+کوئی دلچسپی کا موضوع منتخب کریں۔
+
+
+;Please tell us more about your interests.
+ہمیں اپنی دلچسپیوں کے بارے میں اور بتائیں۔
+
+

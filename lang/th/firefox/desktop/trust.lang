@@ -1,0 +1,173 @@
+# <title> tag;Firefox — Designed to protect your privacy — The most trusted browser on the Web
+Firefox — Designed to protect your privacy — The most trusted browser on the Web
+
+
+# main title;Trust isn’t made. It’s earned.
+ความน่าเชื่อถือสร้างไม่ได้ มันต้องได้รับมา
+
+
+# L10n: Line break below is for wide screen formatting only.;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
+We build Firefox with a mission to put you first, above all else.<br class="wide-br">
+
+
+;We do it to keep you in control.
+เราทำมันเพื่อให้คุณควบคุมได้
+
+
+;We do it so you can browse without worry.<br class="wide-br">
+เราทำมันดังนั้นคุณสามารถเรียกดูได้โดยไม่ต้องกังวล<br class="wide-br">
+
+
+;And we do it because no one else will.
+และเราทำมันขึ้นมาเพราะไม่มีใครจะทำ
+
+
+# The span tags are for presentational purpose;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
+<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
+
+
+;Designed to protect your privacy
+ถูกออกแบบมาเพื่อป้องกันความเป็นส่วนตัวของคุณ
+
+
+;We believe your personal information belongs only to you.<br class="wide-br">
+เราเชื่อว่าข้อมูลส่วนตัวของคุณเป็นของคุณเท่านั้น<br class="wide-br">
+
+
+;That’s why Firefox is filled with features to ensure that’s the case.
+นั่นคือเหตุผลว่าทำไม Firefox จึงเต็มไปด้วยคุณลักษณะที่รับรองกรณีนี้
+
+
+;Private Browsing with<br> Tracking Protection
+การท่องเว็บแบบส่วนตัวด้วย<br>การป้องกันการติดตาม
+
+
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+เรียกดูโดยไม่มีการบันทึกประวัติ, การค้นหา หรือคุกกี้ของคุณ และปิดกั้นการซ่อนการติดตามคุณจากบุคคลที่สามทั่วเว็บ
+
+
+;Learn more about Private Browsing
+เรียนรู้เพิ่มเติมเกี่ยวกับการท่องเว็บแบบส่วนตัว
+
+
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta;Forget Button
+ปุ่มลืม
+
+
+;Remove browsing information from your computer after the fact.
+Remove browsing information from your computer after the fact.
+
+
+;Use it when you’ve visited a site that you don’t want in your history.
+ใช้มันเมื่อคุณได้เยี่ยมชมไซต์ที่คุณไม่ต้องการให้อยู่ในประวัติของคุณ
+
+
+;Add the Forget Button to your toolbar
+เพิ่มปุ่มลืมเข้าไปยังแถบเครื่องมือของคุณ
+
+
+;See who’s watching you online.
+ดูว่าใครกำลังมองดูคุณออนไลน์
+
+
+;The Lightbeam add-on exposes the first and third party sites you interact with as you browse.
+The Lightbeam add-on exposes the first and third party sites you interact with as you browse.
+
+
+;Shine a light on the Web with Lightbeam
+Shine a light on the Web with Lightbeam
+
+
+;Keeping you safe across the Web
+ทำให้คุณปลอดภัยตลอดเว็บ
+
+
+;Firefox lets you learn more about the sites you visit and helps keep you secure online.
+Firefox ให้คุณเรียนรู้เพิ่มเติมเกี่ยวกับไซต์ที่คุณเยี่ยมชมและช่วยทำให้คุณปลอดภัยในออนไลน์
+
+
+;World class protection
+การป้องกันระดับโลก
+
+
+;Anti-phishing & anti-malware features protect you from trojan horses and spyware and warn you about potentially fraudulent sites.
+Anti-phishing & anti-malware features protect you from trojan horses and spyware and warn you about potentially fraudulent sites.
+
+
+;Automatic security updates
+ปรับรุ่นความปลอดภัยอัตโนมัติ
+
+
+;Firefox updates automatically to make sure you always have the latest and greatest security fixes.
+Firefox ปรับรุ่นอัตโนมัติเพื่อทำให้แน่ใจว่าคุณจะมีการแก้ความปลอดภัยล่าสุดและดีที่สุดเสมอ
+
+
+;Secure connections
+การเชื่อมต่อที่ปลอดภัย
+
+
+;Use instant Website ID to make sure a site is what it claims to be and to check if your connection to it is secure.
+Use instant Website ID to make sure a site is what it claims to be and to check if your connection to it is secure.
+
+
+;Browse without worry
+เรียกดูโดยไร้ความกังวล
+
+
+# L10n: Line break below is for visual formatting only.;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
+เรียนรู้เพิ่มเติมเกี่ยวกับทำไมความเป็นส่วนตัวและความปลอดภัยของคุณจึงสำคัญ <br class="wide-br">และคุณจะสามารถทำอย่างไรเพื่อปกป้องตัวคุณออนไลน์
+
+
+;Privacy & you
+ความเป็นส่วนตัว และคุณ
+
+
+;How to stay safe online
+จะปลอดภัยในออนไลน์อย่างไร
+
+
+;Privacy & security FAQ
+คำถามที่พบบ่อยเกี่ยวกับความเป็นส่วนตัวและความปลอดภัย
+
+
+;Privacy & security add-ons
+ส่วนเสริมความเป็นส่วนตัวและความปลอดภัย
+
+
+;Privacy blog
+บล็อกความเป็นส่วนตัว
+
+
+;Security blog
+บล็อกความปลอดภัย
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign;Do Not Track
+อย่าตามรอย
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+นวัตกรรมของ Firefox อย่าตามรอย ให้คุณระบุการตั้งค่าเกี่ยวกับหนทางที่ข้อมูลส่วนตัวของคุณจะถูกเก็บและใช้งานออนไลน์
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign;Learn more about Do Not Track
+เรียนรู้เพิ่มเติมเกี่ยวกับ อย่าตามรอย
+
+
+# Obsolete string, do not remove;Private browsing
+ท่องเว็บแบบส่วนตัว
+
+
+# Obsolete string, do not remove;Sometimes it’s nice to go undercover.
+บางครั้ง มันก็ดีที่จะอยู่ภายใต้การปิดบัง
+
+
+# Obsolete string, do not remove;Turn this feature on to protect your browsing history from others.
+เปิดใช้งานคุณลักษณะนี้เพื่อปกป้องประวัติการเข้าชมของคุณจากคนอื่น
+
+
+# Obsolete string, do not remove;Learn how to open a private window
+เรียนรู้เกี่ยวกับวิธีเปิดหน้าต่างส่วนตัว
+
+

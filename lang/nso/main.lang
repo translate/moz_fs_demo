@@ -1,0 +1,760 @@
+;Navigation
+Tshepelatshepelo
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os;<span>for</span> Desktop
+<span>for</span> Desktop
+
+
+# Firefox family navigation menu. Main level item.;<span>for</span> Android
+<span>for</span> Android
+
+
+# Firefox family navigation menu. Main level item.;<span>for</span> iOS
+<span>for</span> iOS
+
+
+# Firefox family navigation menu. Main level item.;OS
+OS
+
+
+# Used for the navigation menu only in Firefox OS pages;TV
+TV
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1;For desktops &amp; laptops
+For desktops &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.;Overview
+Overview
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.;Trusted
+Trusted
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.;Flexible
+Flexible
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.;Fast
+Fast
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS";About
+Ka ga
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS";Devices
+Devices
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS";For partners
+For partners
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS";Apps
+Apps
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Do Not Track
+Do Not Track
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Tiles
+Tiles
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Private Browsing
+Private Browsing
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO;Need help?
+Need help?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;News
+News
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;For developers
+For developers
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Find My Device
+Find My Device
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Developers
+Batšweletši
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new;Choose the independent browser
+Choose the independent browser
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+
+
+;Donate
+Neela
+
+
+;Support
+Thekgo
+
+
+;Products
+Ditšweletšwa
+
+
+;Add-ons
+Ditlaleletši
+
+
+;About Us
+Ka ga rena
+
+
+;Labs
+Dilaboratori
+
+
+;skip to Navigation
+tabogela go Tshepelatshepelo
+
+
+;switch language
+fetoša leleme
+
+
+;Back to home page
+Morago letlakaleng la gae
+
+
+;About Mozilla
+Ka ga Mozilla
+
+
+;Get Involved
+Tsenya letsogo
+
+
+;Careers
+Mešomo
+
+
+;Press Center
+Lefelo la ditaba
+
+
+;Contact Us
+Ikgokaganye le rena
+
+
+;Other languages:
+Maleme a mangwe:
+
+
+# Will replace "Other languages" for the footer's language switcher;Page language:
+Page language:
+
+
+# Year / Month / Day, indicate your prefered date format for your language;%Y-%m-%d
+%Y-%m-%d {ok}
+
+
+;Legal
+Legal
+
+
+# Used as link in the footer;Cookies
+Cookies
+
+
+# Used as link in the footer;Firefox Affiliates
+Firefox Affiliates
+
+
+;Legal Notices
+Ditemošo tša semolao
+
+
+;Privacy Policy
+Pholisi ya bosephiri
+
+
+;Release Notes
+Dintlha tša tokollo
+
+
+;Other Systems and Languages
+Ditshepedišo tše dingwe le maleme
+
+
+;Close
+Tswalela
+
+
+;(in English)
+(ka Seisemane)
+
+
+;Return to top
+Boela godimo
+
+
+;Features
+Dibopego
+
+
+;Customize
+Tlwaelanya
+
+
+;Download
+Laolla
+
+
+;Previous
+Previous
+
+
+;Next
+Latelago
+
+
+# MegaBytes abbreviation;MB
+MB {ok}
+
+
+;MegaBytes
+Dimekapaete
+
+
+;FAQ
+Dipotšišo tša Kgafetša
+
+
+;Videos
+Dibidio
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Ka ntle le moo go <a href="%s">lemošitšwego</a>, diteng tša saete ye di na le laesense ka tlase ga <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> goba tokollo e nngwe ya morago bjale.
+
+
+;Report Trademark Abuse
+Bega tirišompe ya leswaothekišo
+
+
+;Free Upgrade
+Kaonafatšo ya mahala
+
+
+# social networks such as Facebook and Twitter;Follow us on:
+Re latelele go:
+
+
+;Customize with Add-ons
+Tlwaelanya ka ditlaleletši
+
+
+;Learn More
+Ithute ka mo go oketšegilego
+
+
+# Same as previous above but with no capitalization on More;Learn more
+Learn more
+
+
+# Link used to play again an animation or a video;Replay
+Replay
+
+
+;Watch the video
+Lebelela bidio
+
+
+;Replay the video
+Replay the video
+
+
+;Share the video
+Share the video
+
+
+;WebM format
+Fomate ya WebM
+
+
+;Ogg Theora format
+Fomate ya Ogg Theora
+
+
+;MPEG-4 format
+Fomate ya MPEG-4
+
+
+;Mobile
+Sellathekeng
+
+
+;Check out the new look and feel of Firefox.
+Bona ponagalo le maikutlo a maswa a Firefox.
+
+
+;View Full Site
+Lebelela saete e feletšego
+
+
+;Download for <span>Android</span>
+Laolla bakeng sa <span>Android</span>
+
+
+;Desktop
+Tesekethopo
+
+
+;Firefox Beta for mobile
+Firefox Beta bakeng sa selefounu
+
+
+;Firefox for mobile
+Firefox bakeng sa selefounu
+
+
+;Email
+Imeile
+
+
+;Super speed
+Lebelo le makatšago
+
+
+;Stunning graphics
+Diswantšho tše makatšago
+
+
+;The latest technologies
+Thekinolotši ya moragobjale
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+O hloka kaonafatšo! Dula o bolokegile ka nako ya ka tlase ga motsotso.<br/> Thoma go diriša Firefox ya gago e mpsha bakeng sa praosa le go tlwaelanya mo go tšwago pele wepeng. <br/> E a potlaka e bile ke mahala!
+
+
+;Upgrade now
+Kaonafatša gona bjale
+
+
+;Update now
+Mpshafatša gona bjale
+
+
+;Supported Devices
+Dišomišwa tše thekgwago
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons;What’s New
+Tše mpsha
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer;Privacy
+Bosephiri
+
+
+# Footer string;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Dikarolo tša diteng tše ke tša ©1998–%(current_year)s tša batsenyaletsogo ba mozilla.org. Diteng di hwetšagala ka tlase ga <a href="%(url)s">laesense ya Creative Commons</a>.
+
+
+# Footer string (will replace "Contribute to this page");Contribute to this site
+Contribute to this site
+
+
+# Footer string;Contribute to this page
+Tsenya letsogo letlakaleng le
+
+
+# Top menu item;Mission
+Maikemišetšo
+
+
+# Footer item on some pages to link to a tour of features;Tour
+Tšea leeto
+
+
+# Footer item;Partner with Us
+Partner with Us
+
+
+# Top menu item on pages like firefox/desktop/tips/;Sync
+Sync
+
+
+# Top menu item on pages like firefox/desktop/tips/;Desktop Add-ons
+Desktop Add-ons
+
+
+# Top menu item on pages like firefox/desktop/tips/;Android Add-ons
+Android Add-ons
+
+
+# Top menu item on pages like firefox/desktop/tips/;Themes
+Themes
+
+
+# Top menu item on pages like firefox/desktop/tips/;Desktop Support
+Desktop Support
+
+
+# Top menu item on pages like firefox/desktop/tips/;Android Support
+Android Support
+
+
+# Top menu item on firefox/update page;Performance
+Performance
+
+
+# Top menu item on firefox/update page;Technology
+Technology
+
+
+# Top menu item on firefox/update page;Privacy &amp; Security
+Privacy &amp; Security
+
+
+# Top menu item on firefox/update page;Releases
+Releases
+
+
+# Top menu item on firefox/update page;Firefox
+Firefox
+
+
+# Top menu item on firefox/update page;Firefox for Organizations
+Firefox for Organizations
+
+
+# Top menu item on firefox/update page;Mobile Add-ons
+Mobile Add-ons
+
+
+# Top menu item on firefox/update page;Mobile Support
+Mobile Support
+
+
+# Top menu item on firefox/update page;Blog
+Blog
+
+
+# Top menu item on firefox/update page;About Firefox
+About Firefox
+
+
+# Top menu item on firefox/update page;Join Mozilla
+Tsenela Mozilla
+
+
+# Top menu item on firefox/update page;Participate
+Participate
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.;Volunteer
+Volunteer
+
+
+# Top menu item on firefox/update page;Brand Toolkit
+Brand Toolkit
+
+
+# Top menu item on firefox/update page;Partnerships
+Ditirišano
+
+
+# Newsletter subscription form above footer on some pages;Get Mozilla updates
+Get Mozilla updates
+
+
+# share button for social networks;Share
+Share
+
+
+# footer link;Mozilla on Twitter
+Mozilla on Twitter
+
+
+# footer link;Firefox on Twitter
+Firefox on Twitter
+
+
+# footer link;Mozilla on Facebook
+Mozilla on Facebook
+
+
+# footer link;Firefox on Facebook
+Firefox on Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Forums
+Forums
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Patents
+Patents
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Leadership
+Leadership
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Governance
+Governance
+
+
+# sidebar link in some /about pages (e.g. Manifesto);History
+History
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Our Products
+Our Products
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Software and other innovations designed to advance our mission.
+Software and other innovations designed to advance our mission.
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Become a volunteer contributor in a number of different areas.
+Become a volunteer contributor in a number of different areas.
+
+
+# This is a non-visible string for blind people to indicate where the menu is;Menu
+Menu
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop);Committed to you, your privacy and an open Web
+Committed to you, your privacy and an open Web
+
+
+# Common title used in Fx 10 pages;Choose Independent
+Choose Independent
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour);Please turn on JavaScript to display this page correctly.
+Please turn on JavaScript to display this page correctly.
+
+
+# Used as link to /firefox/desktop in footers on some pages;Firefox Features
+Dibopego tša Firefox
+
+
+# Used as link to SUMO in footers on some pages;Firefox Help
+Thušo ya Firefox
+
+
+;January
+January
+
+
+;February
+February
+
+
+;March
+March
+
+
+;April
+April
+
+
+;May
+May
+
+
+;June
+June
+
+
+;July
+July
+
+
+;August
+August
+
+
+;September
+September
+
+
+;October
+October
+
+
+;November
+November
+
+
+;December
+December
+
+
+;<abbr>Jan</abbr>
+<abbr>Jan</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>Feb</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>Mar</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>Apr</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>May</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>Jun</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>Jul</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Aug</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>Sep</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>Oct</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Nov</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>Dec</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+
+
+;Congrats. You’re up to date!
+Congrats. You’re up to date!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…);Format
+Fomate
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails;Text
+Text
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form;Whoops! Be sure to enter a valid email address.
+O!O! Netefatša go tsenya aterese ya imeile yeo e šomago.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+
+
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.;Keep up with<br> all things Firefox.
+Keep up with<br> all things Firefox.
+
+
+# This string is used for a subscription field on other pages than /newsletter/;Get Firefox news
+Get Firefox news
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/;YOUR EMAIL HERE
+IMEILE YA GAGO MO
+
+
+# Newsletter subscription Button;Sign Up Now
+Sign Up Now
+
+
+# Old newsletter subscription Button;Sign me up
+Nngwadiše
+
+
+;Select country
+Kgetha naga
+
+
+;Available Languages
+Maleme ao a lego gona
+
+
+;We will only send you Mozilla-related information.
+Re tla go romela tshedimošo e amanago le Mozilla feela.
+
+
+;Thanks!
+Thanks!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+
+
+# Obsolete string. Do not remove.;Thanks! Please check your inbox to confirm your subscription.
+Re a leboga! Hle lekola lepokisi la gago la melaetša gore o netefatše ngwadišo ya gago.
+
+
+# Obsolete string. Do not remove.;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+O tla amogela imeile e tšwago go mozilla@e.mozilla.org go netefatša ngwadišo ya gago. Ge o sa e bone, lekola filthara ya melaetša ya boradia. O swanetše go netefatša ngwadišo ya gago gore o amogele mangwalo a rena a ditaba.
+
+
+;Read all about it in our <span>newsletter</span>
+Di bale tšohle go <span>lengwalo la  rena la ditaba<span>
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Ingwadiše go dimpshafatšo tša kgwedi le kgwedi gomme o dule o le nakong ka ditaba tša Mozilla, go akaretša maele a maswa le ditsela tša go hwetša mo go ntši go praosara ya gago ya Firefox. Ke tsela e phethagetšego ya go dula re ikgokaganya le wena!
+
+

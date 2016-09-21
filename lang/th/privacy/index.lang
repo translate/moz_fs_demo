@@ -1,0 +1,64 @@
+;Mozilla Privacy
+ความเป็นส่วนตัวของ Mozilla
+
+
+;Contact Mozilla
+ติดต่อ Mozilla
+
+
+;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+ถ้าคุณต้องการสร้างความถูกต้องกับข้อมูลของคุณ หรือคุณมีคำถามเกี่ยวกับนโยบายความเป็นส่วนตัวของเรา โปรดติดต่อ:
+
+
+;Data Privacy Principles
+หลักปฏิบัติในความเป็นส่วนตัวของข้อมูล
+
+
+;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+Mozilla เป็นโครงการโอเพ่นซอร์สที่มีเป้าหมายเพื่อปรับปรุงประสบการณ์อินเทอร์เน็ตของคุณ นี่เป็นแรงขับเคลื่อนภายในของกิจวัตรด้านความเป็นส่วนตัวของข้อมูลของเรา <a href="%(link)s">อ่านเพิ่มเติม</a>
+
+
+;Our Privacy Notices
+ข้อควรทราบเกี่ยวกับความเป็นส่วนตัวของเรา
+
+
+;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+เราสร้างข้อควรทราบเกี่ยวกับความเป็นส่วนตัวที่สั้นและชัดเจน เพื่ออธิบายว่าผลิตภัณฑ์และบริการของเรารับ, แบ่งปัน และใช้งานข้อมูลอย่างไร และตัวเลือกของคุณเป็นอย่างไร เรียนรู้เพิ่มเติม:
+
+
+;Mozilla Websites, Communications &amp; Cookies
+เว็บไซต์ Mozilla, ชุมชน และคุกกี้
+
+
+;Firefox Browser
+เบราว์เซอร์ Firefox
+
+
+;Firefox Cloud Services
+บริการคลาวด์ Firefox
+
+
+;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+เพื่อวิจารณ์และแสดงความคิดเห็นบนการเปลี่ยนแปลงที่ถูกเสนอกับนโยบายความเป็นส่วนตัวของเรา <a href="%(group)s">บอกรับสมาชิกกลุ่มระบบจัดการของ Mozilla</a>
+
+
+;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+งานที่ไม่หยุดยั้งของเราบนเรื่องความเป็นส่วนตัวมีให้อ่านอย่างครอบคลุมที่ <a href="%(blog)s">บล็อกเรื่องความเป็นส่วนตัวและความปลอดภัยของข้อมูล</a> และข้อมูลเกี่ยวกับงานที่ไม่หยุดยั้งของเราสามารถหาได้บน<a href="%(wiki)s">วิกิของทีมความเป็นส่วนตัวของ Mozilla</a>
+
+
+;Outdated Policies
+นโยบายที่ล้าสมัยแล้ว
+
+
+# Used at the top of the page for navigation (breadcrumbs);Home
+บ้าน
+
+
+# Used in legal docs to collapse (hide) a paragraph;Show Less
+หน้าแรก
+
+
+# Used in sub-pages to return to the main index https://www.mozilla.org/privacy;Back to Mozilla Privacy Policy
+กลับไปที่นโยบายความเป็นส่วนตัวของ Mozilla
+
+

@@ -1,0 +1,176 @@
+# This is the title for a door-hanger menu that shows in the browser chrome;See what’s new
+ดูว่ามีอะไรใหม่
+
+
+# This is the text for a door-hanger menu that shows in the browser chrome;You’re up to date with the latest features to help keep you in control.
+You’re up to date with the latest features to help keep you in control.
+
+
+# This is the label for a button that starts the tour;Let’s go
+ไปกันเลย
+
+
+# This is the label for a button that delays starting the tour;Not now
+ไม่ใช่ตอนนี้
+
+
+# This is the label for a button that opens the tour modal dialog;Open tour
+เปิดการเที่ยวชม
+
+
+# This is the label for a button that closes the tour modal dialog;Close tour
+ปิดการเที่ยวชม
+
+
+# This is the text for a call to action that appears in the web page;See the newest ways you can take control of your digital life
+ดูหนทางที่ใหม่ที่สุดที่คุณสามารถเข้าควบคุมชีวิตดิจิทัลของคุณ
+
+
+# This is the label that represents tour step one of three;1/3
+1/3 {ok}
+
+
+# This is the label that represents tour step two of three;2/3
+2/3 {ok}
+
+
+# This is the label that represents tour step three of three;3/3
+3/3 {ok}
+
+
+;Declare your independence
+ประกาศอิสรภาพของคุณ
+
+
+;Thank you for choosing Firefox
+ขอบคุณที่เลือก Firefox
+
+
+;Watch the video to see our story
+ชมวิดีโอเพื่อดูเรื่องราวของเรา
+
+
+;Now share it with your world
+ตอนนี้แบ่งปันมันกับโลกของคุณ
+
+
+;Play
+เล่น
+
+
+;Play the video
+เล่นวิดีโอ
+
+
+;Share
+แบ่งปัน
+
+
+;Start browsing
+เริ่มการท่องเว็บ
+
+
+;Previous
+ก่อนหน้า
+
+
+;Next
+ถัดไป
+
+
+;Close
+ปิด
+
+
+# STEP 1 of the tour (Forget button)
+# %s is a searchplugin name;<span>Next:</span> %s
+<span>ถัดไป:</span> %s
+
+
+# <br> tag below used for formatting only.
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta;Use Forget to cover your tracks or escape from sites you don’t trust
+Use Forget to cover your tracks or escape from sites you don’t trust
+
+
+;Remove browsing history from your computer
+ลบประวัติการเข้าชมจากคอมพิวเตอร์ของคุณ
+
+
+;Erase website information after the fact
+Erase website information after the fact
+
+
+;Add it above for quick, easy access
+เพิ่มมันไว้ด้านบนสำหรับการเข้าถึงที่เร็วและง่าย
+
+
+;The new Forget button
+ปุ่ม Forget ใหม่
+
+
+;Want to cover your tracks? Activate the Forget button and leave no trace.
+Want to cover your tracks? Activate the Forget button and leave no trace.
+
+
+;Add it now
+เพิ่มเดี๋ยวนี้
+
+
+;Later
+ภายหลัง
+
+
+;Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
+Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
+
+
+;Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
+อยากเพิ่มในภายหลัง? เปิดเมนูนี้และเลือกการปรับแต่ง จากนั้นลากมัน (หรือปุ่มอื่น) มาในที่นี่คุณต้องการ
+
+
+# STEP 2 of the tour (search engines);<span>Previous:</span> Forget
+<span>ก่อนหน้า:</span> ลืม
+
+
+;<span>Next:</span> Private Browsing
+<span>ถัดไป:</span> การท่องเว็บแบบส่วนตัว
+
+
+# %s is a searchplugin name. <br> tag below used for formatting only.;%s lets you <br>search anonymously
+%s lets you <br>search anonymously
+
+
+;Get great results with less tracking
+รับผลลัพธ์ที่ดีที่สุดกับการตามรอยที่น้อยลง
+
+
+;Make it (or any other) your default
+ทำให้มัน (หรืออย่างอื่น) เป็นค่าเริ่มต้นของคุณ
+
+
+;Find what you’re looking for, your way
+ค้นหาในสิ่งที่คุณกำลังหา ในทางของคุณ
+
+
+# %s is a searchplugin name;<span>Previous:</span> %s
+<span>ก่อนหน้า:</span> %s
+
+
+# STEP 3 of the tour (Private Browsing)
+# <br> tag below used for formatting only.;Private Browsing: <br>Our original privacy tool
+Private Browsing: <br>Our original privacy tool
+
+
+;Keep history and other info off your computer
+เก็บประวัติและข้อมูลอย่างอื่นออกจากคอมพิวเตอร์ของคุณ
+
+
+;Browse without recording where you’ve been
+เรียกดูโดยไม่ต้องบันทึกว่าคุณทำอะไร
+
+
+;So others using your computer can’t see it
+ดังนั้นคนอื่นที่ใช้คอมพิวเตอร์ของคุณจะไม่เห็น
+
+

@@ -1,0 +1,252 @@
+# Navigation;Menu
+মেনু
+
+
+;Home
+নীড় পাতা
+
+
+;About
+পরিচিতি
+
+
+# Main page title;Lightbeam for Firefox
+ফায়ারফক্সের জন্য লাইটবীম
+
+
+;Lightbeam is a Firefox add-on that uses interactive visualizations to show you the first and third party sites you interact with on the Web.
+Lightbeam is a Firefox add-on that uses interactive visualizations to show you the first and third party sites you interact with on the Web.
+
+
+;Shine a Light on Who’s Watching You
+আপনাকে কারা দেখছে তার উপর আলোপাত করুন
+
+
+;See who’s tracking you online
+দেখুন কে আপনাকে অনলাইন এ ট্র্যাক করছে
+
+
+;As you browse, Lightbeam reveals the full depth of the Web today, including parts that are not transparent to the average user.
+As you browse, Lightbeam reveals the full depth of the Web today, including parts that are not transparent to the average user.
+
+
+;Download Lightbeam for Firefox
+ফায়ারফক্সের জন্য লাইটবীম ডাউনলোড করুন
+
+
+;Get it from Mozilla Add-Ons
+মোজিলা অ্যাড-অন থেকে এটি সংগ্রহ করুন
+
+
+;How Lightbeam Works
+লাইটবীম যেভাবে কাজ করে
+
+
+;Download and run the Lightbeam add-on in your Firefox browser.
+আপনার ফায়ারফক্স ব্রাউজারে লাইটবীম ইনস্টল করুন এবং চালান।
+
+
+;Lightbeam will create a record of events for every site you visit and every third party site that is stored locally on your browser.
+আপনার ব্রাউজকৃত প্রতিটি সাইটের প্রতিটি ঘটনা লাইটবীম সংরক্ষণ করে এবং সে সকল তৃতীয় পক্ষের সাইটও যা আপনার ব্রাউজারে সংরক্ষিত থাকে।
+
+
+;Lightbeam visually graphs these events to highlight the interactions between sites you intentionally visit and the third parties.
+Lightbeam visually graphs these events to highlight the interactions between sites you intentionally visit and the third parties.
+
+
+;Lightbeam will continue to add to your graph as you browse the Web. You can stop Lightbeam at any time by disabling it or uninstalling the add-on. Your Lightbeam data can be easily saved or deleted.
+Lightbeam will continue to add to your graph as you browse the Web. You can stop Lightbeam at any time by disabling it or uninstalling the add-on. Your Lightbeam data can be easily saved or deleted.
+
+
+;Tracking & privacy
+ট্র্যাকিং ও গোপনীয়তা
+
+
+;Not all tracking is bad. Many services rely on user data to provide relevant content and enhance your online experience.
+সকল ট্র্যাকিং খারাপ নয়। অনেক সাইট প্রাসঙ্গিক তথ্য প্রদান করতে এবং আপনার অনলাইন অভিজ্ঞতাকে উন্নত করতে ব্যবহারকারীর তথ্য ব্যবহার করে।
+
+
+;But tracking can happen without the user’s knowledge.
+কিন্তু ব্যবহারকারীর অজ্ঞাতেও ট্র্যাকিং হতে পারে।
+
+
+;That’s not okay for some.
+এটা অনেকের জন্যই ঠিক নয়।
+
+
+;It should be you who decides when, how and if you want your browsing data to be shared. We recognize the importance of transparency and our mission is all about empowering users — both with tools and information.
+শুধুমাত্র আপনি সিদ্ধান্ত নিবেন কখন, কিভাবে এবং আপনি চাইলে আপনার ব্রাউজের তথ্য শেয়ার করা হবে। আমরা স্বচ্ছতার গুরুত্বকে বুঝি এবং আমাদের উদ্দেশ্য টুল এবং তথ্য — দিয়ে ব্যবহারকারীদের শক্তিশালী করা।
+
+
+;Explore the database
+ডাটাবেজ ঘেটে দেখুন
+
+
+;In the Lightbeam database, you will be able to browse first and third-party connection data uploaded by donors who use the Lightbeam add-on.
+লাইটবিম ডেটাবেসে, লাইটবিম অ্যাড-অন ব্যবহারকারীরা প্রথম এবং তৃতীয় পক্ষের সংযোগ সম্পর্কিত যেসকল তথ্য জমা দিয়েছে তা আপনি ব্রাউজ করতে পারবেন।
+
+
+;We’re building this crowd-sourced directory to encourage users to visualize the state of tracking as an aggregate and to examine relationships that exist on the Web.
+আমরা এই ক্রাউডসোর্স ডিরেক্টরি তৈরি করেছি যাতে ব্যবহারকারী ট্র্যাকিং এর অবস্থা একটি সমষ্টিক হিসাবে ভিজুয়ালাইজ করতে পারে এবং ওয়েবের সাথে এর যে সম্পর্ক বিদ্যমান রয়েছে তা পরীক্ষা করতে পারে।
+
+
+;Visualize your data
+আপনার তথ্য দৃষ্টিগোচর করুন
+
+
+;After you download and install the Lightbeam add-on to Firefox, it will begin to create a real time visualization of the websites you visit and all the third parties that are also active on those pages.
+ফায়ারফক্সে লাইটবিম অ্যাড-অন ইনস্টল এবং ডাউনলোড করার পর, আপনি যে সকল ওয়েব সাইট ব্রাউজ করছেন তার বর্তমান সময়ের চিত্র তৈরী করা শুরু করবে এবং সে সকল পৃষ্ঠায় তৃতীয় পক্ষ সাইটগুলো সক্রিয় থাকবে।
+
+
+;Analyze your connections
+আপনার সংযোগ বিশ্লেষণ করুন
+
+
+;As your visualizations grow, you can take a closer look into the relationships between the various first and third party sites that are stored in your data. You can also reset or save your data at any time.
+আপনার চিত্র যত বড় হতে থাকবে, আপনার তথ্যে জমাকৃত প্রথম এবং তৃতীয় পক্ষের সাইটের সম্পর্ক আপনি তত ভালো বুঝতে পারবেন। আপনি যে কোন সময় আপনার তথ্য সংরক্ষণ আবার নতুন করে শুরু করতে পারবেন।
+
+
+;Contribute your data
+আপনার ডাটা দিয়ে অবদান রাখুন
+
+
+;As a part of Lightbeam, we are creating a big-picture view of Internet tracking and of how first and third party sites are connected.
+লাইটবিমের অংশ হিসাবে, ইন্টারনেট অনুসরণ এবং প্রথম ও তৃতীয় পক্ষ ওয়েব সাইট কিভাবে সংযুক্ত তার একটি বড় ছবি তৈরী করছি।
+
+
+;To help us, you can contribute your data to our Lightbeam database.
+আমাদের সাহায্য করতে, লাইটবিম ডেটাবেসে আপনার তথ্য জমা দিতে পারেন।
+
+
+;Supported by the Ford Foundation
+ফোর্ড ফাউন্ডেশন এর সহায়তায় পরিচালিত
+
+
+;The work at the Ford Foundation focuses on building outreach campaigns to help people understand online data tracking — both the benefits and the issues
+The work at the Ford Foundation focuses on building outreach campaigns to help people understand online data tracking — both the benefits and the issues
+
+
+;Learn more
+আরও জানুন
+
+
+# About page;About Lightbeam
+লাইটবিম পরিচিতি
+
+
+;Lightbeam visualizes the relationships between the sites you visit and the third party sites that are active on those pages.
+Lightbeam visualizes the relationships between the sites you visit and the third party sites that are active on those pages.
+
+
+;How the add-on works
+অ্যাড-অন কিভাবে কাজ করে
+
+
+# New string (May 15) to reflect features that have been removed from the add-on.;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+
+
+# Obsolete string, do not remove;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+
+
+;The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
+The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
+
+
+;The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
+The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
+
+
+;The List view provides more options for drilling down into individual sites.
+The List view provides more options for drilling down into individual sites.
+
+
+;Site preferences in the List view enable you to block sites from connecting to your Firefox browser, watch sites you’re interested in or hide sites you don’t want to see visualized.
+Site preferences in the List view enable you to block sites from connecting to your Firefox browser, watch sites you’re interested in or hide sites you don’t want to see visualized.
+
+
+;Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
+Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
+
+
+;The origins of Lightbeam
+লাইটবিমের মূল
+
+
+;Lightbeam began in July 2011 as Collusion, a personal project by Mozilla software developer <a href="%s">Atul Varma</a>.
+Lightbeam began in July 2011 as Collusion, a personal project by Mozilla software developer <a href="%s">Atul Varma</a>.
+
+
+;Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
+Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
+
+
+;In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
+In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
+
+
+;In September 2012, Mozilla joined forces with faculty and student researchers at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
+In September 2012, Mozilla joined forces with faculty and student researchers at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
+
+
+;With the support of the Ford Foundation and the Natural Sciences and Engineering Research Council (NSERC), Collusion has been re-imagined as Lightbeam and was launched in the fall of 2013.
+With the support of the Ford Foundation and the Natural Sciences and Engineering Research Council (NSERC), Collusion has been re-imagined as Lightbeam and was launched in the fall of 2013.
+
+
+;To read more about the collaboration, please visit <a href="{url}">{url}</a>
+To read more about the collaboration, please visit <a href="{url}">{url}</a>
+
+
+;Policy and the larger tracking narrative
+Policy and the larger tracking narrative
+
+
+;At Mozilla, we believe that everyone should have the tools to make their own decisions about their online privacy and who collects data on them.
+At Mozilla, we believe that everyone should have the tools to make their own decisions about their online privacy and who collects data on them.
+
+
+;With the Lightbeam add-on, we are providing a valuable (and open) community research platform that aims to raise awareness, promote analysis and, ultimately, affect policy change in the areas of tracking and privacy.
+With the Lightbeam add-on, we are providing a valuable (and open) community research platform that aims to raise awareness, promote analysis and, ultimately, affect policy change in the areas of tracking and privacy.
+
+
+;Lightbeam is one step in a larger, concerted effort by Mozilla and its partners to provide Web users with greater control and transparency of their personal data.
+Lightbeam is one step in a larger, concerted effort by Mozilla and its partners to provide Web users with greater control and transparency of their personal data.
+
+
+;Learn more about online tracking and privacy
+অনলাইন ট্র্যাকিং এবং গোপনীয়তা সম্পর্কে আরও জানুন
+
+
+;The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promotes the values of an open Web to the broader world. The larger Mozilla community sees the growing relevance of online privacy and is supporting several initiatives that tackle the issue in various ways.
+The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promotes the values of an open Web to the broader world. The larger Mozilla community sees the growing relevance of online privacy and is supporting several initiatives that tackle the issue in various ways.
+
+
+;Data formats in Lightbeam
+Data formats in Lightbeam
+
+
+# New string (May 15) to reflect features that have been removed from the add-on.;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
+Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
+
+
+# Obsolete string, do not remove;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
+Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
+
+
+;Partners of Lightbeam
+লাইটবিমের অংশীদার
+
+
+;The <a href="%s">Ford Foundation</a> is a non-profit organization that focuses on the mission of advancing human welfare.
+The <a href="%s">Ford Foundation</a> is a non-profit organization that focuses on the mission of advancing human welfare.
+
+
+;They provide support for companies and institutions devoted to strengthening democratic values, reducing poverty and social injustice, supporting human achievement and fostering international co-operation.
+They provide support for companies and institutions devoted to strengthening democratic values, reducing poverty and social injustice, supporting human achievement and fostering international co-operation.
+
+
+;The <a href="%s">Social + Interactive Media (SIM) Centre</a> at Emily Carr University of Art + Design supports a wide range of projects in design and media, giving companies direct access to the innovative thinking, design skills and research expertise of British Columbia’s most creative faculty and students.
+The <a href="%s">Social + Interactive Media (SIM) Centre</a> at Emily Carr University of Art + Design supports a wide range of projects in design and media, giving companies direct access to the innovative thinking, design skills and research expertise of British Columbia’s most creative faculty and students.
+
+

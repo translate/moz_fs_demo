@@ -1,0 +1,48 @@
+;How fast is your Firefox?
+Firefox của bạn nhanh đến đâu?
+
+
+# Bug 957283: wording modification just for pt-BR;New Firefox is up to 7 times faster. (That’s a lot!) Check the speedometer to see if yours can keep up.
+Bản Firefox mới nhất nhanh hơn tới 7 lần! Hãy xem bản của bạn có nhanh bằng không nào?
+
+
+;Learn more
+Tìm hiểu thêm
+
+
+;Old Firefox = <em>Sadface</em>
+Firefox cũ = <em>Mặt buồn</em>
+
+
+;New Firefox = <em>Yay!</em>
+Firefox mới = <em>Yay!</em>
+
+
+;That just isn’t going to cut it. Stop browsing in the past and <a href="%(url)s">upgrade now!</a>
+Như vậy là không được rồi. Hãy dừng duyệt web theo kiểu cũ đi và <a href="%(url)s">nâng cấp ngay hôm nay!</a>
+
+
+;Now we’re talking!
+Như vậy mới được chứ!
+
+
+;Feels better, doesn’t it? Welcome to the future of the Web. It’s nice here.
+Cảm giác thật tuyệt phải không? Chào mừng bạn đến với tương lai của Web.
+
+
+;Hey, looks like you’re using %BROWSER%. Why not grab Firefox and get up to speed.
+Có vẻ bạn đang dùng %BROWSER%. Sao không thử tải Firefox dùng nhanh hơn?
+
+
+;Hey, looks like you’re not using Firefox as your browser. Why not grab Firefox and get up to speed.
+Có vẻ như bạn không dùng Firefox. Sao không tải Firefox dùng nhanh hơn?
+
+
+;New Firefox is faster, free (as always), crashes less and protects your privacy more.
+Firefox bản mới nhanh hơn, tự do, miễn phí (luôn luôn như vậy), ít hỏng hóc hơn và bảo vệ quyền tự do cá nhân của bạn tốt hơn.
+
+
+;<a href="%(url)s">Upgrading</a> takes less than a minute and you won’t lose your history or bookmarks. Hooray!
+<a href="%(url)s">Việc nâng cấp</a> chỉ mất không tới một phút và mọi thứ bạn đang có sẽ vẫn nguyên vẹn. Tuyệt vời!
+
+

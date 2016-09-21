@@ -1,0 +1,256 @@
+# Headline in /firstrun page;Take a quick tour
+দ্রুত দেখে নিন
+
+
+# Headline in /whatsnew page;Welcome to Firefox
+Firefox-এ স্বাগতম
+
+
+# Sub-headline in /firstrun page;Committed to you, your privacy and an open Web.
+গোপনীয়তা ও উন্মুক্ত ওয়েব এর ব্যাপারে আপনার কাছে আমরা দায়বদ্ধ।
+
+
+;Learn how to customize your Firefox
+শিখুন Firefox কে কিভাবে নিজের মত সাজাবেন
+
+
+;Add and view bookmarks from the same spot
+একই স্থান থেকে বুকমার্ক যোগ করুন আর দেখুন
+
+
+;Learn more about the new Firefox
+নতুন Firefox সম্বন্ধে আরও শিখুন
+
+
+;Grouped together for quick, easy access
+দলবদ্ধ হন দ্রুত ও সহজ ব্যবহারের জন্য
+
+
+# <br> tag below used for formatting only.;Your favorite sites are<br> closer than ever
+আপনার প্রিয় সাইটগুলি<br> আপনার আরও নিকটে
+
+
+;Add features and styles with add-ons
+অ্যাড-অনগুলির মাধ্যমে বৈশিষ্ট্য ও শৈলী যোগ করুন
+
+
+;Have Firefox on another device?
+আপনি অপর কোন ডিভাইসে Firefox ব্যবহার করছেন?
+
+
+# <br> tag below used for formatting only.;Designed so you can<br> make it your own
+এটিকে আপনার নিজের করে নেওয়ার<br> জন্যই তৈরি করা হয়েছে
+
+
+;You don’t have to start over. Access your history, bookmarks and more.
+আপনার নতুন করে শুরু করার দরকার নেই। দেখুন আপনার ইতিহাস, বুকমার্ক সংকলন ও অন্যান্য সামগ্রী।
+
+
+;There’s Never Been a Better Time for Firefox
+Firefox-র জন্য কখনও এর থেকে ভাল সময় আসেনি
+
+
+;There’s never been a better time for a browser that answers only to you.
+একটি ব্রাউজারের এর থেকে ভালো সময় কখনও আসেনি যা উত্তর দেয় শুধু আপনাকে।
+
+
+;Opens new window
+একটি নতুন উইন্ডো খুলুন।
+
+
+# This is the text for a door-hanger menu that shows in the browser chrome;It’s the fastest, most flexible Firefox ever.
+এটা সর্বকালের দ্রুততম, সবথেকে নমনীয় Firefox।
+
+
+# This is the label for a button that opens the tour modal dialog;Open tour
+সফর শুরু করুন
+
+
+;Using an older version of Sync?
+আপনি কি সঙ্কের পুরোনো সংস্করণ ব্যবহার করছেন?
+
+
+;Save sites with a single click
+একটি মাত্র চাপের দ্বারা সাইটগুলিকে সংরক্ষণ করুন।
+
+
+;There’s never been a better time for Firefox
+Firefox ব্যাবহারের এর থেকে ভাল সময় আর নেই
+
+
+# This is the label for a button that closes the tour modal dialog;Close tour
+সফর বন্ধ করুন
+
+
+# <br> tag below used for formatting only.;Thousands of ways to<br> make Firefox do more
+Firefox কে আরও উপযোগী<br> করার হাজার উপায় আছে
+
+
+;Now easier to find, use and manage
+এখন অনুসন্ধান করা, ব্যবহার করা এবং পরিচালনা করা খুব সহজতর।
+
+
+# This is the title for a door-hanger menu that shows in the browser chrome;See what’s new
+দেখুন নতুন কি পান।
+
+
+;Frequently asked questions
+সাধারণত জিজ্ঞাস্য প্রশ্নাবলী
+
+
+;Enjoy seamless browsing between devices with Sync
+বিরামহীন ভাবে বিভিন্ন ডিভাইসে ব্রাউসিং করুন সিঙ্ক দ্বারা
+
+
+;Move or remove any button to match
+মিলের জন্য বিভিন্ন বাটন স্থানান্তর করুন বা মুছে ফেলুন।
+
+
+;How you use Firefox is unique
+আপনার ফায়ারফক্স ব্যবহারের ধরন অনন্য।
+
+
+;Add and view bookmarks from a new location
+বুকমার্ক যুক্ত করুন এবং নতুন স্থান থেকে দেখুন।
+
+
+# This is the text for a call to action that appears in the web page;Take the tour to see what’s new
+নতুন কি আছে দেখতে সফর করুন
+
+
+;It looks like you’re already using Sync
+দেখা যাচ্ছে যে আপনি সিঙ্ক ইতিমধ্যেই ব্যবহার করেছেন।
+
+
+;Create an account from the menu panel
+মেনু প্যানেল থেকে একটি অ্যাকাউন্ট তৈরি করুন।
+
+
+;Use the star to create bookmarks
+বুকমার্ক করবার জন্য স্টার ব্যবহার করুন।
+
+
+;Share your vision
+আপনার চিন্তাধারা বন্টন করুন
+
+
+# This is the label for a button that delays starting the tour;Not now
+এখনই নয়
+
+
+# This is the label for a button that starts the tour;Let’s go
+এগিয়ে চলুন
+
+
+# This is the label that represents tour step one of four;1/4
+1/4 {ok}
+
+
+# This is the label that represents tour step three of four;3/4
+3/4 {ok}
+
+
+# This is the label that represents tour step two of four;2/4
+2/4 {ok}
+
+
+# This is the label that represents tour step four of four;4/4
+4/4 {ok}
+
+
+;<span>Previous:</span> Customize
+<span>পূর্ববর্তী:</span> কাস্টমাইজ করুন
+
+
+;<span>Next:</span> Add-ons
+<span>পরবর্তী:</span> অ্যাড-অনসমূহ
+
+
+;<span>Previous:</span> Menu
+<span>আগের:</span> মেনু
+
+
+;<span>Next:</span> Bookmarks
+<span>পরবর্তী:</span>বুক্মার্কসমূহ
+
+
+;<span>Next:</span> Customize
+<span>পরবর্তী:</span> কাস্টমাইজ
+
+
+;<span>Previous:</span> Add-ons
+<span>আগের:</span> অ্যাড-অন
+
+
+;Learn about the new design
+নতুন নকশা সম্পর্কে জানুন
+
+
+# <br> tag below used for formatting only.;It starts with the new,<br> intuitive menu
+এটা শুরু হচ্ছে একটা নতুন,<br> নিজে থেকেই বুঝে নেওয়া যাবে এমন মেনু দিয়ে
+
+
+;The features you use most, all in one place
+যে বৈশিষ্ট্যগুলো আপনি সর্বাধিক ব্যবহার করেন, সেগুল সব এক জায়গাতেই আছে
+
+
+;How you use the Web is unique
+আপনার ওয়েব ব্যবহারের ধরন অনন্য।
+
+
+;Get started with Sync
+সিঙ্ক দিয়ে শুরু করুন
+
+
+;Putting your privacy first
+আপনার গোপনীয়তাকে প্রথমে রেখে
+
+
+;Where did my add-on bar go?
+আমার অ্যাড-অনের বারটি কোথায় গেলো?
+
+
+;Your favorite features, all in one place
+আপনার প্রিয় বৈশিষ্ট্যসমূহ, সমস্তকিছু এক জায়গায়
+
+
+;When you use Firefox, you help shape the future of the Web.
+আপনি যখন Firefox ব্যবহার করছেন, তখন আপনি ওয়েবের ভবিষ্যৎ রূপদানে সাহায্য করছেন।
+
+
+;Start browsing
+ব্রাউজিং শুরু করুন
+
+
+# <br> tag below used for formatting only.;Your favorite sites<br> are closer than ever
+আগের চেয়ে কাছাকাছি <br> আপনার প্রিয় সাইটগুলি
+
+
+;Helps you do just about anything online
+অনলাইনে কিছু করতে আপনাকে সাহায্য করে
+
+
+;Want to connect another device?
+অন্য ডিভাইসের সঙ্গে সংযোগ স্থাপন করতে চান?
+
+
+;What kind of Web do you want?
+আপনি কি ধরনের ওয়েব চান?
+
+
+# <br> tag below used for formatting only.;It starts with the redesigned,<br> intuitive menu
+এটা শুরু হচ্ছে একটা নতুন,<br> স্বজ্ঞাত এমন মেনু দিয়ে
+
+
+;Easy to find, use and manage
+খুঁজে পাওয়া, ব্যবহার করা এবং পরিচালনা করা সহজ
+
+
+;Keep your Firefox in Sync
+আপনার Firefox কে সিঙ্কে রাখুন
+
+
+;Access your bookmarks, passwords and more from any device.
+আপনার বুকমার্ক, পাসওয়ার্ড এবং আরোও অনেক কিছু অন্য ডিভাইস থেকে ব্যবহার করুন।
+
+

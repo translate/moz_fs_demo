@@ -1,0 +1,186 @@
+;Firefox for desktop
+Остуол көмпүүтэригэр аналлаах Firefox
+
+
+# New main title after Fall Campaign;Take Control.<br> Choose Firefox.
+Take Control.<br> Choose Firefox.
+
+
+# Old main title;Choose Independent.
+Choose Independent.
+
+
+# Old main title;Choose Firefox.
+Choose Firefox.
+
+
+;Different by design
+Эгэлгэ тас көстүүлээх
+
+
+;Proudly<br />non-profit
+Босхо<br />браузер
+
+
+;Innovating<br />for you
+Эйиэхэ<br />анаммыт
+
+
+;Fast, flexible,<br />secure
+Түргэн, имигэс<br />бигэ
+
+
+;As a non-profit, we’re free to innovate on your behalf without any pressure to compromise. You’re going to love the difference.
+Барыыһы сырсыбат тэрилтэ буоларбыт быһыытынан сайдарбытыгар көҥүлбүт, кимиэхэ да үҥпэппит-сүктүбэппит. Бу уратыбытын Эн сөбүлүөҥ.
+
+
+;Firefox screenshot
+Firefox скриншота
+
+
+# New second scene (displayed after visitor presses the download button) for mobile download;Get Firefox everywhere
+Get Firefox everywhere
+
+
+# New second scene (displayed after visitor presses the download button) for mobile download;While it installs, add it to your Android and iOS devices.
+While it installs, add it to your Android and iOS devices.
+
+
+;Thanks for downloading Firefox!
+Firefox браузеры талбыккар махтанабыт!
+
+
+;Start the process by clicking Run.
+«Ыыт» тимэҕи баттааҥҥын саҕалаа.
+
+
+;Your download should begin automatically. If not, <a id="%s" href="">click here</a>. It could take a few minutes, but it’s worth the wait.
+Хачайдааһын бэйэтэ саҕаланыахтаах. Саҕаламматаҕына, <a id="%s" href="">маны баттаа</a>. Баҕар өр соҕус хачайданыа, ол гынан баран кэмсиниэҥ суоҕа.
+
+
+;When prompted, drag the Firefox icon into the image of your Applications folder.
+Санатыы таҕыстаҕына Firefox ойуучаанын (иконкатын) «Бырагырааммаларыҥ» паапкатыгар угаар.
+
+
+;Click Run to launch the Mozilla Firefox setup wizard. Then, just follow the steps (we've made the process as painless as possible).
+«Толор» тимэҕи баттааҥҥын Mozilla Firefox-у туруорар маастары ыыт. Онтон тахсан иһэр ыйыылары-кэрдиилэри батыс (ону отой судургу гынныбыт).
+
+
+;Drag the Firefox icon from the Applications folder into the dock. Then, just click on Firefox whenever you want to use the web!
+Firefox ойуучаанын «Бырагырааммаларыҥ» паапкатыттан Dock​​-ка көһөр. Онтон, ситимҥэ киириэххин баҕардыҥ да, Firefox-у баттыыр буолаар.
+
+
+;Now you’re ready to leap boldly into a new era of Web surfing. Double-click on the Firefox icon whenever you want to go online.
+Ситими хаардыы кэһэр толору кыахтанныҥ. Ситимҥэ киириэххин баҕардыҥ да Firefox ойуучаанын иккитэ баттыыр буолаар.
+
+
+;1
+1 {ok}
+
+
+;2
+2 {ok}
+
+
+;3
+3 {ok}
+
+
+# file <title> tag;Mozilla Firefox Web Browser
+Mozilla Firefox веб-браузер
+
+
+;Sorry, Firefox is currently unsupported by iOS devices.
+Хомойуох иһин, Firefox-у iOS тэриллэр билигин өйүүр кыахтара суох.
+
+
+;Congrats! You’re using the latest version of Firefox.
+Эҕэрдэ! Эн Firefox тиһэх барылын туһанар эбиккин.
+
+
+;Looks like you’re using an older version of Firefox. Update on Google Play.
+Looks like you’re using an older version of Firefox. Update on Google Play.
+
+
+;Looks like you’re using an older version of Firefox.
+Looks like you’re using an older version of Firefox.
+
+
+;Update to stay fast and safe.
+Update to stay fast and safe.
+
+
+;Get it free on Google Play
+Google Play-тэн босхо ылыы
+
+
+;Learn more about Firefox for desktop
+Learn more about Firefox for desktop
+
+
+;Looking for mobile?
+Looking for mobile?
+
+
+;Download a fresh copy
+Download a fresh copy
+
+
+;Learn more about Firefox for Mobile
+Learn more about Firefox for Mobile
+
+
+;Learn more about Firefox OS
+Learn more about Firefox OS
+
+
+;Get Firefox on your Android device
+Get Firefox on your Android device
+
+
+;Add Firefox to your iPhone, iPad and iPod touch
+Add Firefox to your iPhone, iPad and iPod touch
+
+
+;Discover all the ways to take Firefox on the go
+Discover all the ways to take Firefox on the go
+
+
+;Learn more about Firefox on iOS
+Learn more about Firefox on iOS
+
+
+;Why don’t we offer an iOS version?
+Why don’t we offer an iOS version?
+
+
+# The following two strings are used in the <title> tag of the page;Download Firefox
+Firefox-у хачайдааһын
+
+
+# Note: 'free' as in free of charge;Free Web Browser
+Free Web Browser
+
+
+# Meta tag description (visible in the code);Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox today!
+Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox today!
+
+
+# Schema.org tag description (visible in the code);Mozilla Firefox, free web browser, is created by a global non-profit dedicated to putting individuals in control &amp; shaping the future of the web for the public good.
+Mozilla Firefox - босхо ситим-браузер, аан дойду араас муннуктарыгар олорор дьон бар-дьоҥҥо анаан айар аһаҕас тэриллэрэ.
+
+
+# This string is displayed after download only to users on release channel and latest version of Firefox.
+# Links to https://support.mozilla.org/kb/reset-firefox-easily-fix-most-problems
+# You should keep the translation consistent with Firefox:
+# http://transvision.mozfr.org/string/?entity=toolkit/chrome/global/resetProfile.dtd:refreshProfile.title&repo=beta;Give Firefox a tune up
+Give Firefox a tune up
+
+
+# This string is displayed after download only to users on release channel and latest version of Firefox.
+# Links to https://support.mozilla.org/kb/reset-firefox-easily-fix-most-problems
+# You should keep the translation consistent with Firefox:
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/safeMode.dtd:refreshProfile.label&repo=beta;Refresh Firefox
+Refresh Firefox
+
+

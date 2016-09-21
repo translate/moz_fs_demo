@@ -1,0 +1,64 @@
+# This is the string for the <title> tag on the page.;Download Firefox Developer Edition or Beta &amp; Help Determine the Next Firefox
+Download Firefox Developer Edition or Beta &amp; Help Determine the Next Firefox
+
+
+# This is the string for the <title> tag on the page.;Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
+Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
+
+
+;Download and test Firefox future releases. Experience the newest innovations with the Developer Edition or Beta builds.
+Download and test Firefox future releases. Experience the newest innovations with the Developer Edition or Beta builds.
+
+
+# This description applies to Firefox Beta;The latest features in a more stable environment
+คุณลักษณะล่าสุดในสภาพแวดล้อมที่มั่นคงมากขึ้น
+
+
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+
+
+;Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Aurora จะส่งผลตอบรับกลับไปยัง Mozilla โดยอัตโนมัติ <a href="%(link)s">เรียนรู้เพิ่มเติม</a>
+
+
+# Link to SUMO: https://support.mozilla.org/kb/will-firefox-work-my-mobile-device;Will Firefox work on my mobile device?
+Firefox จะทำงานบนอุปกรณ์พกพาของฉันได้ไหม?
+
+
+;Built for those who build the Web
+ถูกสร้างขึ้นสำหรับคนที่สร้างเว็บ
+
+
+# This description applies to Firefox Aurora;The newest innovations in an experimental environment
+นวัตกรรมใหม่ล่าสุดในสภาพแวดล้อมทดลอง
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+
+
+# This description applies to Firefox on the Release channel;Tried, tested and used by millions around the world
+ทดลอง ทดสอบ และใช้งานโดยคนนับล้านทั่วโลก
+
+
+;Learn more about Firefox Beta
+เรียนรู้เพิ่มเติมเกี่ยวกับ Firefox Beta
+
+
+;Learn more about Firefox Aurora
+เรียนรู้เพิ่มเติมเกี่ยวกับ Firefox Aurora
+
+
+;Learn more about Firefox
+เรียนรู้เพิ่มเติมเกี่ยวกับ Firefox
+
+

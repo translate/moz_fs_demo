@@ -1,0 +1,760 @@
+;Navigation
+Ger
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os;<span>for</span> Desktop
+<span>for</span> Desktop
+
+
+# Firefox family navigation menu. Main level item.;<span>for</span> Android
+<span>for</span> Android
+
+
+# Firefox family navigation menu. Main level item.;<span>for</span> iOS
+<span>for</span> iOS
+
+
+# Firefox family navigation menu. Main level item.;OS
+OS {ok}
+
+
+# Used for the navigation menu only in Firefox OS pages;TV
+TV
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1;For desktops &amp; laptops
+For desktops &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.;Overview
+Pêşdîtin
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.;Trusted
+Trusted
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.;Flexible
+Flexible
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.;Fast
+Fast
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS";About
+Derbarê me de
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS";Devices
+Devices
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS";For partners
+For partners
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS";Apps
+Apps
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Do Not Track
+Do Not Track
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Tiles
+Tiles
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Private Browsing
+Private Browsing
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO;Need help?
+Te go alîkarî pêwîst e?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;News
+News
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;For developers
+For developers
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Find My Device
+Find My Device
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.;Developers
+Pêşvebir
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new;Choose the independent browser
+Choose the independent browser
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+
+
+;Donate
+Bexş
+
+
+;Support
+Destek
+
+
+;Products
+Berhem
+
+
+;Add-ons
+Add-on
+
+
+;About Us
+Der barê me de
+
+
+;Labs
+Lab
+
+
+;skip to Navigation
+derbasî qada Gerê bibe
+
+
+;switch language
+ziman biguherîne
+
+
+;Back to home page
+Vegere serûpelê
+
+
+;About Mozilla
+Der barê Mozillayê de
+
+
+;Get Involved
+Tevli me bibe
+
+
+;Careers
+Hevparên Kar
+
+
+;Press Center
+Navenda Çapemeniyê
+
+
+;Contact Us
+Bikeve Têkiliyê
+
+
+;Other languages:
+Zimanên din:
+
+
+# Will replace "Other languages" for the footer's language switcher;Page language:
+Page language:
+
+
+# Year / Month / Day, indicate your prefered date format for your language;%Y-%m-%d
+%Y-%m-%d {ok}
+
+
+;Legal
+Legal
+
+
+# Used as link in the footer;Cookies
+Cookies
+
+
+# Used as link in the footer;Firefox Affiliates
+Firefox Affiliates
+
+
+;Legal Notices
+Hişyarkirinên Fermî
+
+
+;Privacy Policy
+Rêgezên Nepeniyê
+
+
+;Release Notes
+Nîşeyên Guhertoyê
+
+
+;Other Systems and Languages
+Pergal û Zimanên Din
+
+
+;Close
+Bigire
+
+
+;(in English)
+(bi înglîzî)
+
+
+;Return to top
+Here jorê
+
+
+;Features
+Taybetî
+
+
+;Customize
+Kesane
+
+
+;Download
+Jêbar bike
+
+
+;Previous
+Previous
+
+
+;Next
+Pêş
+
+
+# MegaBytes abbreviation;MB
+MB {ok}
+
+
+;MegaBytes
+MegaByte
+
+
+;FAQ
+PPP
+
+
+;Videos
+Vîdeo
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Ji bilî ciyê <a href="%s">not bû</a>, naveroka li ser vê malperê di bin lîsansa <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> an jî guhertoyeke nûtir de ye.
+
+
+;Report Trademark Abuse
+Binpêkirina Markeyê Rapor Bike
+
+
+;Free Upgrade
+Bilindkirina Belaş
+
+
+# social networks such as Facebook and Twitter;Follow us on:
+Me ji virê bişopînin:
+
+
+;Customize with Add-ons
+Bi Add-onsan takekes bike
+
+
+;Learn More
+Zêdetir Agahî
+
+
+# Same as previous above but with no capitalization on More;Learn more
+Learn more
+
+
+# Link used to play again an animation or a video;Replay
+Replay
+
+
+;Watch the video
+Vîdeoyê Temaşe Bike
+
+
+;Replay the video
+Replay the video
+
+
+;Share the video
+Share the video
+
+
+;WebM format
+Formata WebM
+
+
+;Ogg Theora format
+Formata Ogg Theora
+
+
+;MPEG-4 format
+Formata MPEG-4
+
+
+;Mobile
+Mobîl
+
+
+;Check out the new look and feel of Firefox.
+Xuyakirin û hesta nû ya Firefoxê bibîne.
+
+
+;View Full Site
+Malperê hemû nîşan bide
+
+
+;Download for <span>Android</span>
+Ji bo <span>Android</span>ê jêbar bike
+
+
+;Desktop
+Sermase
+
+
+;Firefox Beta for mobile
+Firefox Beta ji bo gerekan
+
+
+;Firefox for mobile
+Firefox ji bo gerekan
+
+
+;Email
+Epeyam
+
+
+;Super speed
+Leza super
+
+
+;Stunning graphics
+Grafîkên hişbir
+
+
+;The latest technologies
+Teknolojiyên dawî
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Divê bilind bikî! Di xulekekê de xwe bixe ewlekariyê. <br/> Ji bo ger û takekeskirina herî baş a webê dest bi Firefoxa xwe ya nû bike. <br/>   Lezgîn û belaş e!
+
+
+;Upgrade now
+Niha bilind bike
+
+
+;Update now
+Niha rojane bike
+
+
+;Supported Devices
+Cîhazên piþtgiriyê
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons;What’s New
+Tiştên nû
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer;Privacy
+Nepenî
+
+
+# Footer string;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Hin beşên vê naverokê ©1998–%(current_year)s aîdî nivîskarên serbixwe yên mozilla.orgê ne. Naverok bi  <a href="%(url)s">lîsansa Creative Commons</a>ê tê parastin. 
+
+
+# Footer string (will replace "Contribute to this page");Contribute to this site
+Contribute to this site
+
+
+# Footer string;Contribute to this page
+Piştgiriyê bide vê rûpelê
+
+
+# Top menu item;Mission
+Erk
+
+
+# Footer item on some pages to link to a tour of features;Tour
+Geşt
+
+
+# Footer item;Partner with Us
+Hevkariya me bike
+
+
+# Top menu item on pages like firefox/desktop/tips/;Sync
+Sync
+
+
+# Top menu item on pages like firefox/desktop/tips/;Desktop Add-ons
+Add-onên Sermaseyê
+
+
+# Top menu item on pages like firefox/desktop/tips/;Android Add-ons
+Android Add-ons
+
+
+# Top menu item on pages like firefox/desktop/tips/;Themes
+Dirb
+
+
+# Top menu item on pages like firefox/desktop/tips/;Desktop Support
+Piştgiriya Sermaseyê
+
+
+# Top menu item on pages like firefox/desktop/tips/;Android Support
+Android Support
+
+
+# Top menu item on firefox/update page;Performance
+Performans
+
+
+# Top menu item on firefox/update page;Technology
+Teknolojî
+
+
+# Top menu item on firefox/update page;Privacy &amp; Security
+Nepenî &amp; Ewlekarî
+
+
+# Top menu item on firefox/update page;Releases
+Weşanên me
+
+
+# Top menu item on firefox/update page;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page;Firefox for Organizations
+Firefox ji bo Sazî û Dezgehan
+
+
+# Top menu item on firefox/update page;Mobile Add-ons
+Add-onên Mobîlê
+
+
+# Top menu item on firefox/update page;Mobile Support
+Piştgiriya Mobîlê
+
+
+# Top menu item on firefox/update page;Blog
+Blog {ok}
+
+
+# Top menu item on firefox/update page;About Firefox
+Derbarê Firefoxê de
+
+
+# Top menu item on firefox/update page;Join Mozilla
+Beşdarî Mozillayê bibe
+
+
+# Top menu item on firefox/update page;Participate
+Bibe hevpar
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.;Volunteer
+Bibe dilxwaz
+
+
+# Top menu item on firefox/update page;Brand Toolkit
+Amûrdanka Berhemê
+
+
+# Top menu item on firefox/update page;Partnerships
+Hevparî
+
+
+# Newsletter subscription form above footer on some pages;Get Mozilla updates
+Nûkirinên Mozillayê bistîne
+
+
+# share button for social networks;Share
+Parve bike
+
+
+# footer link;Mozilla on Twitter
+Mozilla li ser Twitterê
+
+
+# footer link;Firefox on Twitter
+Firefox li ser Twitterê
+
+
+# footer link;Mozilla on Facebook
+Mozilla li ser Facebookê
+
+
+# footer link;Firefox on Facebook
+Firefox li ser Facebookê
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Forums
+Forum
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Patents
+Patents
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Leadership
+Leadership
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Governance
+Birêveberî
+
+
+# sidebar link in some /about pages (e.g. Manifesto);History
+Dîrokçe
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Our Products
+Our Products
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Software and other innovations designed to advance our mission.
+Software and other innovations designed to advance our mission.
+
+
+# sidebar link in some /about pages (e.g. Manifesto);Become a volunteer contributor in a number of different areas.
+Become a volunteer contributor in a number of different areas.
+
+
+# This is a non-visible string for blind people to indicate where the menu is;Menu
+Menu {ok}
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop);Committed to you, your privacy and an open Web
+Hebûna me ji bo te, ji bo nepeniya te û ji bo Webeke vekirî ye.
+
+
+# Common title used in Fx 10 pages;Choose Independent
+Choose Independent
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour);Please turn on JavaScript to display this page correctly.
+Please turn on JavaScript to display this page correctly.
+
+
+# Used as link to /firefox/desktop in footers on some pages;Firefox Features
+Taybetiyên Firefoxê
+
+
+# Used as link to SUMO in footers on some pages;Firefox Help
+Alîkariya Firefoxê
+
+
+;January
+January
+
+
+;February
+February
+
+
+;March
+March
+
+
+;April
+April
+
+
+;May
+May
+
+
+;June
+June
+
+
+;July
+July
+
+
+;August
+August
+
+
+;September
+September
+
+
+;October
+October
+
+
+;November
+November
+
+
+;December
+December
+
+
+;<abbr>Jan</abbr>
+<abbr>Jan</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>Feb</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>Mar</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>Apr</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>May</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>Jun</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>Jul</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Aug</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>Sep</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>Oct</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Nov</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>Dec</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+
+
+;Congrats. You’re up to date!
+Congrats. You’re up to date!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…);Format
+Şêwe
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails;Text
+Text
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form;Whoops! Be sure to enter a valid email address.
+Hahooo! Divê navnîşana e-peyamê rast be.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Ez qayîl im ku Mozilla li gorî mercên <a href="%s">vê Peymna Nepeniyê</a> agahiyên min bi kar bîne
+
+
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.;Keep up with<br> all things Firefox.
+Keep up with<br> all things Firefox.
+
+
+# This string is used for a subscription field on other pages than /newsletter/;Get Firefox news
+Nûçeyên Firefoxê bistîne
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/;YOUR EMAIL HERE
+EPEYAMA TE
+
+
+# Newsletter subscription Button;Sign Up Now
+Sign Up Now
+
+
+# Old newsletter subscription Button;Sign me up
+Min tomar bike
+
+
+;Select country
+Welatekî hilbijêre
+
+
+;Available Languages
+Zimanên heyî
+
+
+;We will only send you Mozilla-related information.
+Em ê tenê agahiyên têkildarî Mozîllayê ji te re bişînin.
+
+
+;Thanks!
+Thanks!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+
+
+# Obsolete string. Do not remove.;Thanks! Please check your inbox to confirm your subscription.
+Spas! Tika ye ji bo abonetiyê qutîka peyamên hatî kontrol bike.
+
+
+# Obsolete string. Do not remove.;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Ji bo erêkirina abonetiyê tu yê ji mozilla@e.mozilla.orgê epeyamekê bistînî. Eger peyamê nebînî, qutîka peyamên bikêrnehatî kontrol bike. Ji bo ku peyamên me bistînî pêwîst e abonetiya xwe erê bikî.
+
+
+;Read all about it in our <span>newsletter</span>
+Hemû tiştên derbarê vê de ji <span>nûçename</span>ya me bixwîne
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Ji bo rojanekirinên mehane bibe abone û ji nûçe, pêşketin û geşedanên dawî yên geroka Mozîllayê sûdê wergire. Ji bo ku em di têkiliyê de bimînin ev rêbaza herî baş e!
+
+

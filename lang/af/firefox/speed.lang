@@ -1,0 +1,48 @@
+;How fast is your Firefox?
+Hoe vinnig is Firefox vir jou?
+
+
+# Bug 957283: wording modification just for pt-BR;New Firefox is up to 7 times faster. (That’s a lot!) Check the speedometer to see if yours can keep up.
+Die nuwe Firefox is tot 7 keer vinniger. (Sommer heelwat!) Kyk by die spoedmeter of joune kan byhou.
+
+
+;Learn more
+Meer inligting
+
+
+;Old Firefox = <em>Sadface</em>
+Ou Firefox = <em>Hartseer</em>
+
+
+;New Firefox = <em>Yay!</em>
+Nuwe Firefox = <em>Jippie!</em>
+
+
+;That just isn’t going to cut it. Stop browsing in the past and <a href="%(url)s">upgrade now!</a>
+Dit gaan nie werk nie. Hou op vashou aan die verlede en <a href="%(url)s">gradeer nou op</a>!
+
+
+;Now we’re talking!
+Nou praat ons!
+
+
+;Feels better, doesn’t it? Welcome to the future of the Web. It’s nice here.
+Voel beter, nè? Welkom by die toekoms van die Web. Dis lekker hier.
+
+
+;Hey, looks like you’re using %BROWSER%. Why not grab Firefox and get up to speed.
+Dit lyk of u %BROWSER% gebruik. Kry gerus Firefox en haal in.
+
+
+;Hey, looks like you’re not using Firefox as your browser. Why not grab Firefox and get up to speed.
+Dit lyk of u nie Firefox as blaaier gebruik nie. Kry gerus Firefox en haal in.
+
+
+;New Firefox is faster, free (as always), crashes less and protects your privacy more.
+Die nuwe Firefox is vinniger, gratis (nes altyd), val minder om en beskerm privaatheid nog beter.
+
+
+;<a href="%(url)s">Upgrading</a> takes less than a minute and you won’t lose your history or bookmarks. Hooray!
+<a href="%(url)s">Gradeer op</a> in 'n japtrap. Geen geskiedenis of boekmerke sal verdwyn nie. Jippie!
+
+
